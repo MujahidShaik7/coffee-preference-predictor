@@ -1,0 +1,47 @@
+{
+  "best_model": "LogisticRegression",
+  "labels": [
+    "Americano",
+    "Cappuccino",
+    "Cold Brew",
+    "Espresso",
+    "Filter Coffee",
+    "Latte",
+    "Mocha"
+  ],
+  "test_set_metrics": {
+    "accuracy": 0.586,
+    "precision_macro": 0.5824,
+    "recall_macro": 0.5761,
+    "f1_macro": 0.5764
+  },
+  "all_model_comparison": {
+    "LogisticRegression": {
+      "accuracy": 0.586,
+      "precision_macro": 0.5824,
+      "recall_macro": 0.5761,
+      "f1_macro": 0.5764
+    },
+    "DecisionTree": {
+      "accuracy": 0.436,
+      "precision_macro": 0.3996,
+      "recall_macro": 0.4015,
+      "f1_macro": 0.3888
+    },
+    "RandomForest": {
+      "accuracy": 0.546,
+      "precision_macro": 0.5272,
+      "recall_macro": 0.4872,
+      "f1_macro": 0.4885
+    },
+    "KNN": {
+      "accuracy": 0.46,
+      "precision_macro": 0.4524,
+      "recall_macro": 0.4153,
+      "f1_macro": 0.4243
+    }
+  },
+  "train_size": 2000,
+  "test_size": 500,
+  "total_size": 2500
+}

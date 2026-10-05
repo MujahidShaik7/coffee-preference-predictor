@@ -1,0 +1,2501 @@
+strength,milk,sweetness,temperature,bitterness,creaminess,caffeine,time_of_day,flavor,experience,previous,coffee_preference
+Light,Medium,4,Cold,1,4,Low,Night,Classic,Refreshing & Cold,None,Latte
+Strong,Low,3,Cold,4,4,High,Morning,Fruity,Quick & Strong,Mocha,Espresso
+Strong,Medium,5,Iced,4,2,High,Evening,Classic,Refreshing & Cold,Cappuccino,Cold Brew
+Medium,None,1,Iced,5,4,High,Morning,Vanilla,Smooth & Relaxing,Americano,Americano
+Medium,Medium,1,Hot,3,4,Medium,Evening,Caramel,Sweet & Creamy,Latte,Latte
+Medium,Low,5,Hot,2,4,Low,Morning,Classic,Quick & Strong,None,Mocha
+Medium,High,4,Hot,3,3,Low,Morning,Fruity,Sweet & Creamy,Americano,Latte
+Light,Medium,4,Iced,1,3,Medium,Morning,Fruity,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Low,5,Hot,5,2,Medium,Afternoon,Chocolate,Sweet & Creamy,None,Mocha
+Medium,High,3,Hot,2,1,Low,Evening,Classic,Smooth & Relaxing,Cappuccino,Filter Coffee
+Strong,Medium,1,Hot,1,2,Medium,Afternoon,Caramel,Smooth & Relaxing,Espresso,Cappuccino
+Medium,High,5,Iced,3,2,High,Evening,Nutty,Sweet & Creamy,Americano,Latte
+Light,High,1,Hot,4,2,Medium,Afternoon,Caramel,Quick & Strong,None,Latte
+Medium,Medium,4,Iced,1,3,Medium,Morning,Classic,Smooth & Relaxing,Espresso,Mocha
+Light,None,2,Hot,1,3,Low,Night,Vanilla,Sweet & Creamy,Latte,Latte
+Light,High,1,Hot,3,4,Low,Afternoon,Classic,Smooth & Relaxing,None,Latte
+Medium,Low,3,Hot,3,3,Medium,Morning,Fruity,Refreshing & Cold,None,Cappuccino
+Light,None,3,Iced,1,2,High,Evening,Vanilla,Refreshing & Cold,Espresso,Cold Brew
+Strong,None,2,Iced,3,2,High,Evening,Vanilla,Smooth & Relaxing,None,Cold Brew
+Medium,Low,3,Cold,1,1,Low,Morning,Vanilla,Refreshing & Cold,None,Cold Brew
+Strong,High,5,Hot,3,2,High,Afternoon,Fruity,Smooth & Relaxing,Espresso,Latte
+Medium,High,2,Hot,1,1,High,Morning,Classic,Quick & Strong,Cold Brew,Filter Coffee
+Light,Low,1,Iced,2,5,Medium,Morning,Vanilla,Quick & Strong,Cappuccino,Cappuccino
+Light,None,4,Hot,5,4,Medium,Morning,Vanilla,Refreshing & Cold,Filter Coffee,Filter Coffee
+Strong,None,1,Cold,1,2,Medium,Afternoon,Caramel,Sweet & Creamy,None,Cold Brew
+Strong,None,5,Iced,1,4,Low,Morning,Classic,Smooth & Relaxing,None,Filter Coffee
+Light,High,5,Hot,4,4,Low,Morning,Nutty,Refreshing & Cold,None,Cappuccino
+Medium,Medium,3,Cold,4,4,Medium,Morning,Vanilla,Smooth & Relaxing,Cold Brew,Latte
+Light,Low,3,Hot,5,4,High,Morning,Vanilla,Quick & Strong,Cold Brew,Espresso
+Light,Low,5,Hot,5,5,Low,Morning,Caramel,Quick & Strong,Espresso,Espresso
+Strong,None,1,Hot,3,3,High,Morning,Classic,Smooth & Relaxing,Mocha,Filter Coffee
+Strong,None,5,Hot,5,2,Medium,Afternoon,Vanilla,Smooth & Relaxing,Espresso,Espresso
+Strong,None,3,Cold,1,1,High,Morning,Vanilla,Refreshing & Cold,None,Cold Brew
+Light,High,5,Iced,4,4,Low,Afternoon,Nutty,Sweet & Creamy,None,Mocha
+Strong,Medium,2,Hot,1,1,Medium,Morning,Caramel,Quick & Strong,Latte,Cappuccino
+Strong,Low,2,Iced,2,2,High,Night,Vanilla,Smooth & Relaxing,Latte,Cold Brew
+Strong,Medium,5,Cold,3,3,Medium,Morning,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,None,5,Iced,4,1,High,Morning,Caramel,Refreshing & Cold,Cappuccino,Filter Coffee
+Light,Medium,5,Iced,5,4,High,Morning,Classic,Sweet & Creamy,Espresso,Mocha
+Light,Medium,1,Iced,3,3,Medium,Evening,Vanilla,Refreshing & Cold,Mocha,Cold Brew
+Light,None,5,Hot,4,1,High,Morning,Vanilla,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,High,5,Hot,4,2,Medium,Morning,Vanilla,Quick & Strong,None,Cappuccino
+Strong,High,2,Iced,5,5,High,Afternoon,Chocolate,Smooth & Relaxing,None,Latte
+Strong,None,5,Cold,5,4,Low,Afternoon,Chocolate,Sweet & Creamy,Espresso,Mocha
+Strong,Low,5,Hot,2,3,Medium,Night,Classic,Refreshing & Cold,Espresso,Filter Coffee
+Light,Low,5,Cold,1,1,High,Afternoon,Chocolate,Sweet & Creamy,Espresso,Mocha
+Strong,Low,1,Hot,5,4,Low,Night,Nutty,Sweet & Creamy,Espresso,Espresso
+Light,Medium,1,Cold,5,2,High,Morning,Classic,Refreshing & Cold,None,Filter Coffee
+Strong,High,4,Hot,3,2,Low,Afternoon,Caramel,Sweet & Creamy,Cold Brew,Mocha
+Medium,High,1,Hot,1,2,High,Night,Classic,Sweet & Creamy,Espresso,Mocha
+Light,High,1,Iced,3,1,Low,Morning,Fruity,Refreshing & Cold,Americano,Cold Brew
+Light,Medium,4,Hot,2,5,Medium,Afternoon,Caramel,Sweet & Creamy,Cold Brew,Mocha
+Light,Medium,1,Hot,5,3,Low,Morning,Vanilla,Smooth & Relaxing,Latte,Latte
+Strong,Medium,4,Hot,1,3,Medium,Afternoon,Caramel,Smooth & Relaxing,Espresso,Latte
+Medium,Low,3,Iced,2,3,High,Afternoon,Caramel,Sweet & Creamy,Latte,Latte
+Medium,Medium,3,Iced,3,2,Medium,Evening,Caramel,Refreshing & Cold,None,Cold Brew
+Strong,High,3,Hot,3,5,Medium,Morning,Chocolate,Quick & Strong,None,Cappuccino
+Light,Low,2,Hot,4,2,High,Morning,Fruity,Refreshing & Cold,None,Cold Brew
+Strong,Medium,1,Hot,3,2,High,Night,Fruity,Refreshing & Cold,Latte,Cold Brew
+Light,Low,4,Iced,2,1,Medium,Afternoon,Fruity,Quick & Strong,Cappuccino,Cold Brew
+Strong,Medium,5,Cold,5,5,Low,Morning,Vanilla,Smooth & Relaxing,Espresso,Latte
+Light,Medium,3,Hot,2,1,High,Morning,Caramel,Quick & Strong,Latte,Latte
+Strong,Medium,3,Hot,2,2,High,Afternoon,Caramel,Sweet & Creamy,Cold Brew,Mocha
+Medium,Low,1,Hot,5,2,High,Afternoon,Caramel,Refreshing & Cold,None,Americano
+Medium,Medium,5,Cold,2,2,Medium,Afternoon,Caramel,Quick & Strong,Americano,Cold Brew
+Medium,None,4,Hot,2,1,Low,Night,Classic,Smooth & Relaxing,Latte,Filter Coffee
+Medium,Low,1,Iced,3,4,High,Afternoon,Vanilla,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,High,4,Iced,3,5,Low,Evening,Classic,Smooth & Relaxing,Mocha,Mocha
+Medium,High,5,Hot,5,4,High,Morning,Chocolate,Quick & Strong,Espresso,Mocha
+Strong,High,3,Hot,2,5,Medium,Evening,Caramel,Quick & Strong,Mocha,Mocha
+Light,High,5,Hot,1,2,Low,Morning,Vanilla,Sweet & Creamy,Filter Coffee,Mocha
+Light,High,5,Cold,2,1,Medium,Afternoon,Nutty,Refreshing & Cold,Espresso,Cold Brew
+Light,None,4,Hot,4,5,High,Morning,Fruity,Refreshing & Cold,Latte,Cold Brew
+Strong,Medium,2,Hot,1,2,High,Morning,Classic,Quick & Strong,Latte,Filter Coffee
+Medium,High,5,Hot,4,3,Low,Afternoon,Nutty,Refreshing & Cold,Filter Coffee,Latte
+Light,High,2,Hot,2,1,Medium,Morning,Fruity,Quick & Strong,Espresso,Cappuccino
+Strong,Low,4,Hot,5,5,High,Afternoon,Vanilla,Smooth & Relaxing,None,Cappuccino
+Medium,High,2,Hot,5,4,Medium,Afternoon,Chocolate,Smooth & Relaxing,Latte,Cappuccino
+Light,High,1,Hot,1,3,High,Evening,Caramel,Smooth & Relaxing,Americano,Filter Coffee
+Medium,High,4,Cold,2,4,Low,Afternoon,Nutty,Quick & Strong,Cold Brew,Mocha
+Strong,Medium,3,Hot,5,5,Low,Morning,Chocolate,Quick & Strong,Espresso,Latte
+Light,Low,3,Hot,5,1,Medium,Morning,Vanilla,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,Medium,2,Hot,2,1,High,Morning,Chocolate,Sweet & Creamy,Mocha,Mocha
+Medium,High,3,Cold,3,2,Medium,Morning,Vanilla,Smooth & Relaxing,Filter Coffee,Cappuccino
+Strong,High,2,Hot,3,3,High,Morning,Caramel,Quick & Strong,Cappuccino,Latte
+Light,Low,1,Hot,1,1,Medium,Morning,Chocolate,Sweet & Creamy,Cold Brew,Filter Coffee
+Medium,High,1,Iced,3,1,High,Evening,Nutty,Smooth & Relaxing,None,Filter Coffee
+Strong,High,4,Hot,4,5,Medium,Evening,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Medium,None,2,Hot,4,2,Low,Morning,Caramel,Sweet & Creamy,Filter Coffee,Filter Coffee
+Strong,High,2,Iced,2,1,Low,Afternoon,Chocolate,Quick & Strong,Mocha,Filter Coffee
+Light,None,1,Cold,3,3,Low,Evening,Chocolate,Refreshing & Cold,Mocha,Cold Brew
+Light,None,2,Iced,1,2,High,Evening,Nutty,Quick & Strong,Cold Brew,Cold Brew
+Strong,Low,5,Iced,1,3,Medium,Afternoon,Caramel,Sweet & Creamy,Mocha,Mocha
+Strong,Medium,5,Hot,5,1,High,Afternoon,Fruity,Smooth & Relaxing,Espresso,Filter Coffee
+Medium,Medium,2,Hot,2,5,Low,Morning,Vanilla,Refreshing & Cold,None,Cappuccino
+Medium,High,3,Cold,4,2,Medium,Evening,Caramel,Sweet & Creamy,None,Latte
+Medium,High,1,Cold,5,4,Low,Morning,Fruity,Sweet & Creamy,Espresso,Filter Coffee
+Strong,Medium,2,Cold,4,2,Medium,Afternoon,Caramel,Sweet & Creamy,Americano,Latte
+Medium,Medium,5,Hot,2,2,Medium,Morning,Nutty,Quick & Strong,Filter Coffee,Cappuccino
+Light,Low,5,Hot,3,4,High,Morning,Fruity,Quick & Strong,Cappuccino,Cappuccino
+Light,Low,3,Hot,1,3,High,Afternoon,Classic,Smooth & Relaxing,Espresso,Filter Coffee
+Light,High,2,Cold,4,5,High,Night,Fruity,Refreshing & Cold,Espresso,Latte
+Strong,Medium,2,Hot,5,5,Medium,Afternoon,Caramel,Quick & Strong,Latte,Latte
+Light,Medium,5,Iced,4,2,Medium,Morning,Chocolate,Refreshing & Cold,Filter Coffee,Mocha
+Medium,None,5,Cold,4,1,Medium,Evening,Caramel,Quick & Strong,Americano,Americano
+Light,Medium,2,Cold,3,5,Medium,Afternoon,Classic,Quick & Strong,Latte,Latte
+Light,High,5,Iced,2,3,Medium,Afternoon,Fruity,Sweet & Creamy,Americano,Latte
+Medium,High,1,Hot,5,5,Low,Afternoon,Vanilla,Quick & Strong,Latte,Cappuccino
+Medium,High,1,Hot,5,4,Medium,Morning,Caramel,Sweet & Creamy,Cappuccino,Mocha
+Light,High,5,Hot,5,1,High,Morning,Caramel,Quick & Strong,Latte,Latte
+Medium,High,4,Iced,5,2,High,Morning,Nutty,Sweet & Creamy,Espresso,Filter Coffee
+Light,None,2,Hot,4,1,Low,Afternoon,Fruity,Smooth & Relaxing,None,Filter Coffee
+Medium,Medium,4,Iced,4,3,Medium,Night,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,None,5,Hot,2,5,High,Night,Fruity,Sweet & Creamy,Cold Brew,Mocha
+Medium,Low,5,Iced,2,3,Medium,Evening,Caramel,Sweet & Creamy,None,Mocha
+Light,Low,4,Hot,3,3,Low,Morning,Nutty,Sweet & Creamy,Cold Brew,Mocha
+Light,Low,1,Hot,1,4,High,Morning,Vanilla,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,Low,1,Iced,5,5,Medium,Afternoon,Caramel,Sweet & Creamy,None,Latte
+Strong,Medium,2,Hot,4,5,Medium,Afternoon,Caramel,Quick & Strong,Americano,Latte
+Strong,Medium,4,Cold,5,5,Medium,Afternoon,Classic,Smooth & Relaxing,Cold Brew,Cappuccino
+Strong,High,2,Cold,2,5,High,Evening,Vanilla,Refreshing & Cold,Filter Coffee,Latte
+Medium,Low,3,Iced,4,2,Medium,Afternoon,Fruity,Smooth & Relaxing,Cappuccino,Filter Coffee
+Light,None,5,Hot,1,2,High,Evening,Nutty,Quick & Strong,Filter Coffee,Americano
+Light,High,2,Hot,5,1,Medium,Afternoon,Vanilla,Refreshing & Cold,None,Americano
+Strong,High,1,Hot,3,5,High,Morning,Classic,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,Medium,3,Iced,4,4,High,Night,Chocolate,Sweet & Creamy,Espresso,Mocha
+Light,Low,5,Hot,1,3,Low,Afternoon,Classic,Smooth & Relaxing,None,Filter Coffee
+Strong,Medium,5,Hot,2,4,High,Afternoon,Nutty,Refreshing & Cold,Cappuccino,Mocha
+Strong,None,1,Hot,2,1,Low,Morning,Chocolate,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,High,4,Hot,1,1,High,Evening,Caramel,Sweet & Creamy,None,Latte
+Medium,High,2,Hot,2,4,Medium,Evening,Classic,Smooth & Relaxing,Latte,Latte
+Medium,High,2,Hot,4,1,Low,Morning,Chocolate,Refreshing & Cold,Americano,Filter Coffee
+Strong,Medium,1,Hot,5,2,High,Night,Vanilla,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,Low,4,Iced,1,3,Medium,Evening,Fruity,Sweet & Creamy,Espresso,Latte
+Strong,Medium,4,Hot,2,3,High,Evening,Fruity,Sweet & Creamy,Americano,Latte
+Light,Low,3,Iced,4,4,Low,Morning,Chocolate,Quick & Strong,None,Mocha
+Strong,High,1,Hot,5,3,High,Morning,Fruity,Quick & Strong,Cold Brew,Espresso
+Light,Low,4,Hot,3,2,Medium,Morning,Chocolate,Quick & Strong,None,Cappuccino
+Medium,None,2,Hot,2,2,Medium,Morning,Classic,Refreshing & Cold,None,Cappuccino
+Strong,None,1,Iced,3,1,High,Evening,Chocolate,Refreshing & Cold,Mocha,Filter Coffee
+Medium,Medium,1,Hot,3,5,Medium,Evening,Vanilla,Quick & Strong,None,Latte
+Medium,High,3,Hot,5,2,Medium,Morning,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Medium,5,Hot,4,3,Medium,Afternoon,Fruity,Refreshing & Cold,None,Latte
+Strong,Medium,2,Iced,2,3,High,Afternoon,Fruity,Smooth & Relaxing,Latte,Latte
+Medium,None,1,Iced,5,2,Medium,Afternoon,Classic,Refreshing & Cold,Latte,Filter Coffee
+Strong,Medium,5,Iced,5,1,High,Morning,Chocolate,Refreshing & Cold,Mocha,Espresso
+Medium,Medium,1,Iced,1,1,High,Evening,Nutty,Smooth & Relaxing,Americano,Americano
+Medium,Low,4,Cold,5,2,Medium,Morning,Classic,Quick & Strong,Filter Coffee,Filter Coffee
+Light,High,3,Cold,4,5,Low,Afternoon,Vanilla,Refreshing & Cold,Latte,Latte
+Medium,Medium,5,Iced,4,5,Medium,Morning,Vanilla,Smooth & Relaxing,Americano,Cappuccino
+Strong,High,4,Hot,4,2,High,Morning,Vanilla,Sweet & Creamy,Americano,Latte
+Medium,Medium,1,Hot,4,4,Low,Afternoon,Vanilla,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,Low,1,Hot,3,5,Medium,Evening,Fruity,Refreshing & Cold,Espresso,Cold Brew
+Strong,Medium,5,Hot,1,3,Low,Afternoon,Fruity,Refreshing & Cold,None,Cappuccino
+Light,Low,4,Cold,2,1,High,Evening,Vanilla,Quick & Strong,Espresso,Cold Brew
+Strong,Medium,1,Cold,5,3,Medium,Morning,Vanilla,Quick & Strong,None,Espresso
+Strong,Low,1,Cold,1,1,High,Evening,Caramel,Refreshing & Cold,None,Cold Brew
+Medium,None,5,Iced,2,3,Medium,Evening,Nutty,Refreshing & Cold,Filter Coffee,Cold Brew
+Medium,Low,3,Hot,1,2,Low,Morning,Caramel,Refreshing & Cold,Americano,Filter Coffee
+Strong,None,4,Hot,5,2,High,Morning,Fruity,Sweet & Creamy,None,Filter Coffee
+Light,None,2,Hot,5,1,Low,Afternoon,Fruity,Refreshing & Cold,Mocha,Cold Brew
+Strong,High,2,Iced,4,5,High,Morning,Chocolate,Quick & Strong,Cappuccino,Cappuccino
+Medium,Low,5,Iced,1,3,Low,Morning,Nutty,Sweet & Creamy,Cold Brew,Mocha
+Strong,High,2,Hot,4,5,Low,Morning,Caramel,Smooth & Relaxing,Mocha,Latte
+Strong,High,3,Hot,3,3,Medium,Morning,Classic,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,High,1,Hot,3,5,Medium,Morning,Classic,Refreshing & Cold,Cold Brew,Latte
+Strong,Medium,3,Cold,4,4,Medium,Afternoon,Classic,Sweet & Creamy,None,Latte
+Medium,High,3,Hot,1,4,Medium,Morning,Caramel,Sweet & Creamy,Cappuccino,Latte
+Medium,High,4,Cold,4,2,Low,Night,Classic,Quick & Strong,Cappuccino,Cappuccino
+Light,High,3,Iced,1,4,Low,Morning,Classic,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,None,2,Iced,5,4,Low,Afternoon,Nutty,Refreshing & Cold,Filter Coffee,Filter Coffee
+Light,High,3,Hot,2,2,Low,Afternoon,Fruity,Smooth & Relaxing,Latte,Latte
+Light,Low,2,Hot,1,3,Medium,Morning,Vanilla,Quick & Strong,Filter Coffee,Filter Coffee
+Medium,Medium,3,Cold,4,5,Medium,Evening,Classic,Refreshing & Cold,None,Mocha
+Strong,None,1,Hot,3,3,Medium,Afternoon,Classic,Sweet & Creamy,None,Americano
+Strong,High,2,Cold,4,5,High,Evening,Chocolate,Smooth & Relaxing,Americano,Cappuccino
+Strong,High,4,Hot,5,3,Medium,Morning,Nutty,Quick & Strong,Espresso,Mocha
+Strong,High,3,Iced,4,1,Low,Evening,Vanilla,Smooth & Relaxing,None,Cappuccino
+Light,High,4,Hot,5,2,High,Morning,Chocolate,Smooth & Relaxing,Americano,Cappuccino
+Strong,High,4,Hot,4,5,Medium,Morning,Caramel,Sweet & Creamy,None,Cappuccino
+Light,Medium,2,Cold,4,1,Medium,Evening,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,Medium,3,Cold,3,4,High,Night,Chocolate,Smooth & Relaxing,Americano,Cold Brew
+Light,High,2,Iced,5,1,Medium,Morning,Nutty,Quick & Strong,Americano,Americano
+Light,High,4,Cold,4,2,Medium,Morning,Nutty,Quick & Strong,None,Cappuccino
+Strong,High,2,Hot,2,1,Low,Afternoon,Fruity,Refreshing & Cold,Cappuccino,Cold Brew
+Medium,High,5,Hot,3,1,High,Morning,Chocolate,Sweet & Creamy,Filter Coffee,Mocha
+Light,High,4,Iced,5,3,High,Afternoon,Vanilla,Sweet & Creamy,None,Latte
+Medium,None,2,Hot,2,3,Medium,Afternoon,Vanilla,Smooth & Relaxing,None,Filter Coffee
+Strong,High,2,Iced,2,3,Low,Evening,Fruity,Refreshing & Cold,Filter Coffee,Cold Brew
+Light,Low,5,Iced,4,3,High,Morning,Caramel,Smooth & Relaxing,None,Cappuccino
+Medium,Low,4,Cold,3,5,Medium,Evening,Nutty,Smooth & Relaxing,Cold Brew,Mocha
+Strong,None,5,Hot,5,4,Medium,Afternoon,Fruity,Quick & Strong,Latte,Cappuccino
+Strong,Low,1,Cold,5,1,High,Morning,Caramel,Refreshing & Cold,Filter Coffee,Filter Coffee
+Light,Medium,2,Iced,4,2,Medium,Morning,Fruity,Refreshing & Cold,Filter Coffee,Cold Brew
+Medium,Medium,4,Hot,1,3,Medium,Morning,Chocolate,Refreshing & Cold,None,Mocha
+Strong,None,3,Cold,1,5,High,Morning,Classic,Quick & Strong,Cappuccino,Cappuccino
+Light,None,1,Cold,1,1,Low,Evening,Classic,Sweet & Creamy,Filter Coffee,Filter Coffee
+Medium,Medium,5,Hot,5,4,Medium,Morning,Nutty,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,None,2,Hot,4,5,Medium,Afternoon,Caramel,Refreshing & Cold,Espresso,Cold Brew
+Light,Low,2,Iced,4,5,Medium,Afternoon,Nutty,Smooth & Relaxing,Mocha,Latte
+Medium,Medium,4,Hot,2,4,High,Afternoon,Caramel,Quick & Strong,Americano,Latte
+Medium,Low,1,Hot,5,4,Medium,Evening,Fruity,Sweet & Creamy,Filter Coffee,Filter Coffee
+Medium,Medium,3,Cold,5,3,Medium,Afternoon,Vanilla,Sweet & Creamy,Espresso,Latte
+Strong,High,3,Hot,3,3,High,Afternoon,Caramel,Quick & Strong,Cappuccino,Cappuccino
+Medium,Medium,1,Iced,3,4,Low,Afternoon,Vanilla,Quick & Strong,None,Cappuccino
+Medium,Low,4,Iced,2,3,High,Morning,Nutty,Refreshing & Cold,Mocha,Cold Brew
+Medium,High,5,Hot,4,2,Medium,Morning,Caramel,Sweet & Creamy,None,Mocha
+Light,Medium,3,Cold,3,5,Medium,Afternoon,Classic,Refreshing & Cold,Latte,Latte
+Light,High,5,Cold,3,4,Medium,Morning,Caramel,Sweet & Creamy,Mocha,Mocha
+Medium,Medium,4,Iced,5,2,Medium,Morning,Fruity,Quick & Strong,None,Americano
+Light,High,2,Iced,1,1,Medium,Morning,Nutty,Sweet & Creamy,Latte,Cappuccino
+Light,Medium,1,Hot,1,5,Low,Afternoon,Nutty,Smooth & Relaxing,Americano,Cappuccino
+Medium,High,5,Hot,3,1,High,Afternoon,Classic,Quick & Strong,Cappuccino,Cappuccino
+Light,Medium,4,Cold,5,3,Medium,Afternoon,Classic,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Medium,2,Hot,2,3,Medium,Afternoon,Caramel,Refreshing & Cold,None,Latte
+Light,Medium,1,Iced,4,2,Low,Morning,Caramel,Smooth & Relaxing,Americano,Cappuccino
+Light,High,5,Hot,4,5,Low,Night,Caramel,Refreshing & Cold,Espresso,Mocha
+Strong,High,5,Cold,1,3,Low,Evening,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Medium,None,3,Iced,4,1,High,Evening,Caramel,Smooth & Relaxing,Mocha,Americano
+Strong,High,5,Hot,5,1,Medium,Afternoon,Caramel,Refreshing & Cold,Filter Coffee,Cappuccino
+Strong,Low,5,Cold,4,2,Medium,Night,Chocolate,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,None,1,Iced,5,2,Low,Afternoon,Classic,Refreshing & Cold,Latte,Americano
+Light,Medium,5,Cold,1,3,High,Afternoon,Nutty,Quick & Strong,None,Mocha
+Light,None,1,Iced,1,1,Medium,Morning,Nutty,Smooth & Relaxing,Americano,Filter Coffee
+Light,None,2,Iced,2,2,High,Morning,Fruity,Quick & Strong,Latte,Cold Brew
+Light,High,2,Hot,5,3,Medium,Morning,Caramel,Sweet & Creamy,Latte,Latte
+Strong,High,1,Cold,2,1,Medium,Evening,Vanilla,Smooth & Relaxing,None,Cold Brew
+Light,High,5,Hot,2,3,Medium,Morning,Classic,Smooth & Relaxing,None,Cappuccino
+Light,High,3,Hot,1,3,High,Afternoon,Chocolate,Quick & Strong,Espresso,Mocha
+Strong,Medium,2,Hot,3,3,High,Afternoon,Vanilla,Refreshing & Cold,Latte,Latte
+Strong,Medium,5,Hot,3,5,Medium,Afternoon,Vanilla,Refreshing & Cold,Cappuccino,Cappuccino
+Light,Low,1,Hot,4,4,Low,Afternoon,Fruity,Smooth & Relaxing,Latte,Latte
+Light,Medium,4,Hot,1,5,Medium,Morning,Chocolate,Refreshing & Cold,Latte,Latte
+Medium,None,3,Hot,4,4,Low,Evening,Vanilla,Refreshing & Cold,Cold Brew,Cold Brew
+Medium,High,4,Hot,3,1,Medium,Afternoon,Classic,Quick & Strong,Cold Brew,Espresso
+Light,Low,5,Hot,5,1,Medium,Morning,Classic,Quick & Strong,Latte,Espresso
+Strong,Low,2,Hot,2,2,Low,Morning,Nutty,Quick & Strong,Filter Coffee,Filter Coffee
+Medium,Medium,5,Hot,5,2,High,Evening,Classic,Refreshing & Cold,None,Cappuccino
+Light,High,4,Hot,1,5,Low,Night,Fruity,Refreshing & Cold,Espresso,Mocha
+Light,High,1,Iced,5,4,High,Morning,Classic,Smooth & Relaxing,Americano,Cappuccino
+Medium,Low,3,Hot,5,3,High,Morning,Vanilla,Refreshing & Cold,Americano,Americano
+Strong,Medium,3,Hot,2,3,Low,Morning,Caramel,Sweet & Creamy,Americano,Mocha
+Strong,High,2,Iced,3,5,High,Morning,Vanilla,Sweet & Creamy,Cappuccino,Latte
+Light,Low,3,Cold,5,1,Medium,Evening,Nutty,Quick & Strong,Cold Brew,Cold Brew
+Light,Medium,1,Hot,1,4,Low,Night,Nutty,Refreshing & Cold,Cappuccino,Cappuccino
+Light,Medium,3,Hot,3,1,Low,Night,Classic,Smooth & Relaxing,None,Filter Coffee
+Strong,None,5,Hot,3,5,High,Morning,Nutty,Smooth & Relaxing,Americano,Cappuccino
+Light,High,1,Hot,3,4,Low,Morning,Chocolate,Sweet & Creamy,Latte,Mocha
+Medium,High,1,Iced,3,5,Low,Morning,Vanilla,Smooth & Relaxing,Mocha,Cappuccino
+Strong,Low,1,Hot,4,2,Low,Morning,Nutty,Sweet & Creamy,Americano,Cappuccino
+Strong,High,3,Hot,2,3,High,Afternoon,Chocolate,Refreshing & Cold,None,Cappuccino
+Strong,Medium,3,Cold,5,3,Low,Afternoon,Chocolate,Quick & Strong,Filter Coffee,Latte
+Light,High,4,Iced,5,4,High,Evening,Caramel,Refreshing & Cold,Espresso,Latte
+Strong,High,2,Iced,3,3,Low,Morning,Classic,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,High,5,Hot,2,2,High,Evening,Caramel,Sweet & Creamy,Latte,Latte
+Strong,High,1,Hot,5,1,High,Night,Nutty,Refreshing & Cold,Americano,Cappuccino
+Strong,Low,3,Hot,3,3,Medium,Evening,Caramel,Refreshing & Cold,Espresso,Cold Brew
+Light,Low,1,Hot,2,1,High,Afternoon,Caramel,Refreshing & Cold,Espresso,Americano
+Light,None,3,Hot,2,5,Medium,Morning,Chocolate,Sweet & Creamy,Mocha,Mocha
+Light,High,2,Hot,4,3,High,Evening,Classic,Smooth & Relaxing,Mocha,Cappuccino
+Light,None,1,Iced,5,2,High,Morning,Vanilla,Refreshing & Cold,None,Espresso
+Light,None,1,Cold,4,2,Medium,Morning,Nutty,Refreshing & Cold,Mocha,Cold Brew
+Strong,None,5,Cold,5,1,Medium,Evening,Chocolate,Sweet & Creamy,Filter Coffee,Americano
+Strong,Low,3,Hot,2,3,Medium,Morning,Classic,Smooth & Relaxing,Latte,Latte
+Strong,Medium,5,Hot,3,4,High,Morning,Fruity,Quick & Strong,Espresso,Cappuccino
+Light,High,4,Hot,2,4,Low,Afternoon,Fruity,Refreshing & Cold,Latte,Cappuccino
+Light,High,3,Hot,2,1,Low,Afternoon,Caramel,Sweet & Creamy,None,Mocha
+Medium,High,5,Hot,3,3,Medium,Morning,Caramel,Refreshing & Cold,Filter Coffee,Filter Coffee
+Medium,Medium,3,Hot,2,1,Medium,Afternoon,Chocolate,Quick & Strong,None,Americano
+Light,High,1,Hot,1,5,High,Morning,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Light,Medium,5,Iced,3,2,High,Night,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Strong,High,4,Hot,1,2,Medium,Afternoon,Vanilla,Sweet & Creamy,Espresso,Latte
+Strong,Medium,3,Iced,4,4,Medium,Evening,Classic,Sweet & Creamy,Mocha,Mocha
+Strong,Low,1,Hot,5,5,High,Morning,Fruity,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,Medium,5,Iced,2,2,Medium,Evening,Chocolate,Sweet & Creamy,Mocha,Mocha
+Light,None,1,Hot,1,2,High,Afternoon,Vanilla,Quick & Strong,Espresso,Americano
+Light,Low,5,Iced,5,5,Low,Afternoon,Vanilla,Refreshing & Cold,Americano,Cappuccino
+Strong,High,5,Hot,5,3,Medium,Evening,Classic,Smooth & Relaxing,Espresso,Latte
+Strong,High,5,Hot,5,1,High,Night,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Strong,None,3,Hot,4,2,High,Morning,Chocolate,Quick & Strong,Mocha,Espresso
+Medium,Medium,1,Hot,4,4,High,Morning,Vanilla,Refreshing & Cold,None,Latte
+Light,Medium,4,Iced,3,4,Low,Night,Vanilla,Sweet & Creamy,None,Latte
+Light,Medium,1,Hot,1,3,Medium,Morning,Chocolate,Sweet & Creamy,Latte,Mocha
+Medium,Low,1,Hot,3,3,Medium,Afternoon,Classic,Refreshing & Cold,Latte,Filter Coffee
+Strong,Low,1,Hot,5,1,Medium,Afternoon,Chocolate,Sweet & Creamy,Mocha,Americano
+Light,None,2,Hot,3,4,High,Morning,Caramel,Sweet & Creamy,Filter Coffee,Filter Coffee
+Medium,Medium,3,Iced,5,5,Low,Night,Fruity,Quick & Strong,None,Cappuccino
+Strong,None,1,Hot,5,2,Low,Afternoon,Chocolate,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Strong,None,4,Hot,4,5,Low,Morning,Vanilla,Refreshing & Cold,None,Cappuccino
+Strong,Medium,4,Iced,3,1,Low,Afternoon,Classic,Quick & Strong,Cold Brew,Americano
+Light,High,5,Hot,2,4,Medium,Afternoon,Nutty,Quick & Strong,None,Mocha
+Strong,High,5,Cold,2,2,High,Afternoon,Chocolate,Smooth & Relaxing,Mocha,Mocha
+Light,Low,2,Hot,3,3,High,Afternoon,Classic,Sweet & Creamy,Americano,Americano
+Medium,High,2,Hot,4,4,High,Afternoon,Nutty,Refreshing & Cold,Latte,Latte
+Medium,High,4,Iced,1,5,High,Morning,Nutty,Refreshing & Cold,Filter Coffee,Latte
+Strong,Low,5,Iced,3,1,Medium,Evening,Classic,Smooth & Relaxing,Americano,Americano
+Light,High,3,Cold,4,1,Medium,Afternoon,Nutty,Sweet & Creamy,Americano,Cappuccino
+Medium,Medium,3,Hot,1,3,High,Evening,Chocolate,Smooth & Relaxing,None,Mocha
+Light,Medium,1,Hot,4,4,Medium,Afternoon,Nutty,Smooth & Relaxing,Mocha,Filter Coffee
+Medium,High,2,Cold,3,5,Low,Evening,Caramel,Quick & Strong,Americano,Mocha
+Strong,Medium,4,Hot,4,5,High,Afternoon,Caramel,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,High,4,Hot,2,2,Low,Evening,Vanilla,Quick & Strong,Mocha,Filter Coffee
+Medium,Medium,1,Hot,5,5,Medium,Morning,Fruity,Quick & Strong,Filter Coffee,Filter Coffee
+Light,Low,1,Cold,5,1,Medium,Afternoon,Chocolate,Smooth & Relaxing,Latte,Filter Coffee
+Strong,Medium,1,Iced,1,3,Low,Evening,Caramel,Quick & Strong,Filter Coffee,Latte
+Medium,Low,4,Hot,4,3,Low,Morning,Chocolate,Sweet & Creamy,None,Latte
+Medium,High,5,Cold,3,4,High,Afternoon,Fruity,Sweet & Creamy,None,Latte
+Medium,None,2,Cold,3,3,High,Evening,Classic,Refreshing & Cold,Cappuccino,Cold Brew
+Light,None,5,Iced,4,2,Medium,Afternoon,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Medium,1,Hot,2,2,High,Afternoon,Classic,Sweet & Creamy,None,Cappuccino
+Medium,None,5,Iced,2,5,High,Afternoon,Caramel,Sweet & Creamy,Latte,Mocha
+Strong,High,4,Hot,4,1,Medium,Morning,Nutty,Quick & Strong,Latte,Cappuccino
+Strong,None,1,Hot,2,5,High,Morning,Fruity,Quick & Strong,Mocha,Cappuccino
+Strong,Medium,3,Cold,4,2,High,Morning,Vanilla,Refreshing & Cold,None,Cold Brew
+Light,Low,3,Cold,3,4,Medium,Afternoon,Caramel,Smooth & Relaxing,None,Latte
+Medium,Medium,4,Hot,3,2,Low,Evening,Fruity,Smooth & Relaxing,Americano,Cappuccino
+Strong,Medium,2,Hot,3,1,High,Morning,Caramel,Smooth & Relaxing,Americano,Filter Coffee
+Medium,High,2,Cold,3,4,Medium,Evening,Chocolate,Smooth & Relaxing,Americano,Mocha
+Light,None,2,Hot,5,1,Medium,Afternoon,Nutty,Refreshing & Cold,Espresso,Americano
+Strong,None,3,Hot,5,1,Medium,Morning,Chocolate,Smooth & Relaxing,Mocha,Espresso
+Light,None,1,Hot,2,2,Medium,Morning,Fruity,Quick & Strong,None,Americano
+Strong,None,1,Cold,3,4,Medium,Night,Classic,Quick & Strong,None,Americano
+Strong,Medium,4,Hot,3,5,Low,Night,Fruity,Smooth & Relaxing,Cold Brew,Mocha
+Medium,High,1,Iced,4,4,Low,Afternoon,Chocolate,Sweet & Creamy,Americano,Latte
+Strong,High,2,Hot,2,4,High,Morning,Vanilla,Quick & Strong,Cold Brew,Cappuccino
+Light,Medium,3,Iced,3,2,High,Afternoon,Caramel,Quick & Strong,Mocha,Cold Brew
+Strong,Medium,4,Hot,4,1,Medium,Morning,Chocolate,Refreshing & Cold,Cappuccino,Cold Brew
+Strong,Low,1,Hot,1,2,High,Night,Caramel,Refreshing & Cold,Cappuccino,Cold Brew
+Light,High,1,Hot,1,2,Low,Morning,Nutty,Quick & Strong,None,Filter Coffee
+Medium,None,5,Iced,1,2,Medium,Morning,Vanilla,Smooth & Relaxing,Mocha,Cappuccino
+Light,Medium,3,Hot,2,5,Medium,Evening,Nutty,Sweet & Creamy,Filter Coffee,Mocha
+Medium,Medium,5,Hot,4,1,Medium,Morning,Classic,Quick & Strong,Espresso,Espresso
+Strong,Medium,1,Iced,5,5,Medium,Afternoon,Vanilla,Sweet & Creamy,Americano,Latte
+Light,High,2,Hot,4,5,Medium,Morning,Nutty,Sweet & Creamy,Espresso,Latte
+Medium,None,3,Hot,4,4,Medium,Evening,Fruity,Refreshing & Cold,Filter Coffee,Cold Brew
+Strong,High,4,Hot,3,2,Medium,Morning,Fruity,Sweet & Creamy,Americano,Latte
+Light,None,2,Hot,5,5,Medium,Morning,Fruity,Refreshing & Cold,Espresso,Cappuccino
+Medium,High,2,Iced,4,4,Low,Morning,Caramel,Sweet & Creamy,Latte,Latte
+Strong,Medium,4,Iced,2,5,Medium,Afternoon,Classic,Refreshing & Cold,Latte,Mocha
+Medium,Medium,1,Iced,4,4,Medium,Afternoon,Nutty,Quick & Strong,Cappuccino,Cappuccino
+Light,Medium,3,Hot,1,5,Medium,Morning,Vanilla,Smooth & Relaxing,Cappuccino,Latte
+Light,None,3,Cold,1,5,High,Evening,Chocolate,Refreshing & Cold,Latte,Cold Brew
+Light,Low,4,Hot,2,1,High,Evening,Classic,Refreshing & Cold,Latte,Cold Brew
+Medium,Medium,3,Cold,2,5,High,Evening,Fruity,Refreshing & Cold,Americano,Latte
+Light,Low,1,Hot,1,1,High,Morning,Chocolate,Refreshing & Cold,Filter Coffee,Filter Coffee
+Light,Low,4,Iced,3,1,High,Morning,Classic,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,Medium,3,Hot,4,4,Medium,Morning,Caramel,Quick & Strong,Latte,Latte
+Strong,Low,3,Hot,2,3,Low,Afternoon,Classic,Refreshing & Cold,Americano,Filter Coffee
+Medium,None,1,Iced,3,4,High,Morning,Chocolate,Refreshing & Cold,Latte,Cold Brew
+Medium,High,1,Hot,2,5,Medium,Evening,Chocolate,Sweet & Creamy,None,Mocha
+Medium,Medium,1,Hot,5,1,Low,Morning,Chocolate,Quick & Strong,Espresso,Americano
+Medium,High,2,Cold,5,1,High,Afternoon,Chocolate,Sweet & Creamy,Espresso,Espresso
+Medium,Medium,1,Cold,4,4,High,Night,Fruity,Sweet & Creamy,Espresso,Cold Brew
+Strong,None,2,Hot,4,5,Medium,Afternoon,Classic,Quick & Strong,Espresso,Espresso
+Strong,High,4,Hot,3,2,Low,Morning,Nutty,Sweet & Creamy,Filter Coffee,Latte
+Strong,Medium,2,Hot,3,1,High,Evening,Nutty,Refreshing & Cold,None,Cold Brew
+Medium,Medium,5,Hot,2,1,Low,Morning,Caramel,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Strong,None,3,Iced,2,2,Low,Morning,Chocolate,Smooth & Relaxing,Latte,Filter Coffee
+Light,Medium,4,Hot,4,5,High,Morning,Nutty,Sweet & Creamy,Mocha,Mocha
+Light,Medium,1,Hot,3,1,Low,Night,Nutty,Smooth & Relaxing,Latte,Filter Coffee
+Medium,Medium,5,Cold,4,2,Low,Afternoon,Nutty,Smooth & Relaxing,None,Filter Coffee
+Light,High,3,Iced,3,2,Medium,Morning,Nutty,Refreshing & Cold,Espresso,Cappuccino
+Light,None,3,Hot,1,4,Low,Afternoon,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,High,4,Hot,5,5,Medium,Afternoon,Classic,Sweet & Creamy,Filter Coffee,Mocha
+Light,Medium,3,Hot,5,1,High,Morning,Chocolate,Smooth & Relaxing,Espresso,Americano
+Strong,Medium,4,Hot,1,1,Medium,Morning,Caramel,Sweet & Creamy,Mocha,Mocha
+Light,High,3,Iced,5,3,Medium,Morning,Chocolate,Refreshing & Cold,Latte,Latte
+Strong,Medium,5,Hot,5,1,Low,Afternoon,Nutty,Quick & Strong,None,Filter Coffee
+Medium,Medium,3,Hot,3,1,High,Morning,Chocolate,Quick & Strong,Latte,Espresso
+Strong,Medium,3,Cold,3,4,High,Morning,Chocolate,Refreshing & Cold,Mocha,Mocha
+Light,Low,5,Hot,1,2,Medium,Morning,Fruity,Sweet & Creamy,None,Mocha
+Strong,Low,3,Cold,2,1,Low,Afternoon,Fruity,Sweet & Creamy,None,Cold Brew
+Strong,Low,4,Hot,3,1,Low,Morning,Nutty,Smooth & Relaxing,Latte,Filter Coffee
+Strong,Medium,3,Iced,5,2,Medium,Afternoon,Vanilla,Sweet & Creamy,Latte,Cappuccino
+Medium,Medium,4,Hot,2,3,High,Morning,Vanilla,Refreshing & Cold,Cappuccino,Cappuccino
+Strong,None,3,Cold,3,3,High,Morning,Chocolate,Refreshing & Cold,None,Cold Brew
+Medium,Medium,2,Hot,5,5,Medium,Morning,Vanilla,Quick & Strong,Filter Coffee,Filter Coffee
+Medium,High,1,Cold,5,1,Low,Afternoon,Fruity,Sweet & Creamy,Espresso,Cold Brew
+Medium,High,3,Cold,5,5,Medium,Morning,Vanilla,Sweet & Creamy,Espresso,Latte
+Strong,Medium,1,Hot,3,2,Medium,Afternoon,Chocolate,Refreshing & Cold,Espresso,Filter Coffee
+Light,Low,5,Iced,1,3,Low,Afternoon,Classic,Quick & Strong,None,Filter Coffee
+Medium,Medium,5,Iced,5,5,Medium,Morning,Chocolate,Sweet & Creamy,Latte,Mocha
+Medium,Medium,1,Hot,4,1,Low,Morning,Chocolate,Refreshing & Cold,Latte,Filter Coffee
+Strong,Low,4,Cold,1,4,Medium,Morning,Chocolate,Quick & Strong,None,Mocha
+Light,High,5,Hot,1,4,Medium,Evening,Fruity,Quick & Strong,Latte,Mocha
+Light,Medium,4,Hot,3,2,High,Morning,Caramel,Smooth & Relaxing,Mocha,Latte
+Medium,Medium,3,Cold,3,5,High,Afternoon,Nutty,Smooth & Relaxing,Filter Coffee,Mocha
+Strong,Medium,3,Iced,2,4,High,Morning,Caramel,Smooth & Relaxing,Cold Brew,Cappuccino
+Strong,Medium,5,Hot,3,5,High,Evening,Fruity,Smooth & Relaxing,None,Latte
+Strong,None,3,Iced,5,4,Medium,Afternoon,Fruity,Refreshing & Cold,Filter Coffee,Cold Brew
+Medium,Medium,5,Cold,2,5,High,Evening,Vanilla,Sweet & Creamy,Cappuccino,Mocha
+Strong,Medium,4,Cold,5,1,Medium,Afternoon,Vanilla,Smooth & Relaxing,Espresso,Espresso
+Medium,Medium,5,Hot,5,1,Medium,Morning,Caramel,Sweet & Creamy,None,Cappuccino
+Strong,None,3,Hot,2,5,Medium,Evening,Fruity,Quick & Strong,Latte,Latte
+Medium,High,3,Hot,2,5,High,Afternoon,Nutty,Smooth & Relaxing,Mocha,Cappuccino
+Light,Medium,4,Cold,3,4,Medium,Evening,Caramel,Sweet & Creamy,None,Latte
+Light,High,5,Cold,1,3,High,Morning,Nutty,Refreshing & Cold,Cappuccino,Cappuccino
+Strong,Low,3,Hot,1,5,Medium,Evening,Chocolate,Quick & Strong,Filter Coffee,Mocha
+Medium,High,3,Cold,5,5,Medium,Afternoon,Classic,Refreshing & Cold,Latte,Latte
+Light,High,2,Hot,2,1,High,Evening,Classic,Refreshing & Cold,None,Cold Brew
+Strong,None,2,Hot,5,2,High,Morning,Caramel,Quick & Strong,Latte,Espresso
+Light,Medium,2,Hot,3,4,High,Afternoon,Caramel,Sweet & Creamy,Latte,Latte
+Strong,High,2,Iced,2,2,Medium,Evening,Fruity,Sweet & Creamy,Mocha,Cold Brew
+Light,Medium,4,Hot,2,1,High,Afternoon,Classic,Smooth & Relaxing,Cold Brew,Cappuccino
+Medium,Low,5,Cold,3,3,Medium,Morning,Chocolate,Refreshing & Cold,Cappuccino,Cappuccino
+Strong,Low,4,Hot,2,2,High,Morning,Vanilla,Quick & Strong,Latte,Americano
+Strong,None,2,Hot,5,3,High,Morning,Nutty,Quick & Strong,None,Americano
+Light,Low,4,Hot,2,2,Low,Morning,Chocolate,Sweet & Creamy,Latte,Mocha
+Strong,Low,2,Iced,4,5,Medium,Afternoon,Nutty,Smooth & Relaxing,Espresso,Cappuccino
+Light,Medium,1,Hot,1,1,Low,Morning,Fruity,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,Medium,1,Hot,4,3,High,Morning,Nutty,Smooth & Relaxing,Espresso,Espresso
+Light,High,3,Hot,3,3,High,Morning,Chocolate,Quick & Strong,Latte,Mocha
+Strong,High,3,Cold,1,4,High,Evening,Vanilla,Refreshing & Cold,None,Cold Brew
+Medium,High,5,Hot,1,4,Medium,Evening,Chocolate,Smooth & Relaxing,None,Mocha
+Strong,Low,5,Iced,1,4,High,Night,Fruity,Sweet & Creamy,Mocha,Mocha
+Strong,Low,5,Iced,5,4,Medium,Morning,Fruity,Quick & Strong,None,Cappuccino
+Light,Medium,1,Hot,5,5,Medium,Morning,Vanilla,Quick & Strong,Mocha,Cappuccino
+Light,Medium,4,Hot,3,2,Medium,Night,Nutty,Quick & Strong,None,Cappuccino
+Medium,Low,1,Hot,3,4,Medium,Morning,Nutty,Sweet & Creamy,Cold Brew,Filter Coffee
+Medium,Medium,5,Cold,3,4,Medium,Evening,Caramel,Quick & Strong,Filter Coffee,Mocha
+Medium,High,1,Cold,3,2,Medium,Night,Nutty,Refreshing & Cold,Cappuccino,Cold Brew
+Medium,Low,4,Hot,1,1,Low,Afternoon,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Medium,Low,3,Hot,2,2,Medium,Morning,Nutty,Quick & Strong,Cappuccino,Cappuccino
+Strong,High,4,Iced,5,3,Low,Afternoon,Nutty,Quick & Strong,Americano,Cappuccino
+Strong,Low,3,Iced,5,5,High,Afternoon,Chocolate,Sweet & Creamy,Espresso,Mocha
+Medium,Low,3,Hot,5,5,Medium,Afternoon,Fruity,Sweet & Creamy,Americano,Latte
+Light,Medium,2,Iced,5,1,High,Morning,Fruity,Sweet & Creamy,Cold Brew,Cold Brew
+Light,High,4,Hot,2,4,High,Morning,Chocolate,Smooth & Relaxing,Americano,Mocha
+Strong,Low,2,Iced,2,2,High,Morning,Classic,Sweet & Creamy,Espresso,Filter Coffee
+Strong,Medium,1,Hot,2,5,Medium,Afternoon,Chocolate,Smooth & Relaxing,Cold Brew,Latte
+Light,Low,2,Hot,5,1,High,Morning,Nutty,Quick & Strong,None,Espresso
+Strong,Medium,3,Cold,3,4,Medium,Night,Nutty,Quick & Strong,None,Cold Brew
+Strong,Low,5,Hot,5,4,Medium,Afternoon,Vanilla,Refreshing & Cold,Cold Brew,Cappuccino
+Light,None,3,Hot,3,1,High,Evening,Nutty,Sweet & Creamy,Latte,Filter Coffee
+Light,High,5,Hot,4,5,Medium,Afternoon,Classic,Refreshing & Cold,Americano,Latte
+Light,Medium,2,Hot,2,4,Medium,Morning,Vanilla,Refreshing & Cold,Latte,Latte
+Light,Medium,2,Hot,4,5,Low,Night,Caramel,Sweet & Creamy,Cold Brew,Latte
+Strong,Medium,1,Hot,3,2,Medium,Afternoon,Classic,Quick & Strong,Espresso,Espresso
+Strong,Medium,1,Hot,2,5,Medium,Morning,Vanilla,Refreshing & Cold,Latte,Latte
+Medium,High,5,Iced,1,1,Medium,Night,Chocolate,Refreshing & Cold,Espresso,Mocha
+Medium,None,2,Iced,5,2,Medium,Morning,Fruity,Smooth & Relaxing,Cappuccino,Filter Coffee
+Light,High,1,Hot,5,3,Low,Morning,Caramel,Quick & Strong,Espresso,Espresso
+Strong,Medium,3,Hot,3,3,Medium,Morning,Chocolate,Smooth & Relaxing,Espresso,Cappuccino
+Light,High,3,Cold,5,5,Medium,Morning,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Medium,1,Hot,1,1,High,Morning,Vanilla,Refreshing & Cold,Latte,Cold Brew
+Medium,Medium,1,Hot,3,1,Medium,Morning,Vanilla,Quick & Strong,None,Espresso
+Medium,Medium,3,Hot,5,3,Low,Evening,Vanilla,Quick & Strong,Cappuccino,Cappuccino
+Medium,High,5,Cold,3,4,High,Afternoon,Caramel,Refreshing & Cold,Mocha,Mocha
+Strong,Medium,4,Hot,1,2,Medium,Evening,Caramel,Smooth & Relaxing,None,Latte
+Medium,None,4,Cold,4,3,Medium,Morning,Fruity,Smooth & Relaxing,Latte,Filter Coffee
+Medium,Medium,5,Hot,3,3,High,Evening,Nutty,Smooth & Relaxing,None,Cappuccino
+Medium,High,5,Iced,4,1,Medium,Morning,Chocolate,Refreshing & Cold,Latte,Cold Brew
+Strong,Low,5,Hot,3,4,Medium,Morning,Chocolate,Quick & Strong,Americano,Mocha
+Medium,None,3,Hot,1,2,Medium,Evening,Chocolate,Smooth & Relaxing,Mocha,Filter Coffee
+Light,Medium,3,Hot,4,1,Low,Evening,Caramel,Refreshing & Cold,Cappuccino,Cappuccino
+Light,Medium,2,Iced,2,4,High,Morning,Caramel,Sweet & Creamy,Mocha,Latte
+Light,None,5,Iced,1,4,High,Afternoon,Nutty,Smooth & Relaxing,None,Mocha
+Medium,High,3,Hot,5,3,High,Morning,Caramel,Smooth & Relaxing,None,Latte
+Medium,Low,5,Cold,4,1,Medium,Afternoon,Caramel,Refreshing & Cold,None,Cold Brew
+Strong,Medium,4,Hot,1,3,Low,Afternoon,Chocolate,Refreshing & Cold,Filter Coffee,Mocha
+Medium,Medium,2,Hot,1,2,Medium,Morning,Chocolate,Quick & Strong,Filter Coffee,Filter Coffee
+Light,Low,3,Hot,2,3,Medium,Afternoon,Chocolate,Quick & Strong,None,Americano
+Strong,Low,3,Hot,4,2,High,Morning,Chocolate,Sweet & Creamy,Latte,Espresso
+Strong,Medium,3,Hot,5,5,High,Night,Nutty,Smooth & Relaxing,None,Cappuccino
+Medium,High,4,Iced,4,5,High,Morning,Vanilla,Sweet & Creamy,Mocha,Mocha
+Strong,None,5,Hot,1,1,Medium,Morning,Fruity,Sweet & Creamy,Mocha,Cold Brew
+Strong,Medium,2,Hot,1,5,Low,Morning,Classic,Quick & Strong,None,Cappuccino
+Light,High,4,Iced,2,1,Low,Morning,Classic,Quick & Strong,Filter Coffee,Filter Coffee
+Light,None,3,Iced,1,1,High,Morning,Nutty,Refreshing & Cold,Filter Coffee,Cold Brew
+Light,Low,1,Hot,5,2,High,Afternoon,Vanilla,Quick & Strong,Mocha,Espresso
+Strong,None,5,Iced,2,4,Low,Morning,Fruity,Smooth & Relaxing,None,Mocha
+Medium,High,4,Cold,1,3,Medium,Evening,Fruity,Smooth & Relaxing,None,Cappuccino
+Strong,High,1,Hot,2,1,Low,Afternoon,Chocolate,Refreshing & Cold,Espresso,Americano
+Medium,High,3,Hot,3,5,High,Morning,Caramel,Refreshing & Cold,Filter Coffee,Latte
+Light,High,3,Iced,1,4,High,Afternoon,Chocolate,Refreshing & Cold,None,Mocha
+Strong,Medium,1,Cold,5,2,High,Morning,Vanilla,Smooth & Relaxing,Cold Brew,Cappuccino
+Light,None,5,Cold,5,2,High,Afternoon,Nutty,Quick & Strong,Espresso,Espresso
+Strong,High,3,Hot,2,3,Medium,Afternoon,Nutty,Sweet & Creamy,Americano,Latte
+Light,Low,5,Hot,2,1,Medium,Morning,Classic,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,Low,4,Cold,2,1,Medium,Night,Classic,Refreshing & Cold,None,Cold Brew
+Medium,Medium,5,Iced,4,1,Medium,Afternoon,Nutty,Quick & Strong,Filter Coffee,Filter Coffee
+Light,None,5,Cold,2,1,Medium,Evening,Classic,Quick & Strong,Espresso,Espresso
+Strong,High,3,Hot,1,1,Medium,Morning,Caramel,Sweet & Creamy,None,Mocha
+Medium,Medium,5,Cold,3,1,Low,Afternoon,Caramel,Quick & Strong,None,Cold Brew
+Strong,Low,5,Hot,4,4,Medium,Afternoon,Vanilla,Sweet & Creamy,None,Mocha
+Medium,Medium,1,Iced,3,1,Medium,Morning,Vanilla,Quick & Strong,Mocha,Espresso
+Strong,None,3,Iced,4,1,High,Morning,Vanilla,Sweet & Creamy,Latte,Espresso
+Light,High,3,Cold,3,2,Low,Evening,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Light,Medium,3,Hot,3,3,Low,Evening,Fruity,Quick & Strong,Filter Coffee,Filter Coffee
+Strong,None,4,Hot,4,3,Medium,Night,Fruity,Smooth & Relaxing,None,Cappuccino
+Medium,None,2,Iced,2,1,Medium,Evening,Vanilla,Sweet & Creamy,Espresso,Espresso
+Strong,Low,3,Hot,3,4,Medium,Afternoon,Nutty,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,None,2,Hot,5,5,High,Morning,Classic,Sweet & Creamy,Mocha,Filter Coffee
+Medium,Low,2,Hot,3,1,Medium,Evening,Classic,Refreshing & Cold,Espresso,Cold Brew
+Strong,Medium,2,Iced,4,1,High,Night,Caramel,Sweet & Creamy,Cold Brew,Cold Brew
+Light,None,2,Iced,2,1,High,Morning,Caramel,Smooth & Relaxing,Latte,Filter Coffee
+Medium,None,1,Hot,2,4,High,Morning,Chocolate,Refreshing & Cold,Latte,Cold Brew
+Light,Medium,1,Iced,2,3,Medium,Evening,Fruity,Refreshing & Cold,Americano,Cold Brew
+Strong,Low,4,Cold,4,2,High,Morning,Classic,Smooth & Relaxing,Mocha,Filter Coffee
+Strong,High,5,Hot,1,2,Medium,Afternoon,Chocolate,Smooth & Relaxing,None,Mocha
+Medium,Medium,1,Iced,4,3,Low,Morning,Classic,Smooth & Relaxing,Cappuccino,Filter Coffee
+Light,Medium,2,Hot,5,5,Low,Morning,Nutty,Smooth & Relaxing,Americano,Cappuccino
+Medium,Low,4,Hot,3,3,High,Evening,Fruity,Sweet & Creamy,Mocha,Mocha
+Strong,Low,4,Iced,4,4,Medium,Afternoon,Vanilla,Smooth & Relaxing,Mocha,Cappuccino
+Light,High,4,Hot,1,2,Low,Morning,Fruity,Refreshing & Cold,Mocha,Mocha
+Medium,High,2,Hot,1,4,Medium,Morning,Fruity,Sweet & Creamy,Espresso,Latte
+Medium,High,2,Iced,3,4,Low,Evening,Caramel,Refreshing & Cold,Latte,Latte
+Strong,None,5,Iced,5,4,Low,Afternoon,Vanilla,Sweet & Creamy,Latte,Mocha
+Strong,Low,1,Cold,5,1,High,Morning,Vanilla,Smooth & Relaxing,Espresso,Cold Brew
+Medium,High,4,Cold,4,4,High,Afternoon,Fruity,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,Medium,2,Iced,1,2,Medium,Night,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Medium,2,Cold,4,5,High,Afternoon,Classic,Smooth & Relaxing,None,Cappuccino
+Strong,High,1,Cold,3,2,High,Afternoon,Classic,Smooth & Relaxing,Latte,Cappuccino
+Medium,Medium,3,Hot,2,2,High,Afternoon,Vanilla,Refreshing & Cold,Espresso,Cold Brew
+Light,Low,5,Hot,1,2,Medium,Morning,Caramel,Smooth & Relaxing,Latte,Latte
+Strong,Low,1,Iced,1,1,Medium,Morning,Chocolate,Quick & Strong,Americano,Espresso
+Medium,High,2,Cold,1,2,Medium,Afternoon,Nutty,Refreshing & Cold,None,Cold Brew
+Strong,Medium,1,Cold,3,5,Low,Afternoon,Fruity,Quick & Strong,Filter Coffee,Filter Coffee
+Medium,None,3,Iced,1,3,High,Morning,Fruity,Refreshing & Cold,Latte,Cold Brew
+Medium,None,2,Hot,1,4,Low,Morning,Fruity,Quick & Strong,Espresso,Filter Coffee
+Strong,None,5,Iced,2,4,High,Morning,Chocolate,Smooth & Relaxing,Americano,Mocha
+Strong,Medium,4,Hot,3,4,High,Morning,Fruity,Sweet & Creamy,Americano,Latte
+Light,High,3,Cold,5,3,Medium,Morning,Nutty,Quick & Strong,Latte,Cappuccino
+Medium,None,3,Hot,3,4,Medium,Afternoon,Fruity,Refreshing & Cold,Mocha,Mocha
+Strong,Medium,2,Hot,2,1,Medium,Afternoon,Classic,Smooth & Relaxing,Cold Brew,Americano
+Strong,High,2,Hot,1,4,Medium,Morning,Fruity,Refreshing & Cold,Latte,Latte
+Strong,High,5,Iced,1,1,Low,Afternoon,Caramel,Quick & Strong,Cappuccino,Mocha
+Medium,None,2,Hot,3,3,Medium,Evening,Vanilla,Quick & Strong,Cappuccino,Cappuccino
+Light,Medium,2,Cold,2,3,Medium,Night,Fruity,Quick & Strong,None,Cold Brew
+Strong,High,3,Hot,1,3,Medium,Afternoon,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Light,Low,4,Hot,1,3,Low,Morning,Fruity,Smooth & Relaxing,Espresso,Latte
+Strong,Low,4,Cold,5,5,Medium,Night,Vanilla,Refreshing & Cold,Latte,Cold Brew
+Medium,Medium,1,Hot,5,1,Medium,Night,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,High,3,Iced,3,3,Medium,Morning,Nutty,Smooth & Relaxing,None,Cappuccino
+Light,Medium,3,Hot,3,3,Medium,Afternoon,Vanilla,Sweet & Creamy,None,Latte
+Light,Low,1,Hot,5,3,Medium,Evening,Fruity,Smooth & Relaxing,Cold Brew,Filter Coffee
+Strong,Medium,3,Hot,5,3,High,Night,Nutty,Sweet & Creamy,Latte,Cappuccino
+Medium,Low,4,Cold,5,1,Low,Morning,Classic,Quick & Strong,None,Espresso
+Medium,Medium,2,Hot,1,2,Low,Afternoon,Fruity,Quick & Strong,Filter Coffee,Cappuccino
+Medium,High,4,Hot,5,1,High,Afternoon,Classic,Sweet & Creamy,Espresso,Espresso
+Strong,High,3,Hot,5,4,High,Morning,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Medium,4,Hot,3,4,Medium,Afternoon,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Light,Low,2,Hot,5,3,Medium,Morning,Classic,Refreshing & Cold,None,Americano
+Light,Low,4,Cold,2,2,Medium,Morning,Caramel,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,Medium,2,Cold,4,4,Medium,Morning,Vanilla,Quick & Strong,None,Latte
+Strong,High,3,Hot,2,4,Medium,Morning,Nutty,Smooth & Relaxing,Americano,Latte
+Strong,High,2,Iced,1,4,High,Morning,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,Medium,5,Hot,5,2,Medium,Evening,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,Low,4,Iced,4,1,Medium,Evening,Vanilla,Sweet & Creamy,Cappuccino,Cold Brew
+Medium,Medium,1,Cold,5,3,High,Afternoon,Fruity,Refreshing & Cold,Cold Brew,Cold Brew
+Medium,High,2,Hot,5,5,Medium,Morning,Fruity,Refreshing & Cold,Latte,Latte
+Strong,None,4,Hot,1,3,Medium,Morning,Fruity,Quick & Strong,Latte,Cappuccino
+Medium,Medium,1,Iced,5,1,Medium,Evening,Vanilla,Sweet & Creamy,Americano,Americano
+Medium,High,2,Cold,1,5,Medium,Morning,Classic,Quick & Strong,Latte,Latte
+Medium,Low,4,Cold,2,1,Low,Evening,Nutty,Sweet & Creamy,Latte,Cold Brew
+Light,None,2,Hot,5,2,Medium,Morning,Caramel,Sweet & Creamy,Filter Coffee,Filter Coffee
+Strong,Medium,1,Iced,4,4,High,Morning,Nutty,Quick & Strong,Mocha,Cappuccino
+Strong,Low,4,Hot,5,3,Medium,Afternoon,Vanilla,Smooth & Relaxing,None,Filter Coffee
+Medium,Medium,5,Iced,2,4,Medium,Morning,Classic,Sweet & Creamy,Espresso,Cappuccino
+Strong,None,5,Hot,2,4,Low,Evening,Classic,Quick & Strong,None,Mocha
+Light,None,2,Hot,3,2,Medium,Night,Caramel,Quick & Strong,None,Espresso
+Medium,Low,5,Hot,3,3,Low,Evening,Caramel,Smooth & Relaxing,Mocha,Mocha
+Strong,None,4,Hot,4,1,Medium,Morning,Nutty,Refreshing & Cold,Mocha,Cold Brew
+Light,Low,2,Hot,2,2,Medium,Afternoon,Vanilla,Sweet & Creamy,None,Cappuccino
+Medium,None,3,Hot,5,4,Low,Afternoon,Fruity,Smooth & Relaxing,Espresso,Filter Coffee
+Light,High,3,Hot,4,5,Medium,Morning,Chocolate,Refreshing & Cold,Latte,Latte
+Light,Medium,5,Iced,5,4,High,Evening,Nutty,Sweet & Creamy,Latte,Cappuccino
+Strong,High,4,Hot,5,1,Medium,Afternoon,Classic,Refreshing & Cold,Cappuccino,Cappuccino
+Strong,High,4,Hot,1,5,Medium,Evening,Vanilla,Quick & Strong,Mocha,Mocha
+Medium,Medium,2,Iced,4,3,Low,Morning,Chocolate,Quick & Strong,None,Filter Coffee
+Light,None,2,Hot,2,3,High,Afternoon,Caramel,Quick & Strong,Espresso,Espresso
+Medium,Medium,5,Iced,3,2,High,Morning,Nutty,Refreshing & Cold,None,Cold Brew
+Medium,Low,5,Iced,1,1,Medium,Morning,Chocolate,Quick & Strong,Espresso,Mocha
+Medium,Medium,3,Hot,5,5,High,Morning,Vanilla,Smooth & Relaxing,Cold Brew,Latte
+Medium,High,2,Hot,5,2,High,Afternoon,Classic,Refreshing & Cold,Espresso,Espresso
+Strong,Low,1,Hot,1,3,Medium,Afternoon,Caramel,Smooth & Relaxing,Espresso,Filter Coffee
+Medium,High,1,Hot,4,3,High,Afternoon,Classic,Sweet & Creamy,Filter Coffee,Cappuccino
+Light,High,4,Cold,4,3,Medium,Evening,Nutty,Sweet & Creamy,Latte,Latte
+Strong,Medium,1,Hot,4,1,Low,Night,Chocolate,Quick & Strong,Espresso,Espresso
+Strong,High,2,Cold,2,3,Medium,Morning,Caramel,Quick & Strong,Latte,Latte
+Medium,Medium,1,Hot,3,1,Medium,Morning,Vanilla,Quick & Strong,Espresso,Espresso
+Light,High,2,Cold,2,3,Medium,Evening,Caramel,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,Medium,3,Hot,5,2,Medium,Morning,Vanilla,Smooth & Relaxing,Cold Brew,Cappuccino
+Medium,None,2,Cold,1,3,Low,Morning,Chocolate,Refreshing & Cold,Filter Coffee,Cold Brew
+Strong,Medium,4,Hot,3,1,High,Afternoon,Fruity,Quick & Strong,None,Americano
+Light,Low,1,Cold,1,5,Medium,Night,Caramel,Refreshing & Cold,None,Cold Brew
+Medium,High,2,Iced,5,4,Low,Evening,Classic,Refreshing & Cold,Latte,Filter Coffee
+Light,Low,2,Hot,1,4,Medium,Morning,Caramel,Sweet & Creamy,Latte,Latte
+Medium,Medium,5,Iced,5,3,High,Morning,Nutty,Smooth & Relaxing,Espresso,Cappuccino
+Light,High,4,Hot,1,1,Medium,Night,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,Low,3,Hot,2,4,Medium,Morning,Caramel,Quick & Strong,None,Latte
+Strong,None,2,Iced,5,5,Low,Morning,Caramel,Quick & Strong,Cold Brew,Filter Coffee
+Strong,Low,3,Iced,2,4,Medium,Morning,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Strong,High,4,Hot,5,2,Low,Evening,Classic,Sweet & Creamy,Latte,Cappuccino
+Strong,High,4,Iced,4,2,High,Evening,Caramel,Sweet & Creamy,Cold Brew,Mocha
+Light,Medium,5,Hot,4,2,High,Afternoon,Chocolate,Quick & Strong,Cappuccino,Mocha
+Medium,High,5,Hot,2,4,High,Morning,Caramel,Quick & Strong,None,Cappuccino
+Medium,Medium,3,Iced,2,2,High,Morning,Caramel,Refreshing & Cold,Cappuccino,Cold Brew
+Strong,Low,4,Hot,1,4,Low,Morning,Fruity,Smooth & Relaxing,None,Latte
+Medium,High,2,Hot,1,3,Medium,Morning,Nutty,Smooth & Relaxing,Filter Coffee,Cappuccino
+Medium,Low,4,Hot,4,1,Medium,Evening,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,Low,5,Iced,4,2,Low,Evening,Nutty,Smooth & Relaxing,Espresso,Filter Coffee
+Medium,Low,1,Hot,5,3,High,Morning,Vanilla,Refreshing & Cold,Cold Brew,Filter Coffee
+Light,High,5,Iced,1,2,Medium,Afternoon,Nutty,Smooth & Relaxing,Filter Coffee,Cappuccino
+Medium,Low,5,Cold,4,1,Low,Evening,Chocolate,Refreshing & Cold,Filter Coffee,Filter Coffee
+Medium,High,2,Hot,4,3,Medium,Morning,Chocolate,Sweet & Creamy,Filter Coffee,Cappuccino
+Strong,Medium,5,Hot,1,4,Low,Morning,Caramel,Sweet & Creamy,Espresso,Latte
+Strong,None,4,Cold,1,4,Low,Afternoon,Classic,Quick & Strong,Cold Brew,Cappuccino
+Medium,Low,5,Iced,1,1,Medium,Afternoon,Caramel,Sweet & Creamy,None,Cappuccino
+Light,Low,1,Hot,1,5,High,Evening,Classic,Quick & Strong,Americano,Mocha
+Medium,Medium,2,Hot,5,2,High,Morning,Vanilla,Refreshing & Cold,Latte,Espresso
+Medium,None,2,Hot,4,1,Medium,Evening,Caramel,Smooth & Relaxing,Cappuccino,Filter Coffee
+Strong,Medium,4,Hot,4,3,Medium,Morning,Fruity,Quick & Strong,None,Americano
+Medium,None,1,Iced,4,3,Medium,Morning,Fruity,Sweet & Creamy,Latte,Filter Coffee
+Strong,Low,2,Cold,5,5,Medium,Evening,Classic,Sweet & Creamy,Latte,Mocha
+Medium,Low,4,Iced,3,2,Low,Night,Caramel,Sweet & Creamy,Cold Brew,Cold Brew
+Light,Low,3,Cold,4,4,High,Afternoon,Vanilla,Smooth & Relaxing,Espresso,Cappuccino
+Medium,Medium,1,Cold,5,2,Medium,Afternoon,Nutty,Quick & Strong,None,Espresso
+Medium,None,1,Cold,4,2,High,Morning,Classic,Quick & Strong,None,Espresso
+Strong,Medium,1,Cold,5,2,Low,Night,Caramel,Sweet & Creamy,None,Cold Brew
+Medium,Low,4,Hot,5,4,High,Night,Nutty,Sweet & Creamy,Latte,Cappuccino
+Strong,Medium,4,Iced,2,3,Low,Afternoon,Nutty,Sweet & Creamy,None,Latte
+Light,Medium,3,Hot,3,1,High,Night,Caramel,Sweet & Creamy,Mocha,Americano
+Medium,Medium,3,Iced,4,1,High,Morning,Vanilla,Sweet & Creamy,Cold Brew,Cappuccino
+Light,High,3,Iced,5,1,Medium,Morning,Caramel,Sweet & Creamy,Cold Brew,Espresso
+Strong,High,4,Iced,1,1,Medium,Morning,Classic,Quick & Strong,Americano,Americano
+Strong,Medium,1,Hot,1,4,Low,Afternoon,Nutty,Smooth & Relaxing,None,Latte
+Light,Medium,2,Hot,4,3,Low,Morning,Nutty,Quick & Strong,None,Cappuccino
+Strong,Low,3,Hot,5,2,High,Evening,Chocolate,Quick & Strong,Filter Coffee,Espresso
+Medium,Medium,1,Hot,1,2,High,Morning,Caramel,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,High,4,Hot,4,3,Medium,Night,Caramel,Quick & Strong,Mocha,Mocha
+Medium,High,2,Hot,5,1,Medium,Morning,Classic,Quick & Strong,Espresso,Espresso
+Strong,High,4,Hot,1,1,Medium,Evening,Chocolate,Sweet & Creamy,Latte,Mocha
+Medium,High,5,Hot,2,5,Low,Morning,Vanilla,Refreshing & Cold,Mocha,Mocha
+Strong,High,5,Hot,4,4,High,Afternoon,Nutty,Refreshing & Cold,Filter Coffee,Cappuccino
+Medium,High,1,Cold,1,1,Low,Evening,Nutty,Quick & Strong,Espresso,Filter Coffee
+Strong,High,5,Iced,5,2,High,Morning,Chocolate,Smooth & Relaxing,None,Mocha
+Strong,None,5,Cold,5,4,High,Night,Nutty,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Strong,High,4,Iced,3,1,Low,Night,Fruity,Refreshing & Cold,None,Cold Brew
+Strong,High,2,Iced,1,1,Medium,Morning,Classic,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,High,1,Iced,2,5,Medium,Morning,Vanilla,Smooth & Relaxing,Cold Brew,Latte
+Strong,High,4,Cold,5,2,Medium,Morning,Fruity,Quick & Strong,Filter Coffee,Cold Brew
+Medium,None,4,Cold,5,5,Medium,Evening,Caramel,Quick & Strong,Filter Coffee,Filter Coffee
+Strong,High,5,Hot,4,5,High,Morning,Nutty,Quick & Strong,Filter Coffee,Latte
+Medium,High,3,Iced,3,2,Medium,Afternoon,Classic,Refreshing & Cold,Mocha,Cold Brew
+Medium,Medium,4,Cold,2,1,High,Afternoon,Classic,Quick & Strong,Cold Brew,Cold Brew
+Medium,High,3,Hot,3,2,Medium,Morning,Caramel,Sweet & Creamy,None,Latte
+Light,Low,1,Hot,3,4,Medium,Afternoon,Caramel,Refreshing & Cold,Cold Brew,Latte
+Strong,Medium,2,Hot,2,1,High,Afternoon,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Low,2,Iced,1,3,High,Night,Vanilla,Quick & Strong,Espresso,Cold Brew
+Strong,High,5,Hot,5,2,Low,Evening,Vanilla,Sweet & Creamy,Mocha,Mocha
+Strong,Medium,2,Hot,2,4,High,Afternoon,Caramel,Smooth & Relaxing,None,Latte
+Light,Low,1,Iced,3,2,Low,Morning,Chocolate,Quick & Strong,Americano,Americano
+Medium,Medium,1,Hot,2,2,Medium,Evening,Classic,Refreshing & Cold,Mocha,Americano
+Medium,None,2,Cold,5,1,High,Afternoon,Nutty,Sweet & Creamy,None,Espresso
+Strong,None,4,Cold,3,3,Low,Evening,Caramel,Quick & Strong,Cappuccino,Cold Brew
+Strong,High,3,Iced,1,4,Medium,Morning,Classic,Refreshing & Cold,Espresso,Latte
+Medium,Low,2,Iced,4,4,High,Evening,Nutty,Smooth & Relaxing,Americano,Americano
+Light,Low,4,Iced,3,1,High,Evening,Caramel,Refreshing & Cold,Espresso,Filter Coffee
+Medium,Low,2,Hot,1,2,Medium,Morning,Caramel,Smooth & Relaxing,Cold Brew,Filter Coffee
+Light,Medium,4,Hot,2,5,Low,Morning,Nutty,Quick & Strong,Cold Brew,Latte
+Strong,Low,4,Hot,3,3,Low,Morning,Nutty,Sweet & Creamy,Mocha,Cappuccino
+Medium,Low,4,Hot,1,1,Medium,Morning,Vanilla,Sweet & Creamy,Latte,Mocha
+Light,Medium,2,Iced,2,2,Low,Afternoon,Fruity,Refreshing & Cold,None,Cold Brew
+Strong,Low,4,Hot,1,4,Medium,Afternoon,Nutty,Refreshing & Cold,Latte,Latte
+Strong,None,2,Hot,3,5,Medium,Morning,Fruity,Sweet & Creamy,None,Filter Coffee
+Strong,Low,3,Iced,5,5,High,Evening,Caramel,Smooth & Relaxing,Espresso,Cappuccino
+Medium,None,1,Hot,4,4,High,Evening,Chocolate,Refreshing & Cold,Filter Coffee,Filter Coffee
+Strong,Medium,1,Hot,4,1,Low,Evening,Caramel,Sweet & Creamy,None,Filter Coffee
+Medium,None,5,Cold,1,5,High,Morning,Classic,Quick & Strong,None,Latte
+Medium,Medium,2,Hot,2,1,High,Evening,Fruity,Refreshing & Cold,Latte,Cold Brew
+Strong,Medium,3,Hot,4,4,High,Afternoon,Fruity,Smooth & Relaxing,Americano,Cappuccino
+Light,Medium,2,Hot,1,3,High,Morning,Nutty,Quick & Strong,Espresso,Cappuccino
+Medium,High,3,Cold,4,4,Medium,Morning,Vanilla,Smooth & Relaxing,Latte,Latte
+Light,Low,3,Hot,3,1,High,Morning,Fruity,Quick & Strong,Cappuccino,Filter Coffee
+Light,Medium,3,Hot,5,1,High,Morning,Nutty,Quick & Strong,Mocha,Espresso
+Strong,High,1,Hot,1,2,Medium,Evening,Classic,Quick & Strong,Espresso,Cold Brew
+Light,High,4,Hot,3,1,Medium,Afternoon,Fruity,Quick & Strong,Mocha,Americano
+Medium,High,5,Hot,5,5,High,Morning,Chocolate,Smooth & Relaxing,Cold Brew,Cappuccino
+Medium,Low,2,Cold,3,3,High,Morning,Classic,Quick & Strong,None,Espresso
+Light,Low,1,Iced,1,2,Low,Morning,Caramel,Quick & Strong,Espresso,Filter Coffee
+Light,Low,1,Iced,2,4,Medium,Morning,Vanilla,Quick & Strong,None,Cappuccino
+Strong,Medium,1,Hot,4,1,Low,Afternoon,Nutty,Sweet & Creamy,Cold Brew,Filter Coffee
+Strong,High,2,Iced,4,5,High,Morning,Vanilla,Smooth & Relaxing,Americano,Cappuccino
+Medium,None,3,Hot,2,5,High,Afternoon,Vanilla,Smooth & Relaxing,Mocha,Mocha
+Strong,Medium,4,Hot,5,2,High,Night,Fruity,Smooth & Relaxing,Americano,Cappuccino
+Strong,High,3,Iced,3,2,Medium,Morning,Chocolate,Quick & Strong,Mocha,Mocha
+Medium,Low,4,Iced,1,4,Medium,Afternoon,Classic,Sweet & Creamy,None,Latte
+Strong,Medium,1,Hot,1,3,High,Morning,Vanilla,Smooth & Relaxing,None,Cappuccino
+Medium,Medium,3,Hot,2,1,High,Morning,Chocolate,Smooth & Relaxing,Espresso,Filter Coffee
+Medium,High,1,Hot,4,3,Medium,Morning,Caramel,Sweet & Creamy,Filter Coffee,Cappuccino
+Medium,Medium,3,Hot,2,3,Low,Afternoon,Caramel,Quick & Strong,Mocha,Latte
+Light,Medium,3,Cold,5,3,High,Morning,Fruity,Smooth & Relaxing,Espresso,Latte
+Strong,High,4,Iced,5,4,Low,Morning,Nutty,Refreshing & Cold,Cappuccino,Cappuccino
+Light,High,5,Iced,2,2,High,Morning,Fruity,Smooth & Relaxing,Latte,Mocha
+Medium,Medium,5,Hot,5,3,Medium,Evening,Fruity,Quick & Strong,Espresso,Cappuccino
+Strong,High,3,Hot,1,5,Low,Morning,Classic,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,None,1,Iced,4,2,High,Evening,Fruity,Quick & Strong,Filter Coffee,Espresso
+Strong,None,2,Cold,1,3,Medium,Night,Nutty,Smooth & Relaxing,None,Filter Coffee
+Strong,High,5,Cold,4,1,High,Evening,Vanilla,Sweet & Creamy,Latte,Cold Brew
+Strong,Medium,2,Hot,4,1,High,Morning,Chocolate,Sweet & Creamy,None,Americano
+Light,None,4,Cold,1,5,Low,Afternoon,Chocolate,Sweet & Creamy,Mocha,Mocha
+Strong,Medium,3,Hot,2,2,High,Morning,Caramel,Sweet & Creamy,Cappuccino,Latte
+Strong,Medium,3,Hot,3,3,High,Afternoon,Fruity,Smooth & Relaxing,Filter Coffee,Latte
+Light,Low,3,Hot,3,4,High,Night,Chocolate,Refreshing & Cold,Americano,Mocha
+Strong,High,4,Iced,3,3,High,Evening,Caramel,Refreshing & Cold,Filter Coffee,Latte
+Strong,Medium,2,Hot,3,5,Medium,Afternoon,Caramel,Smooth & Relaxing,Cold Brew,Latte
+Medium,High,1,Hot,4,3,Medium,Afternoon,Chocolate,Sweet & Creamy,None,Cappuccino
+Light,Medium,5,Hot,4,2,Medium,Evening,Nutty,Smooth & Relaxing,Americano,Filter Coffee
+Light,Medium,5,Iced,4,1,High,Morning,Chocolate,Quick & Strong,None,Americano
+Medium,Medium,1,Hot,1,1,Medium,Evening,Fruity,Refreshing & Cold,Cappuccino,Cold Brew
+Medium,None,5,Hot,1,1,Medium,Morning,Chocolate,Sweet & Creamy,None,Mocha
+Medium,Low,4,Hot,2,4,Medium,Night,Caramel,Sweet & Creamy,Cappuccino,Mocha
+Light,High,2,Iced,1,2,Medium,Afternoon,Fruity,Refreshing & Cold,Espresso,Cappuccino
+Light,Low,1,Hot,5,1,Medium,Morning,Nutty,Quick & Strong,None,Americano
+Medium,Medium,2,Hot,5,5,Medium,Afternoon,Classic,Refreshing & Cold,None,Cold Brew
+Strong,None,2,Iced,3,3,High,Evening,Chocolate,Smooth & Relaxing,Latte,Filter Coffee
+Medium,Medium,2,Iced,4,3,High,Afternoon,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Light,Low,4,Iced,3,5,Medium,Evening,Caramel,Refreshing & Cold,None,Latte
+Light,High,4,Iced,3,1,Low,Evening,Nutty,Smooth & Relaxing,Latte,Cappuccino
+Strong,Medium,4,Cold,4,4,High,Evening,Vanilla,Smooth & Relaxing,Cold Brew,Cappuccino
+Light,Low,5,Iced,2,5,Low,Evening,Chocolate,Quick & Strong,Americano,Mocha
+Light,Medium,2,Cold,1,2,Medium,Evening,Vanilla,Refreshing & Cold,Espresso,Cold Brew
+Light,Medium,1,Iced,4,4,Low,Morning,Nutty,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,Medium,4,Hot,2,2,High,Morning,Fruity,Quick & Strong,Cappuccino,Cappuccino
+Light,Low,5,Hot,1,3,Low,Morning,Fruity,Refreshing & Cold,Filter Coffee,Cappuccino
+Medium,None,3,Hot,5,3,Medium,Evening,Nutty,Refreshing & Cold,Latte,Filter Coffee
+Strong,Low,3,Cold,5,1,Medium,Evening,Vanilla,Smooth & Relaxing,None,Americano
+Light,None,5,Hot,1,2,High,Morning,Caramel,Refreshing & Cold,Cappuccino,Cold Brew
+Medium,None,2,Cold,3,3,High,Afternoon,Classic,Sweet & Creamy,Cold Brew,Filter Coffee
+Light,Medium,4,Iced,2,4,Medium,Afternoon,Nutty,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,High,5,Iced,4,4,Low,Afternoon,Classic,Smooth & Relaxing,Espresso,Filter Coffee
+Strong,Medium,5,Hot,4,4,Medium,Evening,Vanilla,Refreshing & Cold,Latte,Latte
+Strong,None,2,Hot,3,1,Low,Morning,Fruity,Quick & Strong,Filter Coffee,Espresso
+Medium,Low,5,Hot,2,1,High,Morning,Fruity,Sweet & Creamy,Espresso,Filter Coffee
+Strong,Medium,1,Cold,5,2,Medium,Evening,Fruity,Smooth & Relaxing,Espresso,Cold Brew
+Medium,High,1,Iced,3,3,Medium,Afternoon,Caramel,Sweet & Creamy,Espresso,Latte
+Medium,High,3,Hot,3,1,High,Evening,Chocolate,Smooth & Relaxing,Espresso,Filter Coffee
+Medium,Low,2,Iced,1,1,Low,Morning,Vanilla,Refreshing & Cold,Latte,Cold Brew
+Medium,Medium,5,Hot,2,3,Medium,Afternoon,Classic,Refreshing & Cold,None,Mocha
+Medium,High,2,Hot,5,5,Medium,Evening,Classic,Refreshing & Cold,Americano,Cappuccino
+Strong,Low,5,Hot,4,3,Medium,Afternoon,Chocolate,Quick & Strong,Americano,Mocha
+Medium,Medium,1,Iced,1,5,Medium,Evening,Caramel,Quick & Strong,Latte,Latte
+Strong,Medium,5,Hot,3,3,Low,Evening,Vanilla,Refreshing & Cold,Americano,Cappuccino
+Strong,None,2,Iced,3,3,Medium,Afternoon,Fruity,Refreshing & Cold,Cappuccino,Cold Brew
+Strong,None,3,Hot,3,4,Low,Morning,Caramel,Refreshing & Cold,Latte,Latte
+Light,High,4,Iced,3,5,Medium,Morning,Vanilla,Smooth & Relaxing,Latte,Latte
+Light,Medium,1,Hot,2,1,Medium,Evening,Chocolate,Sweet & Creamy,None,Mocha
+Strong,High,5,Hot,4,5,Low,Afternoon,Nutty,Refreshing & Cold,Latte,Latte
+Light,None,2,Hot,5,1,Low,Afternoon,Chocolate,Sweet & Creamy,Americano,Americano
+Light,Low,1,Iced,3,5,Medium,Morning,Fruity,Refreshing & Cold,None,Cold Brew
+Strong,None,2,Iced,3,5,High,Morning,Classic,Sweet & Creamy,None,Latte
+Medium,Low,5,Hot,1,3,Medium,Night,Chocolate,Sweet & Creamy,Americano,Mocha
+Light,Low,3,Iced,2,2,Medium,Afternoon,Nutty,Quick & Strong,Cold Brew,Cold Brew
+Light,Medium,3,Iced,2,5,Medium,Morning,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Light,High,3,Hot,1,3,Low,Morning,Nutty,Sweet & Creamy,Mocha,Mocha
+Light,High,5,Hot,1,5,Medium,Evening,Classic,Quick & Strong,Latte,Latte
+Light,Medium,1,Hot,4,4,Low,Morning,Chocolate,Refreshing & Cold,Cold Brew,Filter Coffee
+Light,None,3,Iced,2,3,Low,Evening,Classic,Sweet & Creamy,Filter Coffee,Filter Coffee
+Medium,Low,4,Cold,2,3,Low,Morning,Nutty,Sweet & Creamy,None,Cold Brew
+Strong,High,4,Iced,1,2,Medium,Morning,Caramel,Quick & Strong,Americano,Latte
+Medium,High,5,Hot,3,4,Medium,Morning,Chocolate,Smooth & Relaxing,Cappuccino,Mocha
+Medium,None,2,Hot,5,5,Low,Morning,Fruity,Sweet & Creamy,Latte,Latte
+Strong,Medium,1,Iced,3,4,Medium,Morning,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Low,1,Iced,5,1,Low,Afternoon,Fruity,Smooth & Relaxing,None,Filter Coffee
+Strong,Medium,5,Hot,4,4,Medium,Afternoon,Fruity,Smooth & Relaxing,Espresso,Cappuccino
+Light,None,1,Cold,3,1,Medium,Night,Fruity,Smooth & Relaxing,Mocha,Cold Brew
+Strong,Medium,2,Cold,2,4,High,Night,Caramel,Smooth & Relaxing,Filter Coffee,Latte
+Medium,High,4,Iced,5,5,Medium,Afternoon,Chocolate,Smooth & Relaxing,Cold Brew,Mocha
+Light,Medium,4,Hot,3,2,Low,Morning,Caramel,Refreshing & Cold,Latte,Filter Coffee
+Strong,High,2,Iced,2,4,Medium,Evening,Chocolate,Refreshing & Cold,Mocha,Mocha
+Strong,Medium,2,Hot,3,3,Medium,Morning,Classic,Refreshing & Cold,Filter Coffee,Filter Coffee
+Strong,High,4,Iced,4,5,Low,Afternoon,Fruity,Sweet & Creamy,Americano,Latte
+Strong,Low,3,Cold,2,2,Low,Afternoon,Fruity,Smooth & Relaxing,Espresso,Cold Brew
+Light,None,3,Iced,5,3,High,Morning,Classic,Quick & Strong,None,Americano
+Strong,High,1,Hot,4,4,High,Night,Chocolate,Refreshing & Cold,Latte,Latte
+Strong,Medium,2,Iced,5,1,Low,Morning,Vanilla,Quick & Strong,Latte,Filter Coffee
+Light,High,3,Cold,5,4,Medium,Evening,Caramel,Sweet & Creamy,Filter Coffee,Mocha
+Medium,Medium,3,Cold,4,3,High,Morning,Nutty,Quick & Strong,Mocha,Americano
+Strong,None,5,Iced,4,2,High,Morning,Caramel,Quick & Strong,Espresso,Espresso
+Medium,High,5,Hot,5,3,Low,Afternoon,Nutty,Sweet & Creamy,Latte,Latte
+Strong,None,5,Hot,2,2,Low,Morning,Caramel,Sweet & Creamy,Espresso,Mocha
+Light,High,5,Iced,1,1,Low,Morning,Chocolate,Refreshing & Cold,None,Mocha
+Light,Medium,2,Hot,5,5,Medium,Morning,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,None,5,Iced,2,3,Low,Morning,Chocolate,Smooth & Relaxing,Espresso,Mocha
+Light,Medium,5,Cold,2,3,High,Afternoon,Classic,Quick & Strong,Latte,Latte
+Light,Medium,4,Hot,3,5,Low,Night,Classic,Refreshing & Cold,None,Mocha
+Strong,Medium,2,Iced,1,4,Medium,Morning,Vanilla,Smooth & Relaxing,Americano,Latte
+Medium,High,5,Iced,1,2,Medium,Morning,Chocolate,Quick & Strong,Espresso,Mocha
+Strong,Medium,2,Hot,4,2,Low,Afternoon,Vanilla,Sweet & Creamy,Latte,Cappuccino
+Strong,Medium,5,Iced,1,3,High,Evening,Caramel,Smooth & Relaxing,Filter Coffee,Latte
+Light,Low,4,Hot,2,5,High,Morning,Vanilla,Refreshing & Cold,Latte,Latte
+Strong,Low,5,Hot,3,4,Low,Morning,Chocolate,Smooth & Relaxing,Cold Brew,Cappuccino
+Medium,Medium,2,Hot,4,3,High,Evening,Fruity,Quick & Strong,None,Cappuccino
+Light,High,2,Iced,2,4,Medium,Evening,Chocolate,Refreshing & Cold,Mocha,Mocha
+Light,High,4,Cold,3,1,Low,Afternoon,Fruity,Smooth & Relaxing,Mocha,Filter Coffee
+Light,Medium,5,Iced,4,1,Medium,Morning,Nutty,Sweet & Creamy,Mocha,Mocha
+Light,Low,4,Hot,2,1,High,Night,Caramel,Smooth & Relaxing,Latte,Filter Coffee
+Medium,Low,4,Hot,1,3,Medium,Morning,Nutty,Quick & Strong,Cold Brew,Latte
+Medium,Medium,2,Hot,2,4,High,Morning,Fruity,Refreshing & Cold,Filter Coffee,Cold Brew
+Light,Low,2,Hot,3,5,Medium,Morning,Caramel,Sweet & Creamy,Espresso,Latte
+Medium,Medium,4,Iced,5,4,Medium,Evening,Vanilla,Quick & Strong,Filter Coffee,Latte
+Strong,Low,2,Hot,3,1,Medium,Morning,Caramel,Sweet & Creamy,Espresso,Espresso
+Light,Low,2,Cold,5,2,Medium,Morning,Caramel,Smooth & Relaxing,Cold Brew,Filter Coffee
+Strong,Medium,2,Hot,2,5,Medium,Morning,Fruity,Sweet & Creamy,None,Latte
+Strong,High,5,Hot,5,4,Medium,Afternoon,Caramel,Sweet & Creamy,None,Mocha
+Strong,None,3,Hot,2,5,High,Morning,Classic,Refreshing & Cold,None,Cold Brew
+Light,Medium,1,Hot,5,2,Medium,Night,Classic,Smooth & Relaxing,None,Filter Coffee
+Medium,Low,1,Iced,2,4,Medium,Afternoon,Caramel,Sweet & Creamy,Filter Coffee,Latte
+Light,None,1,Hot,1,5,High,Evening,Vanilla,Quick & Strong,Mocha,Cappuccino
+Light,Low,2,Cold,4,1,Medium,Night,Caramel,Sweet & Creamy,Espresso,Filter Coffee
+Medium,Medium,4,Iced,1,5,Medium,Afternoon,Classic,Smooth & Relaxing,Espresso,Mocha
+Strong,Low,1,Hot,3,2,Medium,Afternoon,Nutty,Smooth & Relaxing,Cappuccino,Filter Coffee
+Light,Medium,5,Hot,2,1,Low,Morning,Vanilla,Refreshing & Cold,Filter Coffee,Cold Brew
+Light,Medium,5,Hot,4,3,Medium,Evening,Fruity,Smooth & Relaxing,Cold Brew,Cappuccino
+Strong,Medium,5,Hot,1,1,High,Afternoon,Fruity,Smooth & Relaxing,None,Cappuccino
+Medium,Medium,2,Hot,4,3,Medium,Morning,Chocolate,Quick & Strong,Cappuccino,Filter Coffee
+Strong,Medium,3,Hot,5,4,Low,Morning,Nutty,Sweet & Creamy,Americano,Cappuccino
+Strong,High,5,Hot,1,1,Low,Evening,Fruity,Refreshing & Cold,None,Cold Brew
+Light,Medium,5,Cold,2,3,Low,Morning,Vanilla,Refreshing & Cold,Americano,Latte
+Medium,Low,2,Cold,2,1,Low,Evening,Fruity,Sweet & Creamy,Cappuccino,Latte
+Medium,Low,2,Hot,1,2,High,Evening,Vanilla,Refreshing & Cold,Americano,Cold Brew
+Medium,High,5,Hot,2,2,Medium,Afternoon,Nutty,Sweet & Creamy,Espresso,Mocha
+Strong,Medium,3,Hot,5,4,High,Morning,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Medium,High,2,Hot,2,1,Low,Morning,Chocolate,Smooth & Relaxing,Mocha,Filter Coffee
+Medium,High,1,Hot,2,3,High,Evening,Caramel,Sweet & Creamy,Filter Coffee,Latte
+Strong,Medium,1,Hot,3,2,Medium,Night,Fruity,Refreshing & Cold,None,Cold Brew
+Strong,None,1,Iced,4,4,Medium,Afternoon,Fruity,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Medium,3,Cold,2,3,High,Evening,Vanilla,Quick & Strong,Cold Brew,Cold Brew
+Light,None,3,Cold,3,5,Low,Morning,Chocolate,Quick & Strong,None,Mocha
+Medium,High,1,Hot,5,3,Medium,Afternoon,Chocolate,Smooth & Relaxing,Latte,Cappuccino
+Medium,Medium,5,Cold,1,3,High,Morning,Chocolate,Refreshing & Cold,Latte,Latte
+Medium,None,1,Cold,3,5,High,Morning,Chocolate,Refreshing & Cold,Filter Coffee,Cold Brew
+Strong,Medium,3,Hot,1,3,High,Morning,Fruity,Smooth & Relaxing,Mocha,Mocha
+Medium,High,5,Iced,1,3,Medium,Afternoon,Nutty,Quick & Strong,Filter Coffee,Mocha
+Strong,High,3,Iced,5,2,Low,Morning,Caramel,Smooth & Relaxing,Americano,Cappuccino
+Light,Low,1,Iced,4,4,Medium,Morning,Classic,Quick & Strong,Espresso,Americano
+Strong,Low,1,Cold,4,3,High,Morning,Nutty,Smooth & Relaxing,None,Filter Coffee
+Light,High,4,Iced,5,2,Medium,Morning,Nutty,Quick & Strong,Espresso,Filter Coffee
+Medium,Low,4,Hot,4,4,High,Morning,Caramel,Smooth & Relaxing,None,Filter Coffee
+Strong,Low,5,Hot,1,3,Medium,Evening,Vanilla,Quick & Strong,Cold Brew,Cold Brew
+Medium,Medium,5,Cold,4,1,Medium,Morning,Vanilla,Refreshing & Cold,None,Cappuccino
+Strong,Low,1,Hot,4,5,Low,Evening,Fruity,Sweet & Creamy,Latte,Cappuccino
+Medium,Medium,5,Hot,1,2,High,Evening,Chocolate,Refreshing & Cold,Cold Brew,Cold Brew
+Medium,Medium,2,Hot,3,3,High,Night,Chocolate,Sweet & Creamy,Mocha,Mocha
+Light,High,5,Hot,2,2,High,Evening,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Light,High,3,Hot,3,4,High,Evening,Caramel,Smooth & Relaxing,Filter Coffee,Cappuccino
+Strong,Medium,1,Hot,1,5,High,Morning,Fruity,Refreshing & Cold,Mocha,Mocha
+Strong,Medium,5,Hot,4,1,Medium,Night,Caramel,Sweet & Creamy,Latte,Americano
+Strong,Low,5,Iced,4,4,Medium,Morning,Fruity,Smooth & Relaxing,Latte,Latte
+Strong,Low,5,Hot,5,1,Medium,Evening,Nutty,Refreshing & Cold,Filter Coffee,Americano
+Medium,Medium,3,Cold,5,4,High,Morning,Caramel,Smooth & Relaxing,Filter Coffee,Latte
+Medium,Medium,4,Cold,2,1,High,Morning,Fruity,Smooth & Relaxing,Mocha,Cold Brew
+Medium,High,5,Cold,2,5,High,Afternoon,Caramel,Refreshing & Cold,Espresso,Mocha
+Strong,Medium,3,Hot,3,2,Low,Morning,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Low,3,Cold,2,1,Medium,Morning,Chocolate,Sweet & Creamy,Mocha,Mocha
+Light,Medium,3,Hot,4,3,Medium,Afternoon,Chocolate,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,Low,2,Hot,1,3,High,Evening,Fruity,Smooth & Relaxing,Cappuccino,Filter Coffee
+Light,Low,1,Cold,5,2,Low,Morning,Vanilla,Sweet & Creamy,Cappuccino,Cold Brew
+Strong,Low,3,Hot,1,5,Medium,Evening,Chocolate,Smooth & Relaxing,Espresso,Mocha
+Medium,Medium,3,Cold,4,5,High,Afternoon,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Medium,High,5,Hot,1,5,High,Morning,Chocolate,Refreshing & Cold,Cappuccino,Latte
+Light,Medium,2,Hot,4,5,Medium,Morning,Fruity,Sweet & Creamy,Espresso,Latte
+Light,High,2,Iced,3,1,Low,Morning,Classic,Refreshing & Cold,Filter Coffee,Filter Coffee
+Medium,High,2,Hot,3,4,High,Morning,Fruity,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,Medium,5,Cold,4,3,Medium,Evening,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Strong,High,4,Hot,5,5,Medium,Morning,Vanilla,Quick & Strong,None,Cappuccino
+Strong,Low,3,Iced,3,4,Medium,Night,Vanilla,Quick & Strong,Cappuccino,Cappuccino
+Strong,Low,4,Iced,3,2,Medium,Afternoon,Fruity,Refreshing & Cold,Americano,Cold Brew
+Medium,Low,3,Hot,3,5,Medium,Evening,Fruity,Quick & Strong,None,Cappuccino
+Light,Medium,5,Hot,3,4,Medium,Morning,Nutty,Smooth & Relaxing,Filter Coffee,Mocha
+Light,High,2,Hot,4,1,Medium,Morning,Chocolate,Smooth & Relaxing,Mocha,Mocha
+Medium,Medium,2,Hot,4,5,Medium,Afternoon,Chocolate,Smooth & Relaxing,None,Cappuccino
+Light,High,2,Iced,4,4,Low,Morning,Vanilla,Smooth & Relaxing,Filter Coffee,Latte
+Light,Low,1,Iced,4,4,Low,Morning,Vanilla,Smooth & Relaxing,Espresso,Filter Coffee
+Strong,Medium,1,Iced,1,5,High,Morning,Fruity,Quick & Strong,Latte,Latte
+Light,Low,1,Hot,2,2,High,Afternoon,Chocolate,Sweet & Creamy,None,Americano
+Strong,Low,1,Iced,3,3,Low,Night,Vanilla,Smooth & Relaxing,Latte,Filter Coffee
+Strong,Medium,5,Cold,2,1,Medium,Evening,Chocolate,Sweet & Creamy,Latte,Cold Brew
+Light,Medium,1,Cold,5,5,High,Evening,Caramel,Quick & Strong,None,Latte
+Medium,Low,4,Cold,5,3,High,Morning,Nutty,Quick & Strong,Americano,Espresso
+Light,Low,4,Iced,4,1,Low,Afternoon,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Medium,2,Hot,4,2,High,Afternoon,Caramel,Sweet & Creamy,Latte,Filter Coffee
+Light,Low,3,Cold,5,4,Medium,Evening,Chocolate,Quick & Strong,None,Mocha
+Medium,Low,2,Hot,2,5,Low,Morning,Nutty,Sweet & Creamy,Filter Coffee,Cappuccino
+Light,Medium,5,Cold,5,1,Low,Afternoon,Nutty,Quick & Strong,Mocha,Espresso
+Light,High,4,Cold,3,5,High,Morning,Classic,Smooth & Relaxing,None,Mocha
+Medium,High,5,Hot,5,5,High,Afternoon,Fruity,Refreshing & Cold,Mocha,Mocha
+Light,High,1,Hot,1,2,Low,Afternoon,Nutty,Quick & Strong,None,Latte
+Light,Low,5,Hot,5,4,High,Afternoon,Nutty,Refreshing & Cold,None,Cappuccino
+Light,Medium,5,Iced,1,2,Low,Morning,Caramel,Refreshing & Cold,Filter Coffee,Mocha
+Medium,Low,4,Hot,2,5,Medium,Morning,Classic,Smooth & Relaxing,Americano,Mocha
+Light,Medium,5,Iced,4,2,Medium,Morning,Fruity,Quick & Strong,None,Cappuccino
+Light,None,3,Cold,3,1,Medium,Evening,Vanilla,Smooth & Relaxing,None,Cold Brew
+Strong,High,4,Hot,3,4,Medium,Evening,Vanilla,Refreshing & Cold,Filter Coffee,Mocha
+Light,Medium,3,Hot,5,4,High,Afternoon,Chocolate,Quick & Strong,Mocha,Mocha
+Medium,None,5,Hot,3,3,Low,Night,Chocolate,Smooth & Relaxing,Mocha,Mocha
+Medium,High,3,Hot,4,1,Medium,Night,Caramel,Refreshing & Cold,Cappuccino,Cold Brew
+Light,Medium,1,Hot,3,5,High,Morning,Caramel,Smooth & Relaxing,Espresso,Latte
+Strong,Low,1,Cold,3,1,High,Morning,Vanilla,Sweet & Creamy,Americano,Filter Coffee
+Strong,None,1,Iced,1,4,High,Morning,Classic,Smooth & Relaxing,None,Filter Coffee
+Medium,Low,4,Hot,5,5,High,Morning,Classic,Refreshing & Cold,Cold Brew,Cappuccino
+Light,High,2,Hot,5,3,High,Morning,Vanilla,Refreshing & Cold,Latte,Latte
+Strong,Medium,4,Hot,5,4,High,Evening,Nutty,Refreshing & Cold,Latte,Cappuccino
+Light,None,3,Iced,2,2,Medium,Morning,Fruity,Smooth & Relaxing,Latte,Filter Coffee
+Medium,Low,3,Hot,1,5,Low,Afternoon,Nutty,Sweet & Creamy,Mocha,Mocha
+Light,High,4,Cold,4,2,Medium,Morning,Classic,Smooth & Relaxing,Mocha,Latte
+Light,Low,2,Iced,4,4,High,Morning,Chocolate,Smooth & Relaxing,None,Filter Coffee
+Light,Medium,3,Hot,5,5,Medium,Afternoon,Classic,Sweet & Creamy,Americano,Latte
+Strong,Medium,4,Hot,3,2,High,Morning,Classic,Smooth & Relaxing,Cold Brew,Filter Coffee
+Light,High,4,Hot,4,5,High,Afternoon,Classic,Sweet & Creamy,Cappuccino,Latte
+Strong,None,2,Cold,5,2,Medium,Morning,Vanilla,Smooth & Relaxing,Americano,Americano
+Strong,High,4,Hot,1,5,High,Afternoon,Nutty,Quick & Strong,Espresso,Mocha
+Light,Medium,3,Cold,5,2,High,Morning,Chocolate,Refreshing & Cold,Latte,Cold Brew
+Strong,None,4,Cold,3,4,Medium,Morning,Caramel,Refreshing & Cold,Cold Brew,Cold Brew
+Light,High,1,Hot,3,4,Medium,Morning,Chocolate,Refreshing & Cold,None,Latte
+Light,None,5,Hot,4,1,Medium,Morning,Caramel,Smooth & Relaxing,Cappuccino,Filter Coffee
+Medium,Medium,5,Hot,3,4,Medium,Evening,Chocolate,Sweet & Creamy,Latte,Mocha
+Strong,High,5,Iced,3,5,High,Morning,Caramel,Sweet & Creamy,Latte,Latte
+Medium,High,1,Iced,5,2,Medium,Morning,Vanilla,Sweet & Creamy,None,Cappuccino
+Medium,Medium,3,Hot,1,3,Low,Morning,Chocolate,Smooth & Relaxing,None,Mocha
+Strong,High,2,Cold,1,3,Low,Afternoon,Classic,Smooth & Relaxing,Cold Brew,Latte
+Strong,Low,1,Iced,1,2,Medium,Afternoon,Classic,Refreshing & Cold,Espresso,Cold Brew
+Medium,Low,4,Cold,5,5,Medium,Morning,Nutty,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,High,5,Hot,4,3,Low,Afternoon,Vanilla,Quick & Strong,None,Mocha
+Strong,Medium,2,Iced,4,5,Medium,Morning,Chocolate,Sweet & Creamy,Espresso,Mocha
+Light,Medium,2,Cold,2,1,Medium,Evening,Fruity,Quick & Strong,Mocha,Cold Brew
+Strong,High,2,Hot,2,4,Low,Morning,Chocolate,Quick & Strong,None,Mocha
+Strong,Low,5,Hot,4,4,High,Morning,Fruity,Refreshing & Cold,Cappuccino,Cappuccino
+Strong,Medium,5,Hot,2,3,High,Morning,Nutty,Refreshing & Cold,Latte,Cappuccino
+Light,Medium,3,Hot,5,3,Medium,Afternoon,Nutty,Sweet & Creamy,None,Cappuccino
+Medium,Medium,3,Iced,2,1,Medium,Morning,Fruity,Smooth & Relaxing,None,Filter Coffee
+Medium,Medium,3,Iced,1,3,Medium,Evening,Fruity,Quick & Strong,Mocha,Mocha
+Strong,High,4,Iced,3,3,Low,Afternoon,Caramel,Refreshing & Cold,None,Mocha
+Light,Medium,1,Cold,4,4,High,Afternoon,Fruity,Sweet & Creamy,Latte,Latte
+Light,High,5,Cold,1,2,Low,Morning,Chocolate,Refreshing & Cold,Cold Brew,Cold Brew
+Light,Medium,2,Iced,3,2,High,Afternoon,Nutty,Quick & Strong,Espresso,Filter Coffee
+Medium,High,4,Iced,2,3,High,Night,Nutty,Quick & Strong,Filter Coffee,Cappuccino
+Light,Medium,2,Cold,4,1,Medium,Afternoon,Nutty,Quick & Strong,None,Filter Coffee
+Medium,None,1,Cold,3,1,Low,Night,Nutty,Refreshing & Cold,Cold Brew,Cold Brew
+Light,Medium,5,Iced,2,5,High,Afternoon,Chocolate,Smooth & Relaxing,Mocha,Mocha
+Strong,Medium,2,Cold,5,3,Low,Morning,Fruity,Quick & Strong,None,Cappuccino
+Light,High,2,Hot,5,1,High,Afternoon,Fruity,Refreshing & Cold,None,Filter Coffee
+Strong,High,1,Iced,2,2,High,Morning,Chocolate,Refreshing & Cold,Cold Brew,Cold Brew
+Light,High,1,Iced,2,1,Low,Evening,Classic,Quick & Strong,Cold Brew,Filter Coffee
+Medium,Medium,2,Hot,2,5,High,Morning,Nutty,Sweet & Creamy,Mocha,Mocha
+Medium,Medium,2,Cold,2,1,Medium,Morning,Fruity,Sweet & Creamy,Latte,Filter Coffee
+Medium,None,3,Cold,1,5,High,Evening,Classic,Smooth & Relaxing,Cold Brew,Cappuccino
+Strong,High,1,Iced,4,2,Low,Night,Classic,Quick & Strong,Latte,Americano
+Medium,Low,1,Cold,5,2,Medium,Evening,Vanilla,Sweet & Creamy,Filter Coffee,Filter Coffee
+Medium,Medium,4,Iced,3,4,High,Morning,Fruity,Sweet & Creamy,Filter Coffee,Latte
+Strong,Low,5,Hot,5,5,Medium,Morning,Fruity,Smooth & Relaxing,None,Cappuccino
+Strong,High,4,Iced,4,5,High,Morning,Fruity,Refreshing & Cold,Mocha,Cappuccino
+Medium,Medium,2,Hot,3,3,Medium,Afternoon,Nutty,Quick & Strong,None,Cappuccino
+Medium,Medium,1,Hot,5,4,Medium,Morning,Fruity,Refreshing & Cold,Americano,Americano
+Light,Medium,4,Iced,4,3,Medium,Afternoon,Classic,Quick & Strong,Latte,Filter Coffee
+Medium,Medium,4,Hot,1,4,Medium,Morning,Nutty,Quick & Strong,Filter Coffee,Mocha
+Strong,None,1,Iced,4,3,High,Morning,Vanilla,Sweet & Creamy,None,Cold Brew
+Light,Medium,1,Hot,5,1,Medium,Night,Nutty,Smooth & Relaxing,None,Filter Coffee
+Light,None,3,Iced,3,1,Medium,Morning,Classic,Smooth & Relaxing,Mocha,Americano
+Light,High,2,Hot,1,2,Medium,Morning,Caramel,Sweet & Creamy,Latte,Latte
+Light,Low,4,Cold,5,5,Low,Morning,Nutty,Quick & Strong,Cappuccino,Cappuccino
+Light,Medium,3,Hot,2,2,High,Night,Vanilla,Quick & Strong,Cold Brew,Latte
+Medium,Medium,4,Cold,1,1,Medium,Night,Fruity,Quick & Strong,Cappuccino,Cold Brew
+Light,Medium,4,Iced,4,4,Low,Afternoon,Caramel,Refreshing & Cold,None,Latte
+Strong,High,1,Hot,1,1,High,Afternoon,Caramel,Smooth & Relaxing,Espresso,Americano
+Light,Medium,4,Hot,3,2,Low,Morning,Fruity,Smooth & Relaxing,Mocha,Cappuccino
+Strong,Medium,2,Hot,3,1,Low,Morning,Nutty,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,Medium,4,Hot,4,1,Low,Morning,Chocolate,Sweet & Creamy,Espresso,Mocha
+Light,High,3,Iced,4,3,High,Night,Classic,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Medium,2,Hot,4,3,High,Morning,Classic,Sweet & Creamy,Latte,Filter Coffee
+Strong,None,4,Iced,4,1,High,Afternoon,Classic,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,Medium,4,Iced,3,3,High,Evening,Nutty,Quick & Strong,Cappuccino,Cappuccino
+Medium,Low,1,Hot,5,3,Low,Morning,Chocolate,Sweet & Creamy,Americano,Cappuccino
+Light,High,4,Iced,4,1,Low,Night,Caramel,Sweet & Creamy,Filter Coffee,Mocha
+Light,Medium,1,Iced,2,5,Medium,Afternoon,Fruity,Quick & Strong,None,Latte
+Medium,Low,4,Iced,1,4,Medium,Evening,Classic,Refreshing & Cold,None,Mocha
+Medium,Medium,4,Iced,3,3,Medium,Morning,Nutty,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Low,1,Iced,2,3,Low,Evening,Nutty,Refreshing & Cold,None,Cold Brew
+Medium,Medium,5,Cold,3,5,Medium,Evening,Caramel,Refreshing & Cold,Filter Coffee,Mocha
+Light,Medium,2,Iced,4,4,High,Evening,Chocolate,Sweet & Creamy,None,Mocha
+Strong,None,5,Iced,3,1,Medium,Morning,Fruity,Quick & Strong,Cold Brew,Cold Brew
+Strong,Medium,1,Hot,2,1,Low,Afternoon,Nutty,Refreshing & Cold,Cold Brew,Cold Brew
+Light,High,3,Cold,2,2,Low,Morning,Classic,Sweet & Creamy,Mocha,Latte
+Light,High,5,Hot,2,2,Medium,Morning,Vanilla,Refreshing & Cold,Cold Brew,Cappuccino
+Medium,None,3,Hot,3,3,Medium,Afternoon,Chocolate,Refreshing & Cold,Espresso,Cold Brew
+Medium,Low,1,Cold,1,4,Low,Afternoon,Chocolate,Sweet & Creamy,None,Mocha
+Light,Medium,1,Hot,4,1,Medium,Evening,Caramel,Quick & Strong,None,Americano
+Strong,Low,4,Hot,3,1,Medium,Morning,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,High,5,Hot,2,5,Medium,Morning,Chocolate,Refreshing & Cold,Americano,Mocha
+Strong,Medium,2,Iced,4,3,Medium,Morning,Classic,Sweet & Creamy,Cappuccino,Filter Coffee
+Strong,Medium,4,Iced,2,1,Medium,Morning,Caramel,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Strong,Low,2,Iced,5,2,Low,Night,Caramel,Refreshing & Cold,None,Cold Brew
+Strong,Medium,1,Cold,4,1,Low,Morning,Nutty,Refreshing & Cold,None,Cold Brew
+Strong,High,1,Hot,3,1,Medium,Afternoon,Fruity,Smooth & Relaxing,None,Filter Coffee
+Strong,Medium,2,Iced,3,1,Medium,Morning,Vanilla,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,None,2,Hot,3,2,High,Afternoon,Fruity,Refreshing & Cold,Americano,Cold Brew
+Strong,Low,1,Hot,1,1,High,Evening,Nutty,Sweet & Creamy,Mocha,Filter Coffee
+Light,High,4,Iced,5,4,Medium,Night,Chocolate,Quick & Strong,Americano,Mocha
+Strong,None,1,Hot,1,3,High,Evening,Nutty,Smooth & Relaxing,None,Filter Coffee
+Strong,Low,5,Hot,3,1,Low,Evening,Classic,Quick & Strong,Mocha,Americano
+Medium,Medium,1,Iced,1,5,Medium,Night,Chocolate,Refreshing & Cold,Cold Brew,Mocha
+Medium,High,4,Hot,2,5,High,Afternoon,Classic,Sweet & Creamy,Mocha,Mocha
+Light,None,5,Hot,2,2,High,Morning,Chocolate,Refreshing & Cold,Americano,Mocha
+Medium,Medium,5,Hot,2,1,Low,Morning,Classic,Smooth & Relaxing,Cold Brew,Filter Coffee
+Light,Low,1,Hot,3,5,Medium,Morning,Fruity,Sweet & Creamy,None,Latte
+Light,High,5,Iced,2,5,Low,Evening,Vanilla,Refreshing & Cold,None,Latte
+Light,Low,4,Iced,2,2,Medium,Afternoon,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Medium,4,Iced,3,1,High,Afternoon,Classic,Quick & Strong,Latte,Americano
+Medium,None,2,Hot,5,1,Low,Morning,Caramel,Refreshing & Cold,Mocha,Americano
+Strong,Medium,4,Hot,5,2,Medium,Afternoon,Classic,Smooth & Relaxing,Americano,Filter Coffee
+Light,Low,5,Hot,1,3,High,Evening,Vanilla,Sweet & Creamy,Cappuccino,Mocha
+Light,Low,5,Cold,1,2,Medium,Afternoon,Chocolate,Smooth & Relaxing,None,Mocha
+Light,Medium,3,Cold,4,4,High,Evening,Vanilla,Smooth & Relaxing,None,Filter Coffee
+Strong,Medium,2,Hot,2,4,Low,Evening,Chocolate,Smooth & Relaxing,Cold Brew,Cappuccino
+Medium,Medium,4,Iced,4,2,Low,Morning,Chocolate,Refreshing & Cold,Cappuccino,Mocha
+Medium,Medium,1,Hot,2,3,Medium,Morning,Chocolate,Smooth & Relaxing,Latte,Latte
+Light,Medium,5,Cold,4,3,Low,Morning,Nutty,Smooth & Relaxing,Latte,Filter Coffee
+Light,Medium,4,Hot,2,2,Medium,Morning,Vanilla,Quick & Strong,Latte,Cappuccino
+Medium,None,4,Hot,3,5,High,Afternoon,Chocolate,Smooth & Relaxing,Filter Coffee,Cappuccino
+Medium,None,3,Hot,4,5,High,Night,Fruity,Sweet & Creamy,Cold Brew,Mocha
+Medium,Medium,4,Hot,5,3,Medium,Afternoon,Nutty,Quick & Strong,Mocha,Americano
+Light,Medium,2,Hot,3,5,Medium,Morning,Chocolate,Quick & Strong,None,Mocha
+Strong,Low,3,Iced,1,5,Medium,Morning,Fruity,Quick & Strong,Espresso,Mocha
+Strong,High,5,Iced,4,1,High,Morning,Chocolate,Smooth & Relaxing,Filter Coffee,Cappuccino
+Strong,High,5,Iced,4,4,Medium,Morning,Caramel,Refreshing & Cold,Cold Brew,Mocha
+Strong,Low,1,Hot,2,4,High,Night,Chocolate,Smooth & Relaxing,Mocha,Cappuccino
+Strong,Low,2,Iced,3,3,Medium,Afternoon,Nutty,Refreshing & Cold,Latte,Cold Brew
+Medium,High,4,Cold,1,2,Medium,Night,Nutty,Smooth & Relaxing,Americano,Filter Coffee
+Medium,Medium,1,Cold,2,1,High,Afternoon,Classic,Refreshing & Cold,None,Cold Brew
+Light,High,1,Cold,1,4,Medium,Morning,Classic,Refreshing & Cold,Espresso,Latte
+Strong,High,5,Cold,3,3,Low,Afternoon,Nutty,Quick & Strong,None,Latte
+Strong,None,3,Hot,1,5,High,Morning,Nutty,Quick & Strong,Americano,Americano
+Strong,Medium,5,Hot,2,4,Medium,Morning,Vanilla,Sweet & Creamy,Espresso,Latte
+Medium,High,5,Hot,5,4,Medium,Afternoon,Chocolate,Smooth & Relaxing,Mocha,Mocha
+Light,High,5,Hot,5,4,Low,Evening,Chocolate,Smooth & Relaxing,Cappuccino,Mocha
+Strong,Medium,3,Hot,5,1,Low,Afternoon,Chocolate,Sweet & Creamy,Espresso,Espresso
+Light,Medium,4,Cold,3,3,Medium,Afternoon,Caramel,Smooth & Relaxing,Espresso,Cappuccino
+Medium,Low,5,Iced,1,3,Medium,Evening,Vanilla,Sweet & Creamy,Espresso,Mocha
+Medium,Low,3,Iced,2,4,Medium,Night,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Strong,Medium,2,Iced,3,3,High,Morning,Fruity,Sweet & Creamy,None,Mocha
+Light,High,4,Hot,1,4,High,Afternoon,Vanilla,Quick & Strong,None,Latte
+Light,None,2,Hot,2,3,Medium,Night,Chocolate,Smooth & Relaxing,Mocha,Filter Coffee
+Medium,Low,5,Hot,2,4,High,Afternoon,Chocolate,Quick & Strong,Filter Coffee,Mocha
+Medium,High,3,Iced,5,4,High,Afternoon,Fruity,Sweet & Creamy,Americano,Latte
+Light,Medium,4,Hot,2,4,Medium,Morning,Classic,Smooth & Relaxing,Latte,Filter Coffee
+Medium,Medium,5,Hot,3,4,Medium,Night,Chocolate,Quick & Strong,Espresso,Mocha
+Medium,Medium,2,Iced,3,1,Medium,Afternoon,Fruity,Refreshing & Cold,Mocha,Cold Brew
+Strong,Medium,3,Iced,1,3,Medium,Evening,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Light,Medium,5,Hot,3,4,Medium,Afternoon,Classic,Sweet & Creamy,Latte,Latte
+Light,Low,5,Cold,3,4,Medium,Morning,Caramel,Quick & Strong,Cappuccino,Mocha
+Medium,High,5,Hot,1,2,Low,Night,Nutty,Quick & Strong,Cappuccino,Cappuccino
+Strong,Low,3,Iced,5,1,Low,Morning,Vanilla,Smooth & Relaxing,None,Filter Coffee
+Strong,Low,4,Iced,5,5,Medium,Night,Chocolate,Sweet & Creamy,Filter Coffee,Mocha
+Strong,Medium,4,Cold,4,5,Medium,Night,Chocolate,Refreshing & Cold,Cold Brew,Mocha
+Light,None,1,Hot,4,5,Medium,Afternoon,Classic,Sweet & Creamy,Cold Brew,Cappuccino
+Strong,Medium,3,Iced,4,1,High,Morning,Chocolate,Sweet & Creamy,Americano,Americano
+Light,None,5,Cold,5,5,Medium,Morning,Vanilla,Quick & Strong,None,Latte
+Strong,Medium,1,Hot,5,3,Medium,Morning,Caramel,Refreshing & Cold,Latte,Latte
+Light,High,4,Hot,1,5,Medium,Evening,Nutty,Quick & Strong,Filter Coffee,Latte
+Light,High,5,Hot,3,3,Medium,Morning,Nutty,Sweet & Creamy,Filter Coffee,Mocha
+Medium,High,1,Hot,1,4,Low,Morning,Chocolate,Quick & Strong,Latte,Latte
+Light,Medium,3,Iced,2,1,Low,Afternoon,Classic,Sweet & Creamy,Mocha,Mocha
+Strong,None,5,Iced,4,1,High,Morning,Nutty,Sweet & Creamy,Espresso,Espresso
+Medium,Medium,1,Hot,4,1,High,Morning,Vanilla,Quick & Strong,None,Cappuccino
+Medium,Low,5,Hot,5,4,Low,Evening,Fruity,Quick & Strong,None,Latte
+Strong,Medium,3,Hot,5,2,High,Afternoon,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,Low,2,Cold,3,3,Medium,Night,Nutty,Smooth & Relaxing,None,Filter Coffee
+Strong,Low,4,Hot,1,3,Low,Morning,Chocolate,Sweet & Creamy,Filter Coffee,Mocha
+Strong,High,4,Iced,4,4,High,Morning,Chocolate,Smooth & Relaxing,None,Mocha
+Strong,High,4,Hot,4,2,Medium,Morning,Vanilla,Sweet & Creamy,None,Latte
+Strong,High,2,Hot,5,5,Low,Evening,Classic,Smooth & Relaxing,Americano,Cappuccino
+Light,Medium,2,Cold,5,5,Low,Afternoon,Chocolate,Refreshing & Cold,None,Mocha
+Medium,High,1,Hot,4,2,High,Morning,Fruity,Refreshing & Cold,Espresso,Cold Brew
+Light,High,5,Cold,5,5,Medium,Night,Caramel,Refreshing & Cold,Mocha,Mocha
+Medium,Medium,1,Iced,3,3,Medium,Afternoon,Nutty,Quick & Strong,None,Cappuccino
+Medium,None,1,Cold,4,5,Low,Morning,Chocolate,Smooth & Relaxing,Cappuccino,Filter Coffee
+Strong,Medium,1,Hot,5,3,Medium,Morning,Nutty,Quick & Strong,Espresso,Espresso
+Light,Low,5,Hot,2,1,High,Night,Classic,Refreshing & Cold,Cold Brew,Cold Brew
+Medium,High,3,Iced,4,1,Medium,Morning,Caramel,Quick & Strong,None,Espresso
+Light,High,4,Hot,1,2,Medium,Evening,Chocolate,Quick & Strong,Latte,Mocha
+Strong,Low,5,Hot,4,5,Low,Morning,Caramel,Sweet & Creamy,Espresso,Latte
+Medium,Medium,4,Hot,3,2,Medium,Afternoon,Classic,Refreshing & Cold,None,Filter Coffee
+Strong,High,5,Hot,2,5,High,Morning,Classic,Quick & Strong,Cold Brew,Latte
+Strong,Medium,4,Hot,4,2,High,Morning,Chocolate,Sweet & Creamy,Latte,Mocha
+Light,Low,3,Iced,2,4,Low,Morning,Caramel,Sweet & Creamy,Filter Coffee,Latte
+Medium,None,4,Hot,2,4,High,Evening,Fruity,Quick & Strong,Mocha,Mocha
+Strong,Medium,2,Iced,3,2,Medium,Morning,Classic,Refreshing & Cold,Cappuccino,Cappuccino
+Light,None,1,Hot,2,4,Low,Morning,Vanilla,Quick & Strong,Americano,Americano
+Medium,Medium,4,Iced,2,2,High,Afternoon,Nutty,Quick & Strong,Americano,Latte
+Strong,Low,2,Iced,4,1,High,Morning,Nutty,Quick & Strong,Espresso,Espresso
+Light,High,5,Cold,4,3,Medium,Morning,Fruity,Quick & Strong,None,Latte
+Strong,Medium,3,Iced,1,2,High,Evening,Chocolate,Refreshing & Cold,Espresso,Cold Brew
+Medium,High,3,Cold,3,3,Medium,Morning,Vanilla,Sweet & Creamy,Cappuccino,Latte
+Strong,Low,5,Hot,1,1,Medium,Afternoon,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,Medium,1,Iced,2,3,Medium,Morning,Caramel,Sweet & Creamy,Espresso,Cold Brew
+Strong,Medium,1,Hot,2,4,Low,Night,Classic,Quick & Strong,None,Latte
+Light,Low,2,Hot,1,5,High,Morning,Nutty,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Low,4,Hot,3,5,High,Evening,Classic,Quick & Strong,None,Latte
+Strong,None,3,Cold,2,3,High,Afternoon,Vanilla,Refreshing & Cold,Filter Coffee,Cold Brew
+Light,Low,2,Iced,5,3,Medium,Evening,Chocolate,Sweet & Creamy,None,Mocha
+Strong,None,5,Iced,5,5,Medium,Morning,Fruity,Smooth & Relaxing,Mocha,Cappuccino
+Medium,High,1,Hot,4,3,Medium,Morning,Chocolate,Quick & Strong,None,Cappuccino
+Strong,High,1,Hot,4,1,High,Afternoon,Chocolate,Quick & Strong,None,Espresso
+Light,Low,2,Iced,2,4,High,Morning,Caramel,Refreshing & Cold,Mocha,Latte
+Light,High,1,Hot,1,4,Medium,Morning,Caramel,Refreshing & Cold,None,Latte
+Light,Medium,4,Iced,2,1,Medium,Morning,Nutty,Smooth & Relaxing,Americano,Cappuccino
+Light,None,5,Hot,1,2,Medium,Morning,Nutty,Sweet & Creamy,Filter Coffee,Latte
+Strong,Low,5,Iced,5,1,High,Evening,Chocolate,Quick & Strong,Cappuccino,Espresso
+Strong,High,1,Iced,5,4,High,Evening,Caramel,Refreshing & Cold,Latte,Latte
+Medium,Low,2,Hot,3,1,Medium,Morning,Chocolate,Smooth & Relaxing,Cappuccino,Filter Coffee
+Medium,High,3,Iced,3,2,Low,Morning,Fruity,Quick & Strong,Americano,Filter Coffee
+Light,Low,1,Iced,1,3,Low,Morning,Fruity,Refreshing & Cold,Espresso,Cold Brew
+Medium,Low,4,Iced,4,1,Medium,Morning,Chocolate,Refreshing & Cold,Cappuccino,Cappuccino
+Light,None,5,Cold,2,4,Medium,Evening,Vanilla,Sweet & Creamy,Espresso,Filter Coffee
+Medium,High,5,Iced,4,3,Medium,Morning,Nutty,Smooth & Relaxing,Cold Brew,Cappuccino
+Light,Medium,2,Iced,2,3,High,Evening,Fruity,Quick & Strong,Espresso,Cold Brew
+Strong,High,3,Hot,4,1,Medium,Evening,Fruity,Refreshing & Cold,None,Cold Brew
+Strong,None,5,Iced,4,5,Medium,Night,Chocolate,Quick & Strong,Espresso,Mocha
+Medium,Low,5,Cold,3,1,High,Afternoon,Caramel,Quick & Strong,Filter Coffee,Cold Brew
+Medium,Low,3,Hot,1,5,High,Evening,Caramel,Sweet & Creamy,None,Latte
+Light,Medium,3,Hot,1,1,Medium,Evening,Nutty,Sweet & Creamy,Espresso,Filter Coffee
+Strong,Low,1,Cold,4,4,High,Evening,Classic,Sweet & Creamy,Latte,Latte
+Light,High,5,Hot,2,2,Medium,Morning,Fruity,Refreshing & Cold,Espresso,Latte
+Medium,Medium,5,Hot,3,2,Low,Morning,Nutty,Quick & Strong,Cappuccino,Cappuccino
+Light,None,2,Cold,4,1,Medium,Evening,Classic,Quick & Strong,Mocha,Filter Coffee
+Light,Low,3,Iced,3,4,Medium,Morning,Vanilla,Quick & Strong,None,Cappuccino
+Strong,Medium,1,Cold,4,1,Low,Morning,Classic,Sweet & Creamy,Americano,Filter Coffee
+Light,Low,1,Hot,1,2,Medium,Evening,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,Low,3,Hot,1,1,High,Night,Fruity,Refreshing & Cold,None,Cold Brew
+Medium,Low,3,Cold,5,1,Medium,Afternoon,Fruity,Quick & Strong,Filter Coffee,Espresso
+Medium,High,4,Iced,5,2,Low,Morning,Classic,Quick & Strong,Mocha,Cappuccino
+Medium,Low,2,Cold,4,1,Medium,Afternoon,Classic,Quick & Strong,None,Espresso
+Medium,Medium,4,Cold,4,4,High,Morning,Caramel,Smooth & Relaxing,Filter Coffee,Latte
+Light,Low,3,Hot,1,2,Low,Morning,Vanilla,Quick & Strong,Mocha,Filter Coffee
+Light,Medium,3,Hot,2,1,High,Evening,Nutty,Sweet & Creamy,Cold Brew,Cold Brew
+Strong,High,4,Iced,4,1,Low,Morning,Fruity,Sweet & Creamy,Filter Coffee,Latte
+Strong,High,2,Hot,4,5,Low,Morning,Classic,Smooth & Relaxing,Latte,Cappuccino
+Light,Low,2,Hot,3,4,Low,Morning,Classic,Quick & Strong,None,Filter Coffee
+Light,High,5,Hot,3,4,Medium,Evening,Nutty,Smooth & Relaxing,Latte,Mocha
+Medium,High,5,Hot,1,2,Medium,Morning,Chocolate,Smooth & Relaxing,Latte,Mocha
+Medium,Medium,2,Cold,5,4,Medium,Morning,Nutty,Quick & Strong,Filter Coffee,Cappuccino
+Medium,High,1,Iced,2,5,Medium,Night,Caramel,Quick & Strong,Cappuccino,Latte
+Light,Medium,5,Hot,1,2,High,Evening,Vanilla,Smooth & Relaxing,Espresso,Mocha
+Medium,Medium,4,Iced,5,5,Medium,Afternoon,Fruity,Sweet & Creamy,Mocha,Mocha
+Medium,Medium,4,Hot,2,4,Low,Morning,Fruity,Smooth & Relaxing,Mocha,Filter Coffee
+Light,High,4,Hot,1,3,High,Morning,Vanilla,Refreshing & Cold,Mocha,Latte
+Strong,Low,3,Hot,4,2,Low,Morning,Nutty,Refreshing & Cold,Americano,Filter Coffee
+Strong,None,3,Hot,4,5,Medium,Night,Chocolate,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,None,5,Cold,1,2,High,Afternoon,Chocolate,Sweet & Creamy,Latte,Mocha
+Medium,Medium,2,Iced,5,4,Medium,Afternoon,Classic,Smooth & Relaxing,Cold Brew,Filter Coffee
+Strong,High,4,Hot,5,1,High,Morning,Classic,Quick & Strong,None,Espresso
+Light,High,3,Hot,5,1,Low,Morning,Nutty,Sweet & Creamy,Filter Coffee,Filter Coffee
+Medium,Medium,2,Hot,3,4,Medium,Morning,Vanilla,Refreshing & Cold,Filter Coffee,Cappuccino
+Light,Medium,4,Hot,5,1,High,Night,Caramel,Sweet & Creamy,Mocha,Mocha
+Medium,None,3,Hot,4,5,High,Night,Vanilla,Quick & Strong,Mocha,Cappuccino
+Light,Low,2,Iced,3,4,Medium,Morning,Classic,Sweet & Creamy,Espresso,Cappuccino
+Strong,Low,3,Cold,5,3,Low,Morning,Fruity,Sweet & Creamy,Cappuccino,Cappuccino
+Light,Low,3,Iced,3,3,Low,Evening,Fruity,Smooth & Relaxing,Cold Brew,Americano
+Strong,Low,4,Hot,4,2,High,Morning,Nutty,Refreshing & Cold,None,Cold Brew
+Light,Low,2,Cold,2,4,Medium,Morning,Classic,Refreshing & Cold,Espresso,Latte
+Strong,Medium,2,Cold,2,4,Low,Morning,Caramel,Refreshing & Cold,Mocha,Latte
+Strong,Medium,2,Cold,4,4,Low,Evening,Classic,Smooth & Relaxing,None,Latte
+Strong,Medium,1,Hot,4,2,Medium,Evening,Classic,Refreshing & Cold,Americano,Americano
+Medium,Medium,3,Hot,5,5,High,Morning,Fruity,Refreshing & Cold,Cold Brew,Cappuccino
+Strong,None,4,Hot,2,5,Medium,Morning,Classic,Smooth & Relaxing,None,Latte
+Strong,High,5,Hot,2,4,High,Evening,Nutty,Smooth & Relaxing,Espresso,Cappuccino
+Strong,High,4,Iced,2,3,Low,Morning,Caramel,Refreshing & Cold,Mocha,Mocha
+Light,Medium,1,Cold,3,1,Low,Afternoon,Nutty,Sweet & Creamy,None,Filter Coffee
+Medium,None,4,Hot,2,5,Medium,Night,Vanilla,Sweet & Creamy,Espresso,Mocha
+Light,None,4,Hot,2,4,Low,Morning,Nutty,Sweet & Creamy,Filter Coffee,Mocha
+Medium,High,5,Hot,5,1,High,Morning,Classic,Refreshing & Cold,Cold Brew,Cold Brew
+Light,Medium,3,Cold,1,2,High,Morning,Chocolate,Refreshing & Cold,None,Cold Brew
+Medium,High,1,Cold,3,2,Medium,Evening,Classic,Quick & Strong,Cold Brew,Cold Brew
+Strong,High,1,Hot,2,5,Medium,Afternoon,Caramel,Smooth & Relaxing,Americano,Latte
+Medium,High,4,Hot,1,2,Low,Evening,Vanilla,Smooth & Relaxing,Mocha,Latte
+Light,Medium,3,Iced,1,5,Low,Afternoon,Caramel,Quick & Strong,None,Latte
+Strong,High,3,Hot,5,2,Medium,Morning,Nutty,Refreshing & Cold,Filter Coffee,Filter Coffee
+Light,High,5,Hot,4,1,Medium,Night,Classic,Refreshing & Cold,Filter Coffee,Cold Brew
+Strong,High,1,Hot,3,3,Medium,Morning,Nutty,Sweet & Creamy,None,Cappuccino
+Strong,Medium,3,Cold,3,3,Medium,Afternoon,Classic,Quick & Strong,Espresso,Filter Coffee
+Medium,None,4,Hot,4,5,Medium,Afternoon,Fruity,Quick & Strong,None,Mocha
+Strong,Low,3,Iced,3,5,High,Night,Caramel,Sweet & Creamy,Latte,Latte
+Medium,Low,5,Hot,3,4,Medium,Evening,Caramel,Quick & Strong,Latte,Latte
+Strong,High,4,Hot,1,3,Low,Evening,Caramel,Refreshing & Cold,Filter Coffee,Latte
+Strong,Low,4,Hot,1,1,Low,Morning,Classic,Refreshing & Cold,Latte,Filter Coffee
+Medium,Medium,5,Hot,1,4,Low,Morning,Classic,Smooth & Relaxing,None,Mocha
+Strong,Medium,5,Hot,2,5,High,Afternoon,Nutty,Refreshing & Cold,None,Latte
+Light,Low,1,Iced,4,1,Medium,Afternoon,Fruity,Refreshing & Cold,None,Cold Brew
+Strong,None,3,Iced,4,1,Medium,Night,Classic,Sweet & Creamy,Cold Brew,Cold Brew
+Light,Medium,5,Hot,5,1,Medium,Morning,Chocolate,Sweet & Creamy,Filter Coffee,Americano
+Medium,None,3,Hot,4,1,Low,Night,Caramel,Refreshing & Cold,Filter Coffee,Filter Coffee
+Light,High,4,Hot,3,1,High,Night,Caramel,Smooth & Relaxing,Americano,Cappuccino
+Strong,High,2,Hot,4,5,High,Morning,Caramel,Refreshing & Cold,Filter Coffee,Latte
+Light,High,3,Hot,2,1,Medium,Morning,Vanilla,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,High,3,Hot,4,5,High,Morning,Vanilla,Sweet & Creamy,Cappuccino,Latte
+Light,Low,4,Hot,3,3,High,Evening,Nutty,Quick & Strong,Latte,Cappuccino
+Strong,None,3,Hot,4,5,Medium,Evening,Nutty,Smooth & Relaxing,Americano,Cappuccino
+Medium,Low,2,Cold,3,5,High,Morning,Chocolate,Quick & Strong,Cappuccino,Mocha
+Light,Medium,5,Cold,1,1,Medium,Morning,Nutty,Smooth & Relaxing,None,Filter Coffee
+Light,Low,1,Iced,1,1,Medium,Afternoon,Chocolate,Smooth & Relaxing,Latte,Cold Brew
+Medium,Low,5,Iced,4,2,High,Morning,Caramel,Quick & Strong,Filter Coffee,Filter Coffee
+Light,Low,2,Cold,5,1,Low,Morning,Classic,Smooth & Relaxing,Cold Brew,Filter Coffee
+Light,Medium,3,Hot,1,4,Low,Morning,Nutty,Sweet & Creamy,Latte,Latte
+Strong,Medium,2,Hot,5,4,High,Afternoon,Chocolate,Quick & Strong,None,Espresso
+Medium,Medium,5,Hot,4,4,Medium,Afternoon,Nutty,Smooth & Relaxing,Cold Brew,Latte
+Medium,Low,5,Iced,1,4,High,Afternoon,Caramel,Smooth & Relaxing,Filter Coffee,Latte
+Light,Medium,2,Hot,2,1,Low,Afternoon,Classic,Refreshing & Cold,Americano,Americano
+Medium,Low,5,Cold,2,3,Medium,Afternoon,Nutty,Smooth & Relaxing,Filter Coffee,Cappuccino
+Light,High,5,Cold,2,5,Medium,Afternoon,Classic,Refreshing & Cold,Latte,Latte
+Strong,Low,2,Cold,1,3,High,Night,Fruity,Smooth & Relaxing,Filter Coffee,Latte
+Strong,None,1,Hot,4,3,Medium,Morning,Nutty,Quick & Strong,Cold Brew,Espresso
+Strong,High,5,Iced,3,3,High,Afternoon,Vanilla,Refreshing & Cold,None,Latte
+Medium,High,4,Hot,2,3,High,Evening,Fruity,Smooth & Relaxing,Latte,Latte
+Medium,High,3,Cold,5,2,Medium,Evening,Caramel,Sweet & Creamy,Mocha,Mocha
+Strong,High,1,Iced,5,2,High,Afternoon,Nutty,Refreshing & Cold,Americano,Cappuccino
+Medium,High,5,Cold,4,5,Medium,Morning,Chocolate,Smooth & Relaxing,None,Mocha
+Medium,High,4,Cold,1,5,Medium,Afternoon,Fruity,Refreshing & Cold,Cappuccino,Latte
+Strong,Medium,5,Hot,4,1,Medium,Night,Classic,Sweet & Creamy,Americano,Americano
+Light,High,5,Hot,3,4,Medium,Afternoon,Vanilla,Quick & Strong,Mocha,Mocha
+Light,Low,2,Hot,4,1,High,Morning,Nutty,Quick & Strong,None,Espresso
+Medium,Medium,5,Iced,3,3,Low,Evening,Chocolate,Refreshing & Cold,Latte,Mocha
+Light,High,3,Cold,3,1,High,Night,Classic,Sweet & Creamy,Espresso,Filter Coffee
+Medium,Low,4,Cold,4,3,High,Afternoon,Classic,Smooth & Relaxing,None,Filter Coffee
+Strong,Medium,3,Hot,5,4,Medium,Night,Classic,Refreshing & Cold,Filter Coffee,Cappuccino
+Medium,None,4,Cold,2,3,High,Morning,Fruity,Smooth & Relaxing,None,Cold Brew
+Light,High,5,Hot,3,3,Medium,Evening,Fruity,Refreshing & Cold,Latte,Mocha
+Light,Medium,2,Cold,4,5,Medium,Morning,Classic,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Medium,5,Hot,5,4,Medium,Morning,Caramel,Refreshing & Cold,Espresso,Latte
+Light,Low,3,Hot,2,2,Medium,Evening,Vanilla,Smooth & Relaxing,Americano,Latte
+Strong,None,5,Cold,3,2,High,Morning,Vanilla,Quick & Strong,Mocha,Espresso
+Strong,Medium,4,Iced,4,1,High,Morning,Vanilla,Refreshing & Cold,Filter Coffee,Cold Brew
+Medium,Medium,5,Iced,5,2,High,Morning,Fruity,Quick & Strong,None,Espresso
+Strong,None,4,Hot,4,5,Low,Afternoon,Vanilla,Sweet & Creamy,None,Cappuccino
+Light,Medium,4,Hot,1,2,Medium,Afternoon,Classic,Quick & Strong,Americano,Latte
+Light,None,3,Hot,1,3,High,Night,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Light,Low,5,Hot,1,2,Low,Evening,Vanilla,Quick & Strong,Latte,Latte
+Light,High,5,Cold,4,5,High,Afternoon,Chocolate,Quick & Strong,Latte,Mocha
+Medium,None,4,Hot,3,4,Low,Morning,Nutty,Quick & Strong,Filter Coffee,Cappuccino
+Medium,Low,1,Iced,5,2,Low,Night,Nutty,Refreshing & Cold,Cappuccino,Cold Brew
+Strong,Medium,1,Hot,5,5,High,Afternoon,Classic,Quick & Strong,None,Cappuccino
+Medium,None,4,Iced,5,5,High,Afternoon,Fruity,Sweet & Creamy,Americano,Mocha
+Light,Medium,5,Hot,5,1,Medium,Evening,Caramel,Quick & Strong,Americano,Mocha
+Medium,Low,3,Hot,1,3,Low,Afternoon,Nutty,Sweet & Creamy,Cold Brew,Mocha
+Light,None,1,Hot,2,1,High,Morning,Vanilla,Sweet & Creamy,Cappuccino,Americano
+Medium,Medium,1,Iced,4,5,Low,Afternoon,Classic,Refreshing & Cold,Latte,Cappuccino
+Light,None,1,Cold,5,2,Medium,Evening,Caramel,Smooth & Relaxing,Cold Brew,Americano
+Strong,None,3,Hot,1,2,High,Afternoon,Fruity,Sweet & Creamy,Espresso,Filter Coffee
+Medium,High,1,Iced,1,3,Medium,Evening,Classic,Sweet & Creamy,Cappuccino,Latte
+Strong,Medium,1,Iced,5,5,Medium,Morning,Vanilla,Smooth & Relaxing,Latte,Latte
+Medium,High,3,Hot,4,1,Medium,Morning,Classic,Quick & Strong,Latte,Cappuccino
+Light,Medium,2,Cold,3,3,Medium,Morning,Fruity,Quick & Strong,Mocha,Cold Brew
+Light,Low,1,Hot,4,2,High,Morning,Fruity,Quick & Strong,Latte,Espresso
+Medium,Medium,1,Hot,4,1,Medium,Afternoon,Classic,Quick & Strong,None,Americano
+Medium,High,5,Hot,1,2,High,Morning,Vanilla,Quick & Strong,Mocha,Mocha
+Medium,High,5,Cold,5,4,Medium,Afternoon,Fruity,Refreshing & Cold,None,Cold Brew
+Light,Medium,4,Hot,5,5,Low,Morning,Vanilla,Smooth & Relaxing,Cold Brew,Latte
+Medium,None,1,Hot,1,2,Low,Afternoon,Classic,Quick & Strong,Latte,Americano
+Strong,High,3,Hot,1,2,High,Morning,Fruity,Refreshing & Cold,None,Cold Brew
+Strong,Medium,5,Hot,1,1,Low,Morning,Caramel,Smooth & Relaxing,Mocha,Latte
+Medium,Low,4,Hot,2,1,High,Afternoon,Chocolate,Sweet & Creamy,Espresso,Mocha
+Light,None,5,Hot,5,1,Low,Afternoon,Classic,Quick & Strong,Mocha,Filter Coffee
+Light,None,2,Cold,5,3,High,Morning,Fruity,Sweet & Creamy,None,Cappuccino
+Light,Medium,5,Cold,2,1,Medium,Morning,Nutty,Refreshing & Cold,Espresso,Cold Brew
+Light,Low,5,Iced,1,2,Medium,Morning,Fruity,Smooth & Relaxing,Mocha,Mocha
+Strong,None,2,Iced,4,1,Medium,Morning,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Strong,Medium,5,Cold,2,4,Low,Night,Vanilla,Refreshing & Cold,Mocha,Latte
+Light,Medium,1,Hot,3,4,Medium,Afternoon,Chocolate,Quick & Strong,Cappuccino,Cappuccino
+Light,Medium,5,Cold,2,4,High,Afternoon,Classic,Refreshing & Cold,None,Mocha
+Strong,Medium,1,Hot,5,1,High,Evening,Vanilla,Quick & Strong,Espresso,Espresso
+Medium,None,1,Iced,1,5,Medium,Afternoon,Fruity,Smooth & Relaxing,Cappuccino,Latte
+Strong,Low,5,Hot,3,2,Low,Morning,Fruity,Quick & Strong,None,Americano
+Medium,Medium,4,Cold,4,5,Medium,Morning,Caramel,Sweet & Creamy,Espresso,Latte
+Medium,High,1,Hot,1,3,Medium,Afternoon,Caramel,Smooth & Relaxing,None,Latte
+Strong,Low,3,Cold,2,4,Medium,Morning,Classic,Quick & Strong,Espresso,Espresso
+Medium,None,1,Cold,4,4,High,Afternoon,Fruity,Sweet & Creamy,Cappuccino,Cold Brew
+Strong,Medium,2,Cold,5,5,Medium,Evening,Vanilla,Quick & Strong,Espresso,Espresso
+Strong,Medium,1,Hot,5,1,High,Afternoon,Fruity,Smooth & Relaxing,Mocha,Cappuccino
+Strong,Medium,3,Cold,2,2,Medium,Morning,Vanilla,Refreshing & Cold,Latte,Cold Brew
+Light,Medium,5,Hot,5,2,Medium,Night,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,None,3,Cold,4,1,High,Evening,Vanilla,Quick & Strong,Filter Coffee,Cold Brew
+Medium,Medium,4,Hot,2,1,High,Morning,Nutty,Quick & Strong,Mocha,Americano
+Medium,High,4,Cold,4,1,Medium,Evening,Caramel,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,Low,2,Iced,2,1,High,Afternoon,Vanilla,Quick & Strong,Filter Coffee,Americano
+Strong,High,2,Iced,5,3,High,Afternoon,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Medium,3,Iced,1,3,Medium,Evening,Nutty,Refreshing & Cold,Latte,Cold Brew
+Medium,None,5,Hot,5,2,High,Afternoon,Nutty,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Strong,High,2,Cold,4,4,Medium,Morning,Classic,Quick & Strong,Americano,Americano
+Light,Medium,5,Hot,5,2,Medium,Afternoon,Classic,Sweet & Creamy,Espresso,Filter Coffee
+Strong,Low,1,Cold,4,1,Low,Afternoon,Chocolate,Smooth & Relaxing,Espresso,Espresso
+Medium,Medium,1,Hot,5,4,High,Morning,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,High,2,Hot,4,3,High,Evening,Nutty,Smooth & Relaxing,Cappuccino,Filter Coffee
+Light,Medium,2,Iced,1,3,Medium,Morning,Chocolate,Smooth & Relaxing,Mocha,Mocha
+Medium,High,4,Cold,2,4,Low,Morning,Nutty,Sweet & Creamy,Cold Brew,Latte
+Medium,Low,3,Hot,3,5,Medium,Afternoon,Vanilla,Sweet & Creamy,Mocha,Latte
+Light,Low,3,Iced,4,1,High,Evening,Chocolate,Smooth & Relaxing,Latte,Filter Coffee
+Light,Medium,4,Iced,4,5,Medium,Afternoon,Fruity,Smooth & Relaxing,Cold Brew,Latte
+Medium,None,4,Hot,2,2,High,Afternoon,Classic,Smooth & Relaxing,Americano,Filter Coffee
+Light,High,5,Cold,2,5,Low,Morning,Nutty,Sweet & Creamy,Cold Brew,Latte
+Light,Low,4,Hot,1,2,High,Evening,Vanilla,Sweet & Creamy,None,Mocha
+Strong,High,2,Hot,5,3,Low,Morning,Chocolate,Sweet & Creamy,Espresso,Latte
+Strong,Medium,4,Hot,5,1,Medium,Evening,Vanilla,Refreshing & Cold,Latte,Cold Brew
+Light,High,3,Hot,1,3,Medium,Morning,Fruity,Quick & Strong,Espresso,Latte
+Strong,Medium,4,Hot,3,5,Medium,Night,Caramel,Quick & Strong,None,Mocha
+Light,High,5,Hot,1,4,Medium,Morning,Classic,Refreshing & Cold,Latte,Latte
+Light,Low,5,Hot,3,2,High,Evening,Chocolate,Quick & Strong,Cold Brew,Mocha
+Medium,Medium,4,Cold,2,2,Medium,Afternoon,Classic,Smooth & Relaxing,Americano,Americano
+Strong,High,1,Hot,3,3,High,Morning,Caramel,Quick & Strong,Latte,Latte
+Medium,Medium,2,Hot,3,1,Low,Morning,Classic,Smooth & Relaxing,None,Mocha
+Light,Medium,3,Iced,3,4,Low,Afternoon,Caramel,Smooth & Relaxing,Filter Coffee,Latte
+Medium,Medium,4,Iced,5,1,High,Evening,Fruity,Smooth & Relaxing,Latte,Americano
+Medium,High,2,Hot,5,4,High,Afternoon,Nutty,Sweet & Creamy,Cold Brew,Cappuccino
+Strong,High,1,Cold,5,3,High,Night,Chocolate,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,None,2,Hot,1,4,Medium,Evening,Fruity,Sweet & Creamy,Filter Coffee,Latte
+Strong,Low,3,Hot,4,1,Low,Morning,Vanilla,Sweet & Creamy,Americano,Americano
+Medium,Medium,5,Cold,1,4,Low,Night,Nutty,Refreshing & Cold,Cold Brew,Cold Brew
+Medium,Medium,3,Iced,2,3,Low,Morning,Vanilla,Quick & Strong,Latte,Latte
+Strong,Low,5,Hot,4,2,Medium,Afternoon,Classic,Sweet & Creamy,None,Filter Coffee
+Light,High,5,Hot,4,3,Medium,Evening,Vanilla,Quick & Strong,Cappuccino,Cappuccino
+Light,Medium,4,Hot,4,3,Medium,Evening,Nutty,Quick & Strong,Espresso,Cappuccino
+Medium,High,3,Iced,3,5,Medium,Morning,Classic,Refreshing & Cold,Espresso,Latte
+Light,Medium,1,Hot,2,3,High,Morning,Classic,Quick & Strong,Latte,Cappuccino
+Strong,High,2,Hot,4,3,Medium,Morning,Vanilla,Smooth & Relaxing,Filter Coffee,Latte
+Strong,Medium,5,Iced,2,5,High,Night,Nutty,Smooth & Relaxing,None,Mocha
+Medium,Medium,4,Cold,3,3,High,Afternoon,Vanilla,Sweet & Creamy,Filter Coffee,Latte
+Strong,Low,2,Iced,3,4,High,Evening,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,Medium,5,Cold,5,5,Medium,Evening,Nutty,Sweet & Creamy,Americano,Latte
+Medium,Low,2,Iced,2,1,Medium,Afternoon,Caramel,Smooth & Relaxing,None,Filter Coffee
+Medium,High,1,Cold,4,4,High,Morning,Nutty,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,High,1,Hot,3,2,Low,Evening,Vanilla,Smooth & Relaxing,Mocha,Cappuccino
+Strong,Low,4,Cold,1,2,Low,Morning,Nutty,Quick & Strong,Americano,Cappuccino
+Medium,Medium,5,Hot,3,3,Low,Morning,Caramel,Smooth & Relaxing,Espresso,Cappuccino
+Medium,Medium,5,Cold,4,2,High,Morning,Nutty,Quick & Strong,None,Espresso
+Strong,High,3,Iced,5,3,Medium,Morning,Nutty,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,High,2,Iced,1,3,High,Morning,Classic,Refreshing & Cold,Espresso,Latte
+Medium,High,1,Cold,3,3,Medium,Morning,Fruity,Smooth & Relaxing,Latte,Cappuccino
+Medium,Medium,4,Cold,2,3,Medium,Afternoon,Caramel,Quick & Strong,Cold Brew,Cold Brew
+Light,Low,1,Cold,3,3,Medium,Evening,Vanilla,Sweet & Creamy,Espresso,Cold Brew
+Medium,None,5,Hot,1,4,Medium,Morning,Caramel,Sweet & Creamy,Filter Coffee,Mocha
+Medium,None,1,Hot,5,5,Medium,Morning,Classic,Refreshing & Cold,Americano,Cold Brew
+Light,High,1,Iced,2,4,Medium,Morning,Caramel,Quick & Strong,None,Cappuccino
+Strong,Medium,4,Hot,3,2,Low,Afternoon,Vanilla,Refreshing & Cold,Americano,Filter Coffee
+Light,Low,1,Cold,2,5,Medium,Afternoon,Vanilla,Refreshing & Cold,Filter Coffee,Cold Brew
+Strong,None,1,Iced,1,3,Medium,Morning,Nutty,Smooth & Relaxing,Mocha,Filter Coffee
+Medium,None,2,Cold,3,4,Low,Morning,Vanilla,Smooth & Relaxing,Cold Brew,Cold Brew
+Strong,Medium,4,Hot,2,2,Low,Afternoon,Nutty,Smooth & Relaxing,Filter Coffee,Cappuccino
+Strong,Low,4,Hot,2,4,Low,Morning,Caramel,Smooth & Relaxing,Filter Coffee,Cappuccino
+Strong,High,5,Cold,5,2,High,Morning,Caramel,Refreshing & Cold,Mocha,Latte
+Medium,High,2,Cold,1,3,Medium,Evening,Chocolate,Refreshing & Cold,Filter Coffee,Mocha
+Medium,High,4,Hot,5,2,Low,Morning,Classic,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,High,1,Cold,3,3,High,Morning,Nutty,Refreshing & Cold,Filter Coffee,Cappuccino
+Light,None,5,Iced,5,1,High,Morning,Fruity,Quick & Strong,Americano,Filter Coffee
+Medium,Medium,2,Hot,4,5,Medium,Afternoon,Nutty,Refreshing & Cold,Latte,Latte
+Light,Low,5,Hot,2,2,High,Night,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Light,None,1,Hot,2,1,High,Morning,Caramel,Quick & Strong,Americano,Americano
+Light,None,1,Hot,3,3,High,Evening,Nutty,Refreshing & Cold,Cold Brew,Cold Brew
+Light,Medium,3,Hot,1,2,Medium,Morning,Classic,Refreshing & Cold,Espresso,Filter Coffee
+Strong,Medium,5,Hot,4,3,Medium,Night,Classic,Sweet & Creamy,Filter Coffee,Mocha
+Light,High,4,Hot,3,2,Low,Afternoon,Fruity,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,None,5,Hot,2,5,High,Afternoon,Classic,Quick & Strong,None,Mocha
+Medium,Low,4,Hot,5,5,High,Afternoon,Nutty,Sweet & Creamy,Filter Coffee,Latte
+Medium,None,3,Hot,5,4,Low,Morning,Fruity,Refreshing & Cold,Filter Coffee,Espresso
+Strong,High,2,Hot,4,3,Medium,Morning,Fruity,Sweet & Creamy,Espresso,Cappuccino
+Strong,None,1,Hot,4,5,Low,Morning,Chocolate,Quick & Strong,Filter Coffee,Filter Coffee
+Medium,Medium,5,Hot,5,4,Low,Night,Classic,Refreshing & Cold,Latte,Latte
+Light,Medium,2,Iced,1,5,Medium,Afternoon,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Light,High,4,Cold,5,1,Medium,Morning,Caramel,Quick & Strong,Americano,Filter Coffee
+Medium,Medium,3,Hot,5,2,High,Afternoon,Caramel,Smooth & Relaxing,None,Latte
+Light,Medium,1,Iced,5,2,High,Afternoon,Chocolate,Smooth & Relaxing,None,Filter Coffee
+Medium,None,3,Hot,5,2,Low,Afternoon,Classic,Quick & Strong,Cappuccino,Americano
+Medium,Medium,2,Iced,1,2,Low,Afternoon,Chocolate,Quick & Strong,Mocha,Mocha
+Light,Medium,4,Cold,3,1,High,Evening,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,Low,5,Cold,5,3,Medium,Afternoon,Fruity,Quick & Strong,Americano,Cold Brew
+Light,High,2,Cold,2,1,Medium,Morning,Classic,Sweet & Creamy,None,Filter Coffee
+Medium,Low,5,Hot,3,2,High,Morning,Classic,Quick & Strong,Espresso,Espresso
+Light,None,1,Cold,2,4,Medium,Evening,Chocolate,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,Low,3,Hot,2,3,High,Evening,Caramel,Smooth & Relaxing,Mocha,Filter Coffee
+Light,None,1,Hot,1,2,Medium,Morning,Classic,Sweet & Creamy,Cold Brew,Filter Coffee
+Light,Low,4,Cold,5,4,Medium,Morning,Vanilla,Sweet & Creamy,Cold Brew,Latte
+Light,High,4,Cold,1,4,High,Night,Vanilla,Quick & Strong,Cold Brew,Latte
+Strong,Low,2,Hot,1,1,Medium,Morning,Vanilla,Sweet & Creamy,None,Filter Coffee
+Medium,Low,3,Cold,1,1,High,Evening,Chocolate,Sweet & Creamy,Espresso,Cappuccino
+Strong,Medium,3,Cold,2,4,Medium,Morning,Chocolate,Smooth & Relaxing,Cappuccino,Mocha
+Medium,High,4,Hot,3,2,High,Afternoon,Fruity,Sweet & Creamy,Mocha,Mocha
+Light,Medium,2,Iced,4,1,High,Morning,Vanilla,Quick & Strong,Espresso,Cappuccino
+Medium,Low,4,Hot,2,2,Medium,Evening,Caramel,Quick & Strong,Cappuccino,Espresso
+Medium,Medium,3,Iced,2,3,High,Afternoon,Fruity,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,Medium,5,Iced,5,1,Medium,Evening,Vanilla,Quick & Strong,Espresso,Espresso
+Medium,High,3,Iced,1,5,Medium,Morning,Vanilla,Quick & Strong,Cappuccino,Latte
+Medium,Low,1,Cold,1,3,Low,Evening,Vanilla,Sweet & Creamy,None,Cold Brew
+Strong,Low,1,Hot,1,4,Medium,Evening,Vanilla,Sweet & Creamy,Latte,Latte
+Light,Medium,2,Iced,3,5,Medium,Afternoon,Chocolate,Quick & Strong,Filter Coffee,Cappuccino
+Strong,None,4,Hot,3,3,Medium,Afternoon,Classic,Smooth & Relaxing,None,Filter Coffee
+Light,High,3,Iced,1,2,Medium,Morning,Caramel,Sweet & Creamy,Americano,Mocha
+Medium,Low,5,Hot,4,2,Medium,Morning,Vanilla,Sweet & Creamy,Mocha,Filter Coffee
+Strong,None,3,Hot,4,4,Medium,Morning,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,Low,2,Hot,4,2,High,Afternoon,Chocolate,Sweet & Creamy,None,Mocha
+Light,Medium,2,Hot,4,3,High,Morning,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,High,4,Iced,1,2,Low,Afternoon,Fruity,Sweet & Creamy,Filter Coffee,Mocha
+Strong,High,5,Hot,5,4,High,Night,Vanilla,Smooth & Relaxing,Cold Brew,Cappuccino
+Light,High,4,Cold,4,1,Medium,Evening,Caramel,Sweet & Creamy,None,Latte
+Light,Medium,5,Hot,5,1,High,Morning,Vanilla,Refreshing & Cold,Mocha,Latte
+Medium,High,2,Iced,4,4,High,Afternoon,Nutty,Refreshing & Cold,Cold Brew,Cappuccino
+Strong,Low,2,Iced,4,2,High,Night,Vanilla,Smooth & Relaxing,Espresso,Filter Coffee
+Strong,High,1,Hot,1,3,Medium,Afternoon,Caramel,Smooth & Relaxing,Latte,Latte
+Strong,None,5,Hot,1,1,Medium,Morning,Caramel,Refreshing & Cold,Espresso,Cold Brew
+Light,Medium,2,Hot,1,4,High,Morning,Nutty,Refreshing & Cold,Latte,Latte
+Light,Low,4,Hot,2,1,High,Morning,Fruity,Refreshing & Cold,Latte,Cold Brew
+Medium,Medium,1,Hot,1,1,Low,Afternoon,Classic,Quick & Strong,Mocha,Filter Coffee
+Strong,None,2,Hot,1,1,Medium,Evening,Chocolate,Smooth & Relaxing,Cappuccino,Filter Coffee
+Light,Medium,2,Cold,1,2,Medium,Evening,Nutty,Sweet & Creamy,Filter Coffee,Filter Coffee
+Strong,Medium,3,Iced,2,4,High,Morning,Nutty,Refreshing & Cold,Cappuccino,Cappuccino
+Strong,Low,2,Iced,3,2,High,Afternoon,Caramel,Quick & Strong,Latte,Americano
+Strong,Low,4,Hot,5,2,Low,Morning,Classic,Refreshing & Cold,Espresso,Espresso
+Medium,Medium,5,Hot,5,4,High,Morning,Fruity,Quick & Strong,None,Latte
+Strong,Low,5,Cold,3,2,High,Evening,Vanilla,Quick & Strong,Cappuccino,Cold Brew
+Strong,None,5,Cold,5,2,Medium,Morning,Nutty,Refreshing & Cold,Cappuccino,Cold Brew
+Medium,High,1,Iced,1,2,Medium,Morning,Caramel,Smooth & Relaxing,None,Latte
+Strong,Medium,3,Hot,3,1,Low,Morning,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Light,Medium,2,Hot,2,3,Low,Morning,Fruity,Quick & Strong,Americano,Mocha
+Medium,High,1,Iced,3,3,Medium,Morning,Fruity,Sweet & Creamy,Filter Coffee,Cold Brew
+Light,Medium,2,Hot,1,3,Low,Morning,Nutty,Sweet & Creamy,None,Cappuccino
+Medium,Medium,3,Cold,1,4,Low,Morning,Caramel,Sweet & Creamy,Cappuccino,Mocha
+Light,High,5,Hot,3,4,High,Morning,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,High,5,Hot,5,3,Low,Morning,Caramel,Quick & Strong,Cold Brew,Latte
+Strong,High,5,Hot,2,4,Low,Morning,Classic,Sweet & Creamy,Espresso,Latte
+Strong,None,2,Cold,4,2,Medium,Night,Vanilla,Sweet & Creamy,Americano,Cold Brew
+Strong,None,2,Hot,3,3,High,Morning,Classic,Sweet & Creamy,Filter Coffee,Filter Coffee
+Strong,Low,1,Cold,2,4,Low,Morning,Vanilla,Refreshing & Cold,Mocha,Cold Brew
+Strong,Low,5,Hot,1,4,High,Morning,Classic,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,None,5,Hot,5,4,Medium,Morning,Vanilla,Refreshing & Cold,Cappuccino,Cappuccino
+Strong,None,2,Iced,2,2,High,Night,Chocolate,Refreshing & Cold,Latte,Cold Brew
+Strong,Medium,5,Iced,3,5,Medium,Morning,Nutty,Sweet & Creamy,Cold Brew,Latte
+Light,High,3,Hot,1,2,High,Evening,Caramel,Refreshing & Cold,Cappuccino,Cold Brew
+Light,Medium,4,Hot,3,1,Medium,Morning,Vanilla,Smooth & Relaxing,None,Cappuccino
+Light,Medium,5,Cold,5,2,Medium,Afternoon,Chocolate,Refreshing & Cold,Cappuccino,Mocha
+Strong,None,5,Iced,3,1,Low,Afternoon,Caramel,Sweet & Creamy,Mocha,Mocha
+Strong,High,4,Hot,2,2,Medium,Evening,Classic,Smooth & Relaxing,Cold Brew,Latte
+Light,High,4,Hot,3,3,Medium,Afternoon,Nutty,Smooth & Relaxing,None,Cappuccino
+Medium,Low,1,Hot,2,5,Medium,Morning,Fruity,Smooth & Relaxing,None,Filter Coffee
+Light,Medium,1,Iced,1,4,Medium,Evening,Vanilla,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,None,2,Hot,1,5,High,Morning,Vanilla,Quick & Strong,Cold Brew,Cappuccino
+Light,High,1,Hot,1,1,High,Afternoon,Vanilla,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Strong,Medium,1,Hot,4,3,Medium,Morning,Chocolate,Quick & Strong,None,Americano
+Strong,Low,5,Cold,4,3,Medium,Evening,Vanilla,Refreshing & Cold,Mocha,Cold Brew
+Strong,Medium,3,Hot,2,4,Medium,Afternoon,Vanilla,Sweet & Creamy,None,Latte
+Strong,None,2,Iced,3,3,Medium,Morning,Chocolate,Refreshing & Cold,Americano,Cold Brew
+Medium,None,1,Hot,3,2,Medium,Morning,Vanilla,Smooth & Relaxing,Espresso,Filter Coffee
+Strong,None,1,Hot,5,4,High,Afternoon,Vanilla,Quick & Strong,None,Cold Brew
+Medium,None,3,Iced,3,5,High,Afternoon,Chocolate,Sweet & Creamy,None,Mocha
+Light,High,1,Hot,1,2,Medium,Morning,Classic,Quick & Strong,Mocha,Filter Coffee
+Light,Low,3,Cold,2,3,High,Morning,Chocolate,Quick & Strong,None,Cold Brew
+Light,Medium,1,Iced,5,1,Medium,Morning,Nutty,Quick & Strong,None,Americano
+Strong,High,4,Cold,5,3,Medium,Morning,Classic,Sweet & Creamy,Mocha,Mocha
+Medium,None,2,Cold,2,5,Medium,Afternoon,Vanilla,Smooth & Relaxing,Filter Coffee,Latte
+Medium,None,3,Hot,3,4,Medium,Morning,Classic,Quick & Strong,Americano,Americano
+Light,High,2,Cold,3,2,High,Morning,Classic,Smooth & Relaxing,Espresso,Cappuccino
+Strong,None,1,Cold,3,3,High,Afternoon,Vanilla,Sweet & Creamy,Cappuccino,Cold Brew
+Light,High,2,Cold,5,1,Medium,Afternoon,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Medium,Low,4,Hot,1,1,High,Morning,Fruity,Quick & Strong,Latte,Filter Coffee
+Light,None,4,Hot,4,4,Medium,Morning,Fruity,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,High,2,Iced,3,2,High,Night,Fruity,Refreshing & Cold,Americano,Cold Brew
+Medium,None,5,Hot,4,2,High,Morning,Chocolate,Smooth & Relaxing,Cold Brew,Cappuccino
+Medium,Medium,2,Hot,4,5,Low,Evening,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Low,3,Hot,5,5,Medium,Night,Chocolate,Quick & Strong,Cappuccino,Latte
+Light,Low,2,Hot,4,1,High,Morning,Nutty,Refreshing & Cold,Cappuccino,Cold Brew
+Medium,Medium,2,Cold,3,5,Low,Morning,Vanilla,Refreshing & Cold,Espresso,Latte
+Strong,Medium,2,Hot,5,2,High,Afternoon,Classic,Refreshing & Cold,Filter Coffee,Filter Coffee
+Strong,Low,3,Cold,2,1,High,Afternoon,Fruity,Sweet & Creamy,Mocha,Cold Brew
+Strong,Medium,4,Hot,5,3,Medium,Afternoon,Vanilla,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,Medium,3,Iced,3,4,High,Morning,Classic,Quick & Strong,Cold Brew,Cappuccino
+Medium,None,1,Hot,5,5,Low,Morning,Caramel,Refreshing & Cold,None,Cappuccino
+Medium,None,5,Iced,3,1,Medium,Morning,Vanilla,Sweet & Creamy,Espresso,Latte
+Medium,None,4,Cold,1,2,Low,Morning,Caramel,Smooth & Relaxing,Cappuccino,Cold Brew
+Strong,Medium,4,Hot,5,4,Medium,Afternoon,Caramel,Refreshing & Cold,Cappuccino,Cappuccino
+Strong,Medium,5,Cold,1,2,Medium,Morning,Chocolate,Quick & Strong,None,Mocha
+Light,Medium,5,Cold,1,5,Medium,Night,Caramel,Refreshing & Cold,Mocha,Mocha
+Light,None,1,Hot,4,3,Medium,Afternoon,Fruity,Sweet & Creamy,Cold Brew,Filter Coffee
+Strong,High,5,Iced,4,2,High,Morning,Caramel,Quick & Strong,Latte,Latte
+Medium,None,4,Iced,3,1,Medium,Morning,Vanilla,Smooth & Relaxing,Filter Coffee,Cold Brew
+Light,None,1,Iced,4,5,High,Afternoon,Chocolate,Refreshing & Cold,Latte,Cappuccino
+Strong,Low,3,Hot,3,3,Medium,Afternoon,Fruity,Smooth & Relaxing,Espresso,Filter Coffee
+Light,None,4,Hot,2,1,Low,Morning,Classic,Quick & Strong,None,Filter Coffee
+Light,Medium,4,Iced,2,4,High,Evening,Classic,Sweet & Creamy,None,Mocha
+Medium,None,2,Hot,3,1,Low,Morning,Chocolate,Smooth & Relaxing,None,Filter Coffee
+Strong,Medium,2,Hot,1,4,Medium,Morning,Vanilla,Sweet & Creamy,Espresso,Latte
+Medium,High,5,Hot,5,4,High,Evening,Nutty,Smooth & Relaxing,Americano,Cappuccino
+Strong,Medium,1,Hot,4,2,High,Afternoon,Fruity,Refreshing & Cold,None,Cold Brew
+Medium,None,4,Hot,4,5,Low,Morning,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Light,Low,3,Iced,3,1,Medium,Morning,Nutty,Sweet & Creamy,Espresso,Cappuccino
+Strong,Low,5,Iced,5,2,Medium,Morning,Chocolate,Refreshing & Cold,Americano,Americano
+Light,Low,3,Iced,1,5,Medium,Afternoon,Chocolate,Smooth & Relaxing,None,Mocha
+Light,High,1,Cold,5,3,Medium,Afternoon,Caramel,Refreshing & Cold,Mocha,Latte
+Strong,Low,2,Hot,1,4,Low,Morning,Chocolate,Refreshing & Cold,Americano,Mocha
+Light,None,5,Cold,3,1,Medium,Afternoon,Chocolate,Smooth & Relaxing,Mocha,Mocha
+Strong,None,3,Iced,5,3,Medium,Morning,Chocolate,Smooth & Relaxing,Mocha,Cappuccino
+Light,None,4,Hot,1,4,Low,Morning,Classic,Sweet & Creamy,Filter Coffee,Latte
+Strong,Medium,1,Iced,1,3,Medium,Evening,Chocolate,Refreshing & Cold,Latte,Mocha
+Strong,None,2,Hot,4,5,Medium,Morning,Chocolate,Sweet & Creamy,None,Cappuccino
+Light,High,4,Hot,2,4,Medium,Morning,Caramel,Smooth & Relaxing,Espresso,Latte
+Strong,Low,5,Iced,5,2,Low,Afternoon,Chocolate,Quick & Strong,None,Espresso
+Light,Low,5,Hot,2,4,Medium,Morning,Chocolate,Refreshing & Cold,Latte,Mocha
+Light,Medium,3,Iced,5,5,Medium,Morning,Vanilla,Smooth & Relaxing,Espresso,Latte
+Medium,Medium,1,Iced,1,4,Low,Morning,Vanilla,Refreshing & Cold,Mocha,Latte
+Light,High,4,Hot,5,5,Low,Night,Fruity,Quick & Strong,Latte,Latte
+Medium,High,5,Hot,1,2,Medium,Morning,Nutty,Refreshing & Cold,Espresso,Filter Coffee
+Strong,None,5,Hot,1,5,High,Evening,Chocolate,Quick & Strong,Espresso,Mocha
+Medium,Medium,2,Iced,2,3,Low,Morning,Vanilla,Refreshing & Cold,Latte,Cappuccino
+Medium,Medium,5,Hot,5,5,Medium,Night,Vanilla,Refreshing & Cold,Latte,Latte
+Medium,Medium,2,Iced,4,3,High,Afternoon,Nutty,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,Medium,1,Iced,5,1,High,Afternoon,Vanilla,Smooth & Relaxing,None,Americano
+Medium,Medium,4,Hot,5,3,Medium,Morning,Classic,Sweet & Creamy,Espresso,Filter Coffee
+Strong,Low,2,Cold,2,3,Medium,Afternoon,Vanilla,Refreshing & Cold,Cappuccino,Cold Brew
+Medium,None,5,Iced,2,4,Medium,Evening,Nutty,Refreshing & Cold,Espresso,Cold Brew
+Strong,Low,4,Cold,3,3,Low,Evening,Nutty,Refreshing & Cold,Espresso,Cold Brew
+Medium,None,2,Hot,2,5,Low,Morning,Nutty,Sweet & Creamy,Americano,Cappuccino
+Light,High,2,Iced,4,4,Low,Afternoon,Caramel,Refreshing & Cold,Latte,Latte
+Light,Low,2,Hot,3,5,Medium,Afternoon,Fruity,Quick & Strong,Cold Brew,Latte
+Strong,Medium,5,Iced,3,2,Medium,Night,Fruity,Sweet & Creamy,Filter Coffee,Cold Brew
+Light,Low,5,Hot,2,3,High,Afternoon,Caramel,Smooth & Relaxing,Mocha,Latte
+Light,None,1,Hot,2,4,Medium,Morning,Vanilla,Sweet & Creamy,Latte,Latte
+Light,None,2,Iced,1,1,Medium,Morning,Chocolate,Smooth & Relaxing,Cappuccino,Filter Coffee
+Medium,None,2,Cold,2,2,Low,Afternoon,Classic,Quick & Strong,Filter Coffee,Americano
+Medium,High,3,Hot,4,2,Medium,Night,Caramel,Smooth & Relaxing,Cold Brew,Cappuccino
+Light,Low,4,Iced,1,1,Medium,Morning,Nutty,Sweet & Creamy,Filter Coffee,Filter Coffee
+Light,Medium,5,Iced,4,1,High,Afternoon,Nutty,Smooth & Relaxing,Americano,Filter Coffee
+Medium,High,5,Hot,2,2,High,Afternoon,Vanilla,Sweet & Creamy,Cold Brew,Mocha
+Strong,Medium,4,Cold,2,5,Medium,Morning,Classic,Sweet & Creamy,Cold Brew,Mocha
+Medium,None,5,Hot,1,5,High,Morning,Classic,Quick & Strong,Americano,Mocha
+Light,Low,3,Hot,2,4,Medium,Afternoon,Chocolate,Smooth & Relaxing,Latte,Latte
+Strong,Low,5,Iced,5,3,High,Morning,Nutty,Smooth & Relaxing,None,Cappuccino
+Light,Low,3,Cold,3,4,Low,Evening,Caramel,Sweet & Creamy,Mocha,Mocha
+Light,Medium,1,Hot,4,5,Medium,Afternoon,Nutty,Quick & Strong,Cold Brew,Cappuccino
+Strong,None,2,Iced,1,2,High,Morning,Chocolate,Sweet & Creamy,Cold Brew,Americano
+Light,Low,1,Iced,2,5,Low,Evening,Vanilla,Sweet & Creamy,Cold Brew,Latte
+Strong,Medium,5,Cold,5,2,High,Night,Chocolate,Refreshing & Cold,Latte,Cold Brew
+Light,Medium,1,Hot,4,4,Medium,Morning,Vanilla,Quick & Strong,Espresso,Cappuccino
+Strong,High,5,Iced,5,5,Medium,Afternoon,Chocolate,Sweet & Creamy,Espresso,Mocha
+Light,Medium,4,Iced,2,1,High,Morning,Fruity,Refreshing & Cold,Latte,Cold Brew
+Medium,Low,3,Hot,3,1,Medium,Night,Vanilla,Smooth & Relaxing,Mocha,Filter Coffee
+Light,High,3,Hot,5,3,Low,Morning,Fruity,Sweet & Creamy,None,Cappuccino
+Strong,Low,5,Hot,3,5,High,Afternoon,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Low,4,Iced,5,1,Medium,Morning,Caramel,Sweet & Creamy,Mocha,Filter Coffee
+Medium,Medium,5,Hot,3,5,High,Evening,Caramel,Smooth & Relaxing,Cappuccino,Mocha
+Medium,Low,2,Hot,3,3,Medium,Afternoon,Caramel,Sweet & Creamy,Mocha,Cappuccino
+Light,Medium,5,Hot,5,3,Medium,Afternoon,Fruity,Quick & Strong,None,Espresso
+Strong,Medium,5,Hot,2,3,Medium,Night,Caramel,Refreshing & Cold,Mocha,Mocha
+Strong,Medium,5,Hot,5,2,Medium,Evening,Nutty,Sweet & Creamy,None,Cappuccino
+Light,Medium,3,Iced,3,3,High,Morning,Caramel,Sweet & Creamy,None,Mocha
+Medium,Medium,2,Hot,1,1,High,Evening,Classic,Quick & Strong,None,Americano
+Light,High,5,Cold,3,5,High,Afternoon,Classic,Quick & Strong,Americano,Mocha
+Strong,High,1,Hot,4,5,Medium,Evening,Caramel,Refreshing & Cold,Americano,Latte
+Light,High,2,Cold,1,2,Low,Morning,Vanilla,Quick & Strong,None,Latte
+Medium,High,5,Cold,5,3,Medium,Evening,Nutty,Sweet & Creamy,None,Mocha
+Medium,High,1,Cold,4,2,High,Morning,Chocolate,Sweet & Creamy,Latte,Latte
+Strong,Low,2,Hot,1,2,Medium,Afternoon,Vanilla,Sweet & Creamy,Cold Brew,Cappuccino
+Light,High,1,Cold,4,5,High,Afternoon,Nutty,Refreshing & Cold,Americano,Latte
+Strong,High,5,Hot,5,2,Medium,Morning,Nutty,Refreshing & Cold,Filter Coffee,Cappuccino
+Light,Low,4,Iced,5,2,Medium,Evening,Caramel,Sweet & Creamy,Filter Coffee,Mocha
+Medium,Low,4,Hot,4,3,High,Night,Classic,Smooth & Relaxing,None,Filter Coffee
+Light,High,3,Iced,3,5,High,Morning,Chocolate,Refreshing & Cold,None,Mocha
+Light,Low,1,Cold,3,5,High,Morning,Nutty,Quick & Strong,Mocha,Cappuccino
+Light,None,1,Hot,5,2,High,Morning,Caramel,Smooth & Relaxing,Cold Brew,Filter Coffee
+Medium,Medium,4,Iced,3,4,High,Afternoon,Chocolate,Sweet & Creamy,Americano,Mocha
+Strong,Low,2,Hot,2,3,Medium,Morning,Classic,Smooth & Relaxing,Latte,Filter Coffee
+Medium,None,2,Hot,2,3,Low,Afternoon,Nutty,Sweet & Creamy,None,Filter Coffee
+Medium,Low,1,Iced,1,2,High,Afternoon,Vanilla,Quick & Strong,Latte,Filter Coffee
+Medium,High,5,Hot,2,4,Medium,Morning,Chocolate,Sweet & Creamy,None,Mocha
+Medium,Low,3,Hot,1,1,High,Morning,Vanilla,Sweet & Creamy,Latte,Latte
+Light,Medium,2,Hot,2,4,High,Morning,Chocolate,Sweet & Creamy,None,Mocha
+Medium,High,5,Cold,3,3,High,Afternoon,Fruity,Sweet & Creamy,None,Latte
+Strong,Medium,4,Hot,5,4,High,Afternoon,Vanilla,Refreshing & Cold,Latte,Latte
+Strong,High,4,Hot,3,3,High,Morning,Vanilla,Smooth & Relaxing,None,Latte
+Strong,High,5,Cold,1,3,Medium,Evening,Caramel,Sweet & Creamy,Espresso,Mocha
+Strong,High,3,Hot,4,4,High,Morning,Vanilla,Sweet & Creamy,Mocha,Cappuccino
+Light,Medium,3,Cold,5,3,Low,Afternoon,Classic,Refreshing & Cold,Mocha,Cold Brew
+Light,None,5,Hot,2,3,High,Evening,Nutty,Quick & Strong,None,Mocha
+Medium,High,5,Iced,3,1,Medium,Night,Nutty,Sweet & Creamy,Mocha,Mocha
+Strong,High,5,Cold,1,1,High,Night,Chocolate,Quick & Strong,Cappuccino,Mocha
+Medium,None,3,Hot,4,2,Medium,Evening,Chocolate,Sweet & Creamy,Filter Coffee,Espresso
+Medium,Low,3,Cold,2,5,Medium,Night,Classic,Quick & Strong,Latte,Mocha
+Light,High,2,Hot,2,4,Medium,Morning,Fruity,Smooth & Relaxing,None,Latte
+Medium,None,4,Hot,2,1,High,Morning,Classic,Smooth & Relaxing,Cold Brew,Filter Coffee
+Light,None,3,Hot,1,4,Medium,Evening,Caramel,Quick & Strong,None,Filter Coffee
+Strong,Medium,1,Hot,4,5,Medium,Afternoon,Fruity,Quick & Strong,Espresso,Latte
+Strong,High,4,Cold,2,4,Medium,Night,Vanilla,Refreshing & Cold,None,Cold Brew
+Light,Medium,3,Iced,4,1,Medium,Morning,Vanilla,Smooth & Relaxing,Cappuccino,Filter Coffee
+Light,Medium,4,Hot,3,3,Low,Morning,Nutty,Smooth & Relaxing,None,Cappuccino
+Medium,High,3,Hot,1,5,Low,Morning,Classic,Quick & Strong,Mocha,Mocha
+Strong,Medium,4,Hot,2,5,Medium,Morning,Nutty,Refreshing & Cold,Americano,Cappuccino
+Strong,None,1,Cold,2,3,High,Morning,Nutty,Sweet & Creamy,Filter Coffee,Filter Coffee
+Medium,Medium,3,Iced,4,5,Medium,Afternoon,Classic,Sweet & Creamy,Latte,Latte
+Strong,Low,5,Hot,1,4,Low,Morning,Vanilla,Quick & Strong,Cappuccino,Cappuccino
+Medium,Low,5,Hot,1,4,Medium,Morning,Chocolate,Smooth & Relaxing,Latte,Mocha
+Medium,High,1,Cold,1,5,Low,Evening,Caramel,Sweet & Creamy,Espresso,Mocha
+Medium,None,4,Cold,1,1,Medium,Morning,Vanilla,Quick & Strong,None,Cold Brew
+Medium,High,2,Cold,1,5,High,Night,Vanilla,Sweet & Creamy,Latte,Latte
+Medium,None,1,Hot,5,2,Medium,Night,Chocolate,Smooth & Relaxing,Mocha,Filter Coffee
+Strong,None,4,Hot,2,4,Medium,Morning,Vanilla,Smooth & Relaxing,Espresso,Latte
+Strong,Medium,3,Cold,4,4,Medium,Afternoon,Classic,Quick & Strong,Cappuccino,Cappuccino
+Light,Low,1,Cold,2,4,High,Evening,Classic,Smooth & Relaxing,Cold Brew,Cold Brew
+Light,Low,4,Hot,1,1,High,Morning,Vanilla,Sweet & Creamy,None,Filter Coffee
+Medium,Low,3,Cold,4,3,Medium,Night,Vanilla,Quick & Strong,Americano,Americano
+Medium,Low,1,Iced,5,2,High,Evening,Chocolate,Refreshing & Cold,Espresso,Cold Brew
+Strong,Medium,1,Hot,5,4,Medium,Afternoon,Chocolate,Quick & Strong,Cappuccino,Cappuccino
+Strong,Medium,2,Iced,2,4,High,Evening,Chocolate,Refreshing & Cold,Espresso,Cold Brew
+Medium,Low,4,Hot,1,2,Medium,Morning,Vanilla,Sweet & Creamy,Cold Brew,Mocha
+Medium,High,2,Iced,3,1,Medium,Morning,Vanilla,Refreshing & Cold,Latte,Cappuccino
+Medium,None,1,Hot,1,4,Medium,Evening,Vanilla,Quick & Strong,Americano,Latte
+Strong,High,4,Hot,2,3,High,Morning,Fruity,Refreshing & Cold,Latte,Cappuccino
+Strong,Medium,4,Cold,2,5,Medium,Afternoon,Nutty,Refreshing & Cold,Latte,Latte
+Light,None,5,Cold,1,3,High,Afternoon,Vanilla,Sweet & Creamy,Filter Coffee,Latte
+Medium,High,4,Cold,1,5,Medium,Afternoon,Vanilla,Sweet & Creamy,Cold Brew,Latte
+Medium,None,1,Iced,5,2,Medium,Morning,Caramel,Refreshing & Cold,None,Cold Brew
+Medium,High,5,Hot,4,1,Medium,Morning,Classic,Sweet & Creamy,Latte,Filter Coffee
+Light,Low,4,Cold,3,5,High,Evening,Nutty,Refreshing & Cold,Cold Brew,Cold Brew
+Light,Medium,1,Hot,3,1,Low,Morning,Classic,Smooth & Relaxing,Espresso,Filter Coffee
+Strong,Medium,5,Iced,4,1,High,Morning,Caramel,Smooth & Relaxing,Mocha,Filter Coffee
+Strong,High,5,Iced,1,3,High,Morning,Chocolate,Smooth & Relaxing,None,Mocha
+Medium,Low,2,Hot,1,3,Medium,Afternoon,Vanilla,Quick & Strong,Espresso,Cappuccino
+Strong,Low,4,Hot,3,4,High,Morning,Nutty,Sweet & Creamy,Latte,Latte
+Light,High,3,Cold,4,4,High,Morning,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Medium,High,3,Iced,5,5,Medium,Night,Vanilla,Refreshing & Cold,None,Cappuccino
+Light,High,3,Cold,4,1,Medium,Morning,Vanilla,Smooth & Relaxing,None,Cappuccino
+Light,Medium,2,Hot,3,1,Medium,Afternoon,Chocolate,Refreshing & Cold,Filter Coffee,Filter Coffee
+Light,High,1,Iced,1,4,Medium,Morning,Classic,Quick & Strong,None,Latte
+Strong,Medium,1,Iced,3,3,Medium,Evening,Vanilla,Sweet & Creamy,Filter Coffee,Latte
+Medium,None,4,Cold,1,2,High,Evening,Vanilla,Sweet & Creamy,Cold Brew,Cold Brew
+Strong,Medium,3,Hot,1,1,High,Morning,Nutty,Smooth & Relaxing,Latte,Filter Coffee
+Medium,High,3,Hot,1,1,Medium,Morning,Vanilla,Refreshing & Cold,Espresso,Cappuccino
+Light,Low,3,Hot,2,3,High,Morning,Vanilla,Sweet & Creamy,Filter Coffee,Cappuccino
+Strong,High,4,Iced,3,5,High,Morning,Fruity,Refreshing & Cold,Cappuccino,Latte
+Light,High,4,Cold,3,1,High,Morning,Vanilla,Refreshing & Cold,Filter Coffee,Cold Brew
+Medium,Medium,5,Hot,4,5,High,Afternoon,Chocolate,Quick & Strong,Cappuccino,Cappuccino
+Strong,Low,2,Hot,4,4,Low,Afternoon,Nutty,Refreshing & Cold,Cappuccino,Cappuccino
+Strong,Medium,1,Iced,5,1,Medium,Evening,Vanilla,Quick & Strong,Filter Coffee,Espresso
+Light,High,1,Hot,3,1,High,Afternoon,Fruity,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,Medium,4,Hot,1,4,Medium,Morning,Caramel,Refreshing & Cold,Cold Brew,Latte
+Strong,Medium,4,Cold,5,5,Medium,Afternoon,Fruity,Refreshing & Cold,None,Latte
+Light,Low,2,Cold,2,5,High,Morning,Vanilla,Refreshing & Cold,Espresso,Latte
+Strong,Medium,2,Iced,2,2,Medium,Evening,Classic,Quick & Strong,Mocha,Americano
+Strong,Low,2,Iced,3,3,Medium,Evening,Vanilla,Quick & Strong,Filter Coffee,Americano
+Light,None,5,Iced,5,4,Medium,Evening,Caramel,Quick & Strong,Americano,Mocha
+Light,Medium,5,Iced,1,4,High,Evening,Vanilla,Refreshing & Cold,Americano,Mocha
+Strong,None,3,Cold,5,4,Low,Afternoon,Caramel,Smooth & Relaxing,Espresso,Cold Brew
+Light,Medium,4,Hot,4,3,Low,Night,Fruity,Smooth & Relaxing,None,Cappuccino
+Light,Medium,1,Iced,1,5,Medium,Morning,Classic,Quick & Strong,Cold Brew,Latte
+Medium,Medium,5,Iced,5,5,Low,Morning,Chocolate,Refreshing & Cold,Americano,Mocha
+Medium,Low,5,Cold,3,2,Medium,Morning,Vanilla,Sweet & Creamy,Espresso,Cappuccino
+Medium,Low,3,Iced,4,1,Low,Morning,Vanilla,Smooth & Relaxing,Latte,Cappuccino
+Strong,High,3,Iced,5,2,High,Afternoon,Classic,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,Low,3,Iced,1,2,Low,Morning,Classic,Quick & Strong,Americano,Espresso
+Medium,Low,3,Iced,3,5,High,Afternoon,Nutty,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,None,3,Iced,2,1,High,Morning,Chocolate,Quick & Strong,None,Cold Brew
+Light,High,3,Cold,3,3,High,Morning,Caramel,Quick & Strong,None,Latte
+Medium,None,5,Hot,5,1,Medium,Evening,Vanilla,Smooth & Relaxing,Espresso,Espresso
+Strong,Medium,2,Iced,2,1,Medium,Afternoon,Classic,Smooth & Relaxing,Americano,Filter Coffee
+Medium,None,3,Hot,4,4,Medium,Evening,Caramel,Smooth & Relaxing,Americano,Filter Coffee
+Light,Low,2,Hot,1,4,Medium,Evening,Caramel,Smooth & Relaxing,Americano,Latte
+Light,High,1,Hot,4,5,Low,Afternoon,Vanilla,Quick & Strong,Filter Coffee,Cappuccino
+Light,High,3,Iced,4,1,High,Morning,Nutty,Quick & Strong,Mocha,Filter Coffee
+Light,High,3,Iced,1,3,Medium,Evening,Chocolate,Smooth & Relaxing,Cappuccino,Mocha
+Medium,Low,5,Hot,3,1,Low,Night,Fruity,Sweet & Creamy,Filter Coffee,Filter Coffee
+Light,High,2,Cold,2,4,High,Morning,Classic,Refreshing & Cold,Espresso,Cold Brew
+Strong,Medium,2,Cold,3,4,Low,Evening,Nutty,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,High,5,Hot,5,3,High,Night,Chocolate,Quick & Strong,Cappuccino,Cappuccino
+Light,High,4,Iced,5,1,Medium,Evening,Nutty,Smooth & Relaxing,Espresso,Cappuccino
+Medium,Medium,5,Hot,5,2,High,Morning,Nutty,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,High,5,Hot,5,5,Medium,Evening,Fruity,Quick & Strong,Latte,Mocha
+Light,High,5,Iced,5,5,High,Morning,Classic,Smooth & Relaxing,Cold Brew,Latte
+Medium,Medium,5,Hot,5,2,High,Morning,Classic,Refreshing & Cold,Espresso,Americano
+Strong,Medium,5,Cold,1,1,Medium,Afternoon,Nutty,Refreshing & Cold,Espresso,Cold Brew
+Light,High,4,Cold,2,5,Medium,Afternoon,Chocolate,Refreshing & Cold,None,Mocha
+Medium,High,5,Hot,2,2,High,Afternoon,Classic,Quick & Strong,Mocha,Mocha
+Strong,High,5,Hot,5,3,Low,Evening,Vanilla,Quick & Strong,Cold Brew,Latte
+Medium,Medium,4,Iced,4,4,Low,Morning,Caramel,Sweet & Creamy,Latte,Latte
+Medium,High,2,Hot,2,4,Low,Afternoon,Fruity,Smooth & Relaxing,Cold Brew,Cappuccino
+Medium,Medium,4,Cold,5,4,Medium,Evening,Chocolate,Quick & Strong,Cold Brew,Mocha
+Medium,None,4,Hot,1,4,Medium,Morning,Vanilla,Smooth & Relaxing,None,Cappuccino
+Strong,High,2,Cold,3,1,Medium,Morning,Classic,Refreshing & Cold,Americano,Cold Brew
+Light,Medium,2,Hot,2,4,Medium,Afternoon,Fruity,Refreshing & Cold,Cappuccino,Cappuccino
+Light,High,3,Hot,3,4,Medium,Afternoon,Nutty,Sweet & Creamy,Espresso,Latte
+Light,Medium,4,Iced,4,5,Low,Morning,Fruity,Smooth & Relaxing,Espresso,Mocha
+Medium,Low,5,Cold,3,1,High,Evening,Vanilla,Quick & Strong,Cold Brew,Cold Brew
+Light,Low,2,Iced,1,1,Low,Morning,Chocolate,Sweet & Creamy,Latte,Mocha
+Medium,Low,1,Iced,3,1,High,Morning,Classic,Sweet & Creamy,Americano,Filter Coffee
+Strong,High,1,Hot,3,1,Medium,Morning,Nutty,Smooth & Relaxing,None,Filter Coffee
+Strong,High,4,Hot,3,1,High,Morning,Vanilla,Quick & Strong,Espresso,Espresso
+Strong,Low,2,Iced,5,4,High,Morning,Fruity,Quick & Strong,Cold Brew,Espresso
+Strong,Medium,2,Iced,2,2,High,Afternoon,Fruity,Refreshing & Cold,Latte,Cold Brew
+Medium,Low,4,Iced,1,4,Medium,Afternoon,Vanilla,Smooth & Relaxing,Filter Coffee,Americano
+Medium,Low,3,Iced,4,4,Medium,Afternoon,Nutty,Smooth & Relaxing,Latte,Filter Coffee
+Strong,High,1,Iced,4,5,Medium,Afternoon,Vanilla,Quick & Strong,None,Latte
+Light,High,4,Hot,4,4,High,Morning,Fruity,Refreshing & Cold,None,Mocha
+Light,Low,5,Iced,4,1,High,Morning,Vanilla,Refreshing & Cold,Latte,Cold Brew
+Light,Medium,1,Hot,2,1,Low,Morning,Nutty,Refreshing & Cold,Mocha,Cold Brew
+Medium,None,1,Hot,2,1,Low,Morning,Vanilla,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,Medium,4,Cold,2,1,High,Evening,Caramel,Refreshing & Cold,None,Cold Brew
+Strong,High,5,Hot,4,1,High,Morning,Vanilla,Refreshing & Cold,Americano,Latte
+Strong,High,1,Hot,1,5,Low,Morning,Classic,Quick & Strong,Espresso,Filter Coffee
+Medium,Low,1,Cold,4,2,Medium,Afternoon,Caramel,Smooth & Relaxing,None,Filter Coffee
+Light,Medium,2,Cold,3,2,High,Morning,Classic,Sweet & Creamy,Filter Coffee,Latte
+Strong,None,3,Iced,2,4,Medium,Morning,Vanilla,Refreshing & Cold,Latte,Latte
+Strong,Medium,1,Hot,3,5,High,Morning,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Light,Low,4,Cold,3,3,Medium,Night,Classic,Sweet & Creamy,Cappuccino,Mocha
+Medium,Medium,5,Hot,2,3,Medium,Morning,Classic,Sweet & Creamy,None,Mocha
+Light,Medium,1,Hot,3,2,High,Morning,Vanilla,Refreshing & Cold,Americano,Cold Brew
+Light,Medium,5,Cold,4,5,Medium,Morning,Caramel,Smooth & Relaxing,None,Cappuccino
+Strong,Low,5,Iced,2,2,High,Morning,Nutty,Smooth & Relaxing,None,Cappuccino
+Light,High,2,Cold,4,1,Medium,Morning,Fruity,Quick & Strong,Cold Brew,Cold Brew
+Medium,Low,3,Cold,5,3,Medium,Night,Chocolate,Refreshing & Cold,Latte,Cold Brew
+Strong,Low,2,Hot,1,1,High,Afternoon,Classic,Refreshing & Cold,Latte,Cold Brew
+Light,None,2,Cold,4,4,High,Evening,Fruity,Quick & Strong,Cappuccino,Cold Brew
+Strong,Low,5,Hot,5,4,Medium,Afternoon,Nutty,Quick & Strong,Mocha,Cappuccino
+Light,High,5,Hot,1,4,High,Afternoon,Vanilla,Refreshing & Cold,None,Latte
+Light,Low,2,Hot,3,5,Medium,Morning,Vanilla,Refreshing & Cold,Filter Coffee,Cappuccino
+Medium,Low,5,Hot,4,3,High,Morning,Nutty,Smooth & Relaxing,Cold Brew,Filter Coffee
+Light,Low,1,Cold,4,4,Medium,Morning,Vanilla,Smooth & Relaxing,Cold Brew,Cold Brew
+Strong,None,4,Cold,2,1,High,Morning,Chocolate,Quick & Strong,Cappuccino,Americano
+Medium,Medium,3,Cold,1,3,Medium,Morning,Vanilla,Refreshing & Cold,Espresso,Cold Brew
+Light,Low,1,Iced,5,1,Low,Evening,Nutty,Quick & Strong,Cold Brew,Espresso
+Light,Medium,5,Hot,2,5,Medium,Morning,Vanilla,Sweet & Creamy,Filter Coffee,Latte
+Medium,None,2,Iced,2,5,Medium,Night,Vanilla,Quick & Strong,None,Cold Brew
+Medium,None,4,Hot,5,1,Medium,Night,Vanilla,Smooth & Relaxing,Cappuccino,Americano
+Light,Medium,3,Hot,3,4,Low,Afternoon,Classic,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Medium,4,Iced,2,3,Medium,Night,Chocolate,Refreshing & Cold,Espresso,Cold Brew
+Strong,None,4,Hot,4,1,Medium,Night,Caramel,Smooth & Relaxing,Mocha,Americano
+Medium,High,3,Hot,3,3,Medium,Evening,Caramel,Sweet & Creamy,Filter Coffee,Latte
+Medium,Medium,3,Iced,3,3,High,Morning,Nutty,Quick & Strong,None,Americano
+Medium,Medium,5,Cold,3,3,High,Evening,Classic,Sweet & Creamy,Latte,Cappuccino
+Strong,High,2,Hot,4,4,Medium,Morning,Caramel,Refreshing & Cold,Espresso,Latte
+Light,None,3,Hot,3,4,Low,Evening,Chocolate,Sweet & Creamy,Espresso,Mocha
+Medium,High,1,Hot,4,1,Medium,Afternoon,Classic,Sweet & Creamy,Espresso,Espresso
+Medium,Medium,2,Iced,2,2,Medium,Afternoon,Vanilla,Quick & Strong,Mocha,Cappuccino
+Strong,Medium,2,Hot,2,3,Low,Morning,Chocolate,Sweet & Creamy,Espresso,Mocha
+Light,High,4,Hot,1,2,Medium,Evening,Nutty,Smooth & Relaxing,Latte,Latte
+Light,Medium,1,Hot,4,4,High,Morning,Caramel,Sweet & Creamy,Mocha,Cappuccino
+Medium,High,5,Cold,2,4,Medium,Morning,Chocolate,Smooth & Relaxing,Espresso,Mocha
+Medium,None,2,Cold,1,1,Medium,Evening,Nutty,Sweet & Creamy,Cappuccino,Cold Brew
+Light,High,4,Hot,5,1,Medium,Morning,Nutty,Refreshing & Cold,Cold Brew,Filter Coffee
+Light,Medium,5,Cold,2,4,Low,Evening,Nutty,Sweet & Creamy,None,Mocha
+Strong,High,2,Hot,5,4,Medium,Morning,Chocolate,Quick & Strong,None,Espresso
+Medium,High,4,Iced,1,3,Low,Evening,Nutty,Quick & Strong,Latte,Mocha
+Strong,Low,2,Cold,4,1,Low,Morning,Chocolate,Refreshing & Cold,None,Cold Brew
+Strong,None,5,Iced,1,1,High,Night,Classic,Smooth & Relaxing,None,Filter Coffee
+Strong,Medium,1,Cold,3,2,Low,Night,Chocolate,Smooth & Relaxing,Americano,Filter Coffee
+Strong,Low,4,Hot,1,5,Medium,Afternoon,Chocolate,Refreshing & Cold,Espresso,Mocha
+Strong,High,4,Hot,4,2,High,Night,Chocolate,Refreshing & Cold,Americano,Mocha
+Light,Medium,1,Cold,5,4,Medium,Night,Caramel,Quick & Strong,Mocha,Latte
+Strong,High,3,Iced,3,1,Low,Afternoon,Chocolate,Sweet & Creamy,Mocha,Mocha
+Medium,High,1,Hot,1,3,Medium,Morning,Caramel,Smooth & Relaxing,Espresso,Latte
+Strong,Low,2,Cold,4,2,Medium,Morning,Vanilla,Smooth & Relaxing,Espresso,Filter Coffee
+Strong,Medium,3,Cold,3,1,High,Morning,Fruity,Smooth & Relaxing,None,Cappuccino
+Light,Medium,5,Hot,3,1,Medium,Afternoon,Caramel,Quick & Strong,Mocha,Espresso
+Medium,Low,5,Hot,2,4,High,Evening,Classic,Refreshing & Cold,Cappuccino,Cappuccino
+Strong,None,4,Iced,1,1,High,Evening,Caramel,Sweet & Creamy,Americano,Filter Coffee
+Strong,High,4,Cold,1,1,Low,Morning,Vanilla,Sweet & Creamy,Cold Brew,Latte
+Strong,None,5,Iced,3,3,Medium,Morning,Classic,Sweet & Creamy,Filter Coffee,Filter Coffee
+Medium,Medium,3,Hot,3,4,Medium,Evening,Fruity,Sweet & Creamy,Espresso,Mocha
+Light,High,2,Iced,1,1,High,Morning,Chocolate,Refreshing & Cold,None,Cold Brew
+Strong,Medium,3,Hot,2,1,High,Morning,Classic,Smooth & Relaxing,Cappuccino,Filter Coffee
+Medium,Low,5,Hot,1,5,Medium,Night,Nutty,Refreshing & Cold,Filter Coffee,Cappuccino
+Light,High,4,Hot,2,5,Medium,Night,Vanilla,Sweet & Creamy,Espresso,Latte
+Medium,Low,1,Cold,2,2,High,Morning,Classic,Sweet & Creamy,None,Filter Coffee
+Medium,High,5,Iced,5,4,Low,Morning,Vanilla,Smooth & Relaxing,None,Latte
+Light,High,4,Hot,4,5,Low,Morning,Vanilla,Sweet & Creamy,Latte,Latte
+Light,High,4,Hot,3,1,Low,Afternoon,Chocolate,Quick & Strong,Latte,Mocha
+Light,High,5,Hot,5,3,Low,Morning,Fruity,Smooth & Relaxing,None,Latte
+Strong,Medium,2,Cold,2,1,High,Morning,Vanilla,Quick & Strong,None,Espresso
+Medium,None,4,Iced,4,4,High,Evening,Vanilla,Sweet & Creamy,Americano,Cappuccino
+Light,Medium,4,Hot,5,5,Medium,Morning,Chocolate,Refreshing & Cold,Mocha,Mocha
+Light,Medium,1,Iced,1,2,High,Morning,Nutty,Quick & Strong,Espresso,Cappuccino
+Medium,High,2,Iced,1,1,Medium,Morning,Nutty,Smooth & Relaxing,None,Filter Coffee
+Light,Low,4,Hot,1,4,Medium,Afternoon,Caramel,Refreshing & Cold,Latte,Latte
+Medium,Low,3,Hot,1,4,Medium,Afternoon,Chocolate,Sweet & Creamy,Americano,Mocha
+Light,Medium,4,Cold,2,1,High,Morning,Vanilla,Quick & Strong,Filter Coffee,Cappuccino
+Strong,None,2,Iced,2,3,Low,Afternoon,Vanilla,Quick & Strong,None,Espresso
+Medium,Medium,3,Iced,4,5,Medium,Evening,Caramel,Smooth & Relaxing,Cold Brew,Latte
+Strong,None,2,Hot,5,5,High,Morning,Vanilla,Sweet & Creamy,Filter Coffee,Cappuccino
+Medium,Medium,3,Hot,1,3,Medium,Morning,Vanilla,Sweet & Creamy,Filter Coffee,Filter Coffee
+Strong,High,1,Cold,2,4,High,Night,Nutty,Refreshing & Cold,None,Cold Brew
+Light,High,3,Cold,5,1,Medium,Morning,Caramel,Refreshing & Cold,Cappuccino,Cold Brew
+Strong,None,3,Cold,3,3,Low,Morning,Nutty,Refreshing & Cold,Cold Brew,Cold Brew
+Light,High,2,Iced,2,4,Medium,Night,Caramel,Sweet & Creamy,Americano,Mocha
+Light,High,5,Iced,5,3,Medium,Morning,Classic,Sweet & Creamy,Latte,Latte
+Light,None,5,Cold,2,2,Low,Morning,Vanilla,Smooth & Relaxing,Americano,Cold Brew
+Light,Medium,4,Hot,5,2,Low,Morning,Vanilla,Quick & Strong,Filter Coffee,Filter Coffee
+Light,High,5,Hot,2,2,Low,Afternoon,Chocolate,Smooth & Relaxing,Latte,Mocha
+Light,None,1,Cold,3,2,Medium,Morning,Caramel,Smooth & Relaxing,None,Filter Coffee
+Medium,Low,3,Hot,3,4,Medium,Morning,Chocolate,Sweet & Creamy,None,Mocha
+Medium,Medium,5,Iced,3,5,Low,Morning,Chocolate,Quick & Strong,None,Mocha
+Light,Low,5,Cold,3,1,Low,Afternoon,Classic,Refreshing & Cold,None,Cold Brew
+Strong,Medium,2,Hot,4,5,Medium,Morning,Caramel,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Strong,None,2,Cold,5,3,Medium,Morning,Classic,Refreshing & Cold,Filter Coffee,Cold Brew
+Strong,Low,1,Hot,4,1,Medium,Morning,Vanilla,Smooth & Relaxing,Mocha,Filter Coffee
+Light,Low,5,Cold,2,5,High,Morning,Chocolate,Quick & Strong,Cold Brew,Mocha
+Medium,None,1,Iced,4,5,Medium,Night,Vanilla,Refreshing & Cold,Espresso,Cold Brew
+Light,High,1,Iced,1,4,High,Morning,Chocolate,Refreshing & Cold,None,Mocha
+Medium,None,3,Hot,2,1,Medium,Evening,Classic,Refreshing & Cold,Cappuccino,Cold Brew
+Medium,High,1,Iced,3,3,Medium,Afternoon,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,Medium,2,Hot,3,4,Medium,Afternoon,Caramel,Refreshing & Cold,Latte,Latte
+Medium,High,1,Hot,3,2,Low,Evening,Classic,Sweet & Creamy,Cold Brew,Latte
+Medium,Medium,4,Hot,2,3,Medium,Evening,Caramel,Smooth & Relaxing,Americano,Filter Coffee
+Medium,Low,5,Cold,5,1,High,Morning,Caramel,Smooth & Relaxing,None,Espresso
+Medium,Medium,5,Hot,5,5,Medium,Evening,Caramel,Refreshing & Cold,Espresso,Latte
+Strong,Medium,2,Hot,3,2,High,Morning,Classic,Sweet & Creamy,Americano,Americano
+Light,None,1,Iced,2,1,High,Evening,Nutty,Quick & Strong,None,Filter Coffee
+Light,High,1,Hot,2,4,Low,Evening,Chocolate,Refreshing & Cold,None,Filter Coffee
+Light,Medium,1,Hot,2,1,Low,Night,Caramel,Sweet & Creamy,Espresso,Filter Coffee
+Medium,Low,5,Hot,4,4,High,Afternoon,Nutty,Sweet & Creamy,Espresso,Mocha
+Medium,Low,2,Hot,5,4,Medium,Morning,Classic,Quick & Strong,None,Espresso
+Strong,Low,3,Iced,5,3,Medium,Evening,Vanilla,Refreshing & Cold,Mocha,Cold Brew
+Strong,High,5,Iced,2,4,High,Night,Fruity,Quick & Strong,None,Mocha
+Medium,Medium,3,Hot,4,5,High,Morning,Vanilla,Sweet & Creamy,Cappuccino,Cappuccino
+Light,Medium,3,Hot,1,1,Medium,Afternoon,Nutty,Refreshing & Cold,Filter Coffee,Filter Coffee
+Strong,None,2,Cold,1,3,Low,Afternoon,Caramel,Sweet & Creamy,Latte,Americano
+Medium,None,4,Hot,2,5,High,Morning,Chocolate,Quick & Strong,Mocha,Mocha
+Light,Medium,5,Hot,3,4,Medium,Afternoon,Vanilla,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,Medium,5,Hot,4,1,Medium,Afternoon,Fruity,Smooth & Relaxing,Latte,Latte
+Light,High,4,Iced,3,4,High,Morning,Fruity,Smooth & Relaxing,Espresso,Latte
+Light,Low,5,Cold,1,1,Medium,Morning,Chocolate,Quick & Strong,Latte,Cold Brew
+Medium,High,3,Cold,1,3,High,Morning,Nutty,Smooth & Relaxing,Americano,Cappuccino
+Strong,Medium,3,Cold,5,2,High,Afternoon,Chocolate,Smooth & Relaxing,Latte,Cappuccino
+Light,High,2,Hot,1,1,High,Afternoon,Fruity,Refreshing & Cold,Mocha,Cold Brew
+Medium,Medium,3,Hot,4,1,High,Evening,Vanilla,Sweet & Creamy,Mocha,Mocha
+Medium,Low,1,Hot,2,1,Low,Evening,Vanilla,Quick & Strong,None,Filter Coffee
+Medium,Medium,1,Hot,2,5,Medium,Morning,Classic,Smooth & Relaxing,None,Cappuccino
+Medium,Low,5,Iced,5,3,Low,Morning,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,Medium,2,Hot,5,4,High,Evening,Nutty,Refreshing & Cold,Latte,Cappuccino
+Medium,None,5,Hot,4,2,High,Afternoon,Classic,Refreshing & Cold,Latte,Americano
+Strong,High,2,Hot,1,5,Medium,Evening,Fruity,Refreshing & Cold,Americano,Latte
+Medium,High,2,Cold,2,3,Medium,Night,Fruity,Refreshing & Cold,Cold Brew,Cold Brew
+Medium,Low,3,Hot,4,1,Medium,Afternoon,Fruity,Quick & Strong,Latte,Americano
+Medium,High,4,Hot,2,5,Low,Morning,Nutty,Sweet & Creamy,Americano,Mocha
+Strong,Low,2,Hot,3,1,Medium,Morning,Vanilla,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,Medium,4,Hot,1,3,High,Evening,Fruity,Quick & Strong,None,Cappuccino
+Strong,Medium,3,Hot,5,1,Low,Morning,Classic,Sweet & Creamy,Cappuccino,Filter Coffee
+Medium,Low,5,Hot,5,3,High,Morning,Fruity,Quick & Strong,None,Americano
+Strong,High,2,Cold,1,3,Medium,Afternoon,Vanilla,Quick & Strong,Americano,Latte
+Light,High,4,Cold,2,5,Low,Morning,Chocolate,Sweet & Creamy,Latte,Latte
+Light,Low,4,Hot,5,3,High,Afternoon,Chocolate,Quick & Strong,Mocha,Mocha
+Medium,Medium,1,Iced,3,4,Low,Night,Fruity,Smooth & Relaxing,Espresso,Cappuccino
+Light,None,3,Iced,2,5,Low,Evening,Fruity,Refreshing & Cold,Espresso,Cold Brew
+Light,High,5,Hot,5,5,High,Morning,Vanilla,Quick & Strong,Mocha,Latte
+Medium,None,2,Cold,3,4,Medium,Morning,Classic,Quick & Strong,Espresso,Cold Brew
+Light,High,1,Hot,2,1,High,Morning,Chocolate,Smooth & Relaxing,Espresso,Filter Coffee
+Strong,High,2,Iced,4,5,Medium,Evening,Chocolate,Sweet & Creamy,Americano,Mocha
+Medium,None,4,Iced,4,2,Medium,Morning,Nutty,Quick & Strong,Espresso,Espresso
+Light,None,1,Iced,1,3,High,Evening,Fruity,Quick & Strong,Americano,Cold Brew
+Strong,Medium,2,Iced,1,4,Medium,Evening,Vanilla,Smooth & Relaxing,None,Cold Brew
+Strong,High,2,Cold,4,3,Low,Evening,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,None,3,Cold,2,2,Medium,Afternoon,Nutty,Quick & Strong,Filter Coffee,Filter Coffee
+Light,Medium,3,Cold,1,5,Low,Morning,Vanilla,Sweet & Creamy,None,Mocha
+Strong,High,2,Hot,1,2,Medium,Morning,Caramel,Sweet & Creamy,Americano,Latte
+Strong,Low,5,Hot,4,4,Low,Evening,Classic,Sweet & Creamy,Cappuccino,Mocha
+Strong,None,3,Hot,4,4,High,Morning,Fruity,Quick & Strong,Espresso,Espresso
+Strong,Medium,2,Hot,5,3,Medium,Afternoon,Fruity,Quick & Strong,Mocha,Espresso
+Medium,None,3,Hot,5,3,Medium,Afternoon,Chocolate,Smooth & Relaxing,Cappuccino,Filter Coffee
+Strong,None,2,Cold,3,3,High,Morning,Fruity,Refreshing & Cold,None,Cold Brew
+Medium,Medium,3,Hot,3,2,High,Evening,Nutty,Refreshing & Cold,None,Cold Brew
+Strong,Medium,4,Cold,4,4,Low,Afternoon,Vanilla,Quick & Strong,None,Latte
+Medium,Low,3,Hot,2,2,High,Afternoon,Nutty,Smooth & Relaxing,Latte,Filter Coffee
+Strong,High,3,Cold,3,4,Medium,Morning,Classic,Refreshing & Cold,None,Cappuccino
+Strong,Medium,4,Hot,4,5,High,Night,Caramel,Quick & Strong,Mocha,Mocha
+Light,Medium,4,Hot,4,1,Medium,Evening,Caramel,Quick & Strong,Cappuccino,Cappuccino
+Medium,Low,3,Hot,4,4,Medium,Afternoon,Caramel,Sweet & Creamy,Americano,Latte
+Strong,Medium,4,Iced,2,3,Medium,Afternoon,Vanilla,Smooth & Relaxing,Americano,Cappuccino
+Strong,None,4,Cold,2,4,Low,Afternoon,Nutty,Smooth & Relaxing,None,Filter Coffee
+Strong,Medium,5,Cold,4,4,High,Morning,Vanilla,Refreshing & Cold,Cold Brew,Mocha
+Strong,Medium,5,Cold,5,1,Medium,Evening,Caramel,Quick & Strong,Filter Coffee,Americano
+Medium,Medium,2,Hot,2,5,High,Afternoon,Vanilla,Sweet & Creamy,Americano,Latte
+Medium,Low,5,Hot,4,2,High,Evening,Nutty,Quick & Strong,Latte,Espresso
+Strong,Medium,1,Iced,4,3,Low,Afternoon,Classic,Refreshing & Cold,Americano,Americano
+Strong,None,4,Cold,2,5,High,Morning,Caramel,Quick & Strong,None,Latte
+Light,Medium,2,Hot,4,4,High,Afternoon,Nutty,Smooth & Relaxing,None,Cappuccino
+Medium,Medium,1,Hot,5,2,Medium,Morning,Vanilla,Quick & Strong,Cold Brew,Espresso
+Medium,Low,3,Iced,1,5,Low,Evening,Classic,Quick & Strong,Latte,Latte
+Strong,None,2,Iced,2,4,High,Night,Vanilla,Smooth & Relaxing,Cappuccino,Americano
+Light,High,3,Hot,2,1,Medium,Evening,Vanilla,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,Medium,2,Iced,5,4,Medium,Morning,Vanilla,Quick & Strong,Espresso,Espresso
+Light,Medium,1,Cold,2,4,High,Night,Caramel,Refreshing & Cold,Latte,Latte
+Medium,High,1,Hot,2,2,Medium,Afternoon,Caramel,Sweet & Creamy,None,Latte
+Strong,None,5,Cold,1,3,Medium,Night,Caramel,Refreshing & Cold,None,Cold Brew
+Light,Low,2,Hot,2,5,High,Night,Caramel,Refreshing & Cold,Cold Brew,Latte
+Light,Medium,1,Iced,1,1,High,Afternoon,Classic,Smooth & Relaxing,None,Filter Coffee
+Light,Low,4,Hot,3,1,Medium,Evening,Fruity,Refreshing & Cold,None,Cold Brew
+Light,None,5,Hot,2,4,High,Night,Vanilla,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,Medium,1,Hot,2,1,Medium,Afternoon,Fruity,Sweet & Creamy,Americano,Americano
+Strong,Medium,4,Hot,5,1,High,Evening,Caramel,Quick & Strong,Mocha,Espresso
+Light,Low,1,Cold,5,3,Low,Evening,Classic,Smooth & Relaxing,Cold Brew,Filter Coffee
+Light,None,1,Cold,1,4,High,Morning,Classic,Refreshing & Cold,Mocha,Cold Brew
+Medium,Medium,2,Hot,3,1,High,Morning,Classic,Quick & Strong,None,Americano
+Light,High,3,Iced,3,1,Medium,Afternoon,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,None,1,Iced,3,3,High,Morning,Caramel,Quick & Strong,Filter Coffee,Filter Coffee
+Strong,High,1,Hot,5,1,Medium,Morning,Classic,Sweet & Creamy,Latte,Filter Coffee
+Light,High,2,Cold,4,3,Medium,Night,Classic,Quick & Strong,None,Mocha
+Light,Low,5,Hot,2,2,Low,Morning,Caramel,Refreshing & Cold,Latte,Cappuccino
+Medium,Medium,2,Hot,5,1,High,Evening,Chocolate,Quick & Strong,None,Espresso
+Medium,High,3,Cold,3,2,Medium,Morning,Vanilla,Sweet & Creamy,Filter Coffee,Cappuccino
+Medium,Medium,5,Hot,1,5,High,Morning,Nutty,Sweet & Creamy,None,Mocha
+Light,Medium,2,Cold,4,5,Low,Afternoon,Classic,Refreshing & Cold,Espresso,Latte
+Medium,Medium,3,Iced,4,1,High,Morning,Caramel,Refreshing & Cold,Americano,Americano
+Strong,High,5,Hot,3,2,Medium,Night,Nutty,Smooth & Relaxing,None,Cappuccino
+Strong,Low,4,Hot,1,5,Low,Night,Classic,Quick & Strong,Latte,Mocha
+Light,Low,4,Iced,5,1,High,Morning,Chocolate,Sweet & Creamy,Espresso,Mocha
+Strong,High,5,Hot,2,2,Low,Evening,Caramel,Quick & Strong,Cold Brew,Latte
+Medium,Medium,5,Hot,1,5,High,Afternoon,Classic,Refreshing & Cold,Cold Brew,Mocha
+Light,Medium,1,Iced,3,1,Medium,Evening,Caramel,Quick & Strong,Filter Coffee,Filter Coffee
+Medium,Low,2,Hot,4,2,Medium,Evening,Vanilla,Refreshing & Cold,Espresso,Cold Brew
+Medium,High,2,Hot,3,3,Medium,Morning,Classic,Refreshing & Cold,Espresso,Cappuccino
+Medium,Medium,4,Hot,5,2,Low,Evening,Caramel,Sweet & Creamy,Latte,Latte
+Light,High,5,Hot,2,4,Low,Morning,Caramel,Refreshing & Cold,None,Latte
+Light,High,5,Iced,4,4,Medium,Night,Caramel,Quick & Strong,Mocha,Mocha
+Light,None,5,Hot,4,4,Medium,Morning,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,Medium,3,Cold,2,4,Low,Evening,Nutty,Refreshing & Cold,Filter Coffee,Cold Brew
+Medium,Medium,1,Hot,3,2,Low,Morning,Nutty,Sweet & Creamy,Espresso,Filter Coffee
+Strong,Low,5,Hot,1,1,Medium,Evening,Classic,Sweet & Creamy,None,Filter Coffee
+Strong,Medium,2,Hot,1,3,Medium,Morning,Nutty,Sweet & Creamy,Cold Brew,Cappuccino
+Light,Medium,1,Iced,5,3,Low,Morning,Chocolate,Refreshing & Cold,Filter Coffee,Americano
+Light,Medium,3,Iced,4,1,Medium,Night,Fruity,Smooth & Relaxing,Latte,Americano
+Light,High,1,Cold,5,1,High,Morning,Vanilla,Sweet & Creamy,Cold Brew,Cold Brew
+Light,Medium,3,Hot,3,5,Medium,Morning,Nutty,Refreshing & Cold,Americano,Cappuccino
+Light,None,2,Hot,5,2,Medium,Afternoon,Chocolate,Refreshing & Cold,None,Americano
+Medium,High,5,Cold,1,4,Low,Morning,Vanilla,Refreshing & Cold,Mocha,Mocha
+Light,Low,4,Hot,4,5,Low,Evening,Vanilla,Refreshing & Cold,Espresso,Latte
+Strong,High,3,Hot,5,1,Low,Morning,Fruity,Smooth & Relaxing,Cappuccino,Filter Coffee
+Medium,High,1,Cold,2,4,Medium,Morning,Fruity,Sweet & Creamy,Latte,Latte
+Light,None,3,Hot,1,4,Medium,Morning,Vanilla,Quick & Strong,Latte,Latte
+Medium,None,3,Iced,4,5,Medium,Afternoon,Nutty,Sweet & Creamy,None,Filter Coffee
+Light,Low,1,Hot,3,4,Low,Night,Chocolate,Quick & Strong,Cold Brew,Cappuccino
+Light,Medium,3,Iced,5,3,Medium,Evening,Classic,Refreshing & Cold,None,Filter Coffee
+Light,High,3,Hot,5,5,High,Morning,Chocolate,Quick & Strong,Filter Coffee,Mocha
+Light,High,4,Hot,3,2,Medium,Morning,Nutty,Sweet & Creamy,None,Cappuccino
+Medium,High,5,Hot,2,5,High,Afternoon,Vanilla,Quick & Strong,Latte,Latte
+Light,Low,2,Cold,5,4,High,Night,Caramel,Quick & Strong,Latte,Latte
+Light,None,3,Iced,3,1,Medium,Afternoon,Nutty,Sweet & Creamy,Latte,Espresso
+Medium,High,5,Hot,1,1,Medium,Morning,Fruity,Quick & Strong,Cappuccino,Cappuccino
+Medium,Low,2,Cold,3,3,Medium,Morning,Nutty,Refreshing & Cold,Espresso,Cold Brew
+Medium,Medium,4,Cold,4,3,Medium,Morning,Nutty,Sweet & Creamy,Latte,Cappuccino
+Light,High,1,Hot,3,2,High,Evening,Caramel,Sweet & Creamy,Cold Brew,Cappuccino
+Strong,Low,5,Cold,3,2,Medium,Afternoon,Caramel,Quick & Strong,Latte,Cold Brew
+Medium,High,2,Hot,1,4,Medium,Afternoon,Classic,Sweet & Creamy,Filter Coffee,Latte
+Strong,Medium,3,Hot,5,1,Low,Afternoon,Caramel,Refreshing & Cold,Espresso,Espresso
+Medium,Medium,2,Iced,3,4,High,Evening,Nutty,Quick & Strong,Mocha,Cappuccino
+Light,High,5,Hot,1,2,Medium,Night,Chocolate,Quick & Strong,Mocha,Mocha
+Strong,Medium,4,Hot,2,4,Low,Evening,Fruity,Quick & Strong,Cold Brew,Latte
+Light,Low,4,Iced,3,1,Medium,Evening,Vanilla,Smooth & Relaxing,Mocha,Filter Coffee
+Medium,High,3,Hot,5,5,High,Morning,Nutty,Smooth & Relaxing,Cold Brew,Cappuccino
+Light,Low,1,Hot,1,4,High,Morning,Caramel,Sweet & Creamy,Filter Coffee,Filter Coffee
+Light,Low,1,Hot,2,4,Low,Morning,Nutty,Refreshing & Cold,Mocha,Cappuccino
+Medium,None,2,Hot,5,3,Low,Morning,Classic,Refreshing & Cold,None,Espresso
+Light,None,4,Cold,1,5,Medium,Afternoon,Fruity,Smooth & Relaxing,Latte,Latte
+Strong,Medium,1,Hot,1,1,Medium,Evening,Classic,Sweet & Creamy,Mocha,Filter Coffee
+Strong,Medium,1,Hot,1,1,High,Morning,Chocolate,Smooth & Relaxing,Cappuccino,Filter Coffee
+Strong,None,5,Iced,1,1,High,Afternoon,Chocolate,Quick & Strong,Mocha,Cold Brew
+Light,None,2,Cold,1,1,Medium,Afternoon,Caramel,Quick & Strong,Cappuccino,Americano
+Strong,Medium,1,Cold,3,1,High,Morning,Fruity,Quick & Strong,Mocha,Cappuccino
+Medium,Low,4,Iced,1,5,Medium,Night,Chocolate,Quick & Strong,Espresso,Mocha
+Medium,Medium,5,Cold,1,4,Medium,Evening,Chocolate,Refreshing & Cold,None,Mocha
+Strong,None,5,Cold,2,5,High,Morning,Fruity,Quick & Strong,None,Cold Brew
+Strong,High,4,Hot,1,5,Low,Morning,Fruity,Sweet & Creamy,Latte,Latte
+Strong,None,4,Iced,3,1,High,Morning,Fruity,Sweet & Creamy,Cold Brew,Cold Brew
+Light,None,2,Hot,3,2,Low,Evening,Nutty,Quick & Strong,Cappuccino,Americano
+Strong,Medium,3,Iced,3,3,Medium,Morning,Vanilla,Smooth & Relaxing,Filter Coffee,Cappuccino
+Medium,Medium,5,Iced,1,3,High,Morning,Vanilla,Smooth & Relaxing,None,Latte
+Light,Low,3,Hot,3,5,Medium,Morning,Fruity,Quick & Strong,None,Latte
+Strong,High,3,Hot,1,4,High,Afternoon,Chocolate,Refreshing & Cold,None,Mocha
+Medium,High,1,Hot,3,3,Medium,Evening,Fruity,Sweet & Creamy,None,Latte
+Light,Medium,5,Iced,2,4,Medium,Afternoon,Vanilla,Quick & Strong,Latte,Latte
+Light,Medium,1,Hot,1,2,High,Morning,Nutty,Refreshing & Cold,None,Cold Brew
+Medium,None,3,Iced,3,1,High,Night,Chocolate,Quick & Strong,Filter Coffee,Americano
+Light,None,3,Iced,4,1,High,Afternoon,Chocolate,Sweet & Creamy,None,Cold Brew
+Medium,Medium,3,Hot,5,2,High,Morning,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,Low,5,Hot,3,4,Medium,Night,Caramel,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Medium,2,Hot,4,3,High,Morning,Caramel,Sweet & Creamy,Cappuccino,Latte
+Light,Medium,2,Hot,1,1,Medium,Morning,Nutty,Refreshing & Cold,Latte,Filter Coffee
+Strong,Low,3,Hot,4,1,High,Morning,Classic,Refreshing & Cold,Espresso,Espresso
+Medium,Medium,1,Hot,2,5,Medium,Morning,Chocolate,Refreshing & Cold,Mocha,Mocha
+Medium,High,3,Hot,3,5,Low,Evening,Chocolate,Quick & Strong,None,Mocha
+Medium,Medium,5,Hot,4,5,Medium,Afternoon,Nutty,Quick & Strong,Americano,Cappuccino
+Medium,Low,4,Hot,3,5,Medium,Evening,Nutty,Quick & Strong,Americano,Cappuccino
+Light,Medium,3,Hot,2,3,Low,Afternoon,Vanilla,Refreshing & Cold,Espresso,Latte
+Medium,High,3,Hot,1,3,High,Afternoon,Vanilla,Sweet & Creamy,Latte,Latte
+Medium,None,1,Hot,4,3,Medium,Morning,Classic,Quick & Strong,Filter Coffee,Americano
+Light,Medium,4,Hot,5,4,High,Evening,Nutty,Quick & Strong,Mocha,Mocha
+Strong,Low,3,Hot,1,4,High,Night,Classic,Refreshing & Cold,Latte,Cold Brew
+Light,None,1,Hot,4,5,Low,Afternoon,Caramel,Smooth & Relaxing,Latte,Latte
+Light,Low,1,Hot,3,5,High,Evening,Chocolate,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Low,5,Hot,3,5,High,Morning,Nutty,Refreshing & Cold,Americano,Cappuccino
+Strong,High,3,Hot,4,4,Low,Afternoon,Classic,Sweet & Creamy,Filter Coffee,Filter Coffee
+Medium,High,4,Hot,1,5,Medium,Morning,Classic,Sweet & Creamy,Americano,Mocha
+Light,Low,2,Cold,4,5,Medium,Night,Vanilla,Smooth & Relaxing,Americano,Filter Coffee
+Light,High,4,Hot,2,3,Low,Night,Fruity,Quick & Strong,Mocha,Latte
+Medium,Low,4,Iced,5,3,Low,Morning,Caramel,Quick & Strong,Filter Coffee,Filter Coffee
+Light,Medium,2,Hot,4,5,High,Evening,Vanilla,Quick & Strong,Americano,Filter Coffee
+Light,Medium,2,Cold,4,4,Medium,Afternoon,Nutty,Refreshing & Cold,Americano,Cold Brew
+Strong,High,3,Cold,2,3,Medium,Morning,Nutty,Refreshing & Cold,Cold Brew,Cold Brew
+Medium,High,5,Cold,2,4,High,Evening,Caramel,Quick & Strong,None,Mocha
+Strong,High,5,Iced,4,2,Low,Morning,Classic,Sweet & Creamy,None,Americano
+Strong,Medium,2,Hot,5,1,Low,Afternoon,Vanilla,Sweet & Creamy,None,Americano
+Medium,High,1,Cold,4,2,High,Evening,Caramel,Refreshing & Cold,Americano,Cold Brew
+Medium,High,1,Cold,1,3,Low,Morning,Vanilla,Sweet & Creamy,None,Latte
+Medium,Medium,4,Cold,3,5,Low,Afternoon,Nutty,Refreshing & Cold,None,Mocha
+Light,Medium,1,Iced,4,2,High,Morning,Vanilla,Refreshing & Cold,Americano,Espresso
+Light,Medium,3,Cold,4,3,Low,Night,Caramel,Sweet & Creamy,Latte,Mocha
+Medium,None,1,Hot,2,4,Medium,Night,Vanilla,Smooth & Relaxing,None,Americano
+Medium,Low,1,Hot,5,3,High,Evening,Nutty,Sweet & Creamy,Espresso,Filter Coffee
+Strong,High,2,Iced,2,1,Medium,Night,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,Low,2,Hot,1,5,Medium,Afternoon,Vanilla,Quick & Strong,None,Latte
+Strong,High,4,Iced,1,5,Low,Morning,Nutty,Refreshing & Cold,Americano,Latte
+Strong,Medium,4,Hot,5,2,Medium,Morning,Classic,Quick & Strong,Mocha,Cappuccino
+Light,Low,3,Iced,3,1,Medium,Morning,Vanilla,Sweet & Creamy,Espresso,Cold Brew
+Strong,High,3,Iced,2,5,High,Morning,Chocolate,Quick & Strong,Espresso,Mocha
+Light,Low,1,Iced,4,4,Medium,Afternoon,Chocolate,Quick & Strong,Mocha,Mocha
+Medium,Low,2,Cold,1,3,Medium,Morning,Nutty,Quick & Strong,Latte,Filter Coffee
+Medium,Low,1,Cold,4,3,Medium,Afternoon,Vanilla,Smooth & Relaxing,None,Cappuccino
+Medium,Low,4,Cold,5,5,High,Evening,Vanilla,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,Medium,2,Hot,1,4,High,Night,Fruity,Smooth & Relaxing,None,Latte
+Medium,High,5,Hot,4,1,High,Evening,Fruity,Refreshing & Cold,None,Cold Brew
+Medium,High,4,Cold,1,2,Low,Morning,Classic,Smooth & Relaxing,None,Filter Coffee
+Light,Low,3,Hot,1,5,Medium,Morning,Caramel,Smooth & Relaxing,Mocha,Latte
+Light,High,5,Hot,3,2,Medium,Morning,Chocolate,Smooth & Relaxing,Espresso,Cappuccino
+Strong,None,5,Cold,3,2,Medium,Morning,Classic,Quick & Strong,Latte,Filter Coffee
+Strong,None,5,Hot,1,1,High,Morning,Caramel,Quick & Strong,None,Filter Coffee
+Light,None,4,Hot,3,2,High,Evening,Classic,Quick & Strong,None,Americano
+Light,None,4,Hot,5,1,High,Morning,Chocolate,Smooth & Relaxing,None,Filter Coffee
+Medium,Medium,4,Iced,4,4,Medium,Morning,Fruity,Smooth & Relaxing,Espresso,Cappuccino
+Strong,None,3,Iced,1,4,Medium,Night,Chocolate,Smooth & Relaxing,Latte,Latte
+Light,Low,3,Cold,1,2,Medium,Afternoon,Vanilla,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,Medium,4,Hot,2,3,High,Morning,Classic,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,High,1,Hot,3,2,Medium,Morning,Nutty,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,None,2,Hot,2,5,Medium,Evening,Chocolate,Smooth & Relaxing,Americano,Mocha
+Strong,High,1,Hot,1,2,High,Morning,Fruity,Refreshing & Cold,None,Cold Brew
+Medium,High,2,Hot,5,4,Low,Morning,Caramel,Sweet & Creamy,Filter Coffee,Latte
+Light,Low,4,Hot,4,2,Medium,Morning,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,None,4,Cold,4,2,Low,Evening,Classic,Sweet & Creamy,None,Cold Brew
+Medium,Medium,2,Hot,2,3,Medium,Morning,Chocolate,Quick & Strong,None,Cappuccino
+Light,Low,5,Hot,1,2,High,Evening,Fruity,Smooth & Relaxing,Latte,Cold Brew
+Strong,Medium,1,Iced,4,2,High,Evening,Caramel,Quick & Strong,Latte,Espresso
+Medium,Medium,4,Hot,5,2,Low,Morning,Vanilla,Quick & Strong,Espresso,Espresso
+Medium,Medium,4,Hot,3,3,Low,Morning,Caramel,Refreshing & Cold,Mocha,Cappuccino
+Medium,Medium,2,Hot,2,5,Medium,Morning,Fruity,Sweet & Creamy,Cold Brew,Latte
+Strong,High,5,Hot,1,1,Medium,Afternoon,Fruity,Sweet & Creamy,Latte,Mocha
+Light,High,2,Cold,1,1,Medium,Morning,Nutty,Refreshing & Cold,Latte,Cold Brew
+Light,Medium,3,Cold,4,3,High,Morning,Chocolate,Quick & Strong,Espresso,Americano
+Medium,Low,4,Hot,5,1,Medium,Evening,Fruity,Sweet & Creamy,None,Espresso
+Medium,Medium,1,Hot,2,4,High,Morning,Chocolate,Refreshing & Cold,Espresso,Mocha
+Medium,Medium,2,Hot,4,5,High,Afternoon,Fruity,Sweet & Creamy,Cold Brew,Latte
+Medium,Medium,3,Cold,5,4,Low,Night,Chocolate,Quick & Strong,Cappuccino,Filter Coffee
+Light,None,2,Iced,3,5,Low,Afternoon,Vanilla,Quick & Strong,Americano,Cappuccino
+Light,High,1,Iced,4,5,High,Night,Vanilla,Sweet & Creamy,Latte,Latte
+Strong,Low,3,Hot,3,2,Medium,Evening,Chocolate,Smooth & Relaxing,Latte,Americano
+Medium,Medium,5,Hot,2,4,High,Afternoon,Nutty,Sweet & Creamy,Cappuccino,Mocha
+Light,Medium,3,Hot,3,4,Medium,Afternoon,Fruity,Sweet & Creamy,None,Latte
+Light,Low,5,Iced,1,1,Medium,Evening,Nutty,Quick & Strong,None,Mocha
+Light,None,4,Iced,3,5,Medium,Morning,Chocolate,Refreshing & Cold,Filter Coffee,Mocha
+Strong,Medium,4,Iced,2,2,Medium,Night,Fruity,Sweet & Creamy,Mocha,Cold Brew
+Medium,Low,2,Iced,2,4,High,Afternoon,Caramel,Smooth & Relaxing,Americano,Cappuccino
+Light,None,5,Hot,1,3,Low,Morning,Chocolate,Sweet & Creamy,Espresso,Mocha
+Light,None,5,Cold,1,2,Low,Morning,Classic,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,Medium,4,Iced,5,3,High,Afternoon,Classic,Quick & Strong,None,Espresso
+Light,Medium,4,Hot,3,1,High,Evening,Classic,Refreshing & Cold,Cold Brew,Cold Brew
+Light,High,2,Hot,4,4,Medium,Morning,Chocolate,Sweet & Creamy,Cold Brew,Mocha
+Strong,High,2,Hot,5,4,Medium,Morning,Classic,Sweet & Creamy,Mocha,Latte
+Light,None,4,Cold,3,2,Medium,Evening,Nutty,Quick & Strong,None,Cold Brew
+Medium,None,2,Hot,4,1,Low,Morning,Nutty,Smooth & Relaxing,Americano,Filter Coffee
+Medium,None,1,Hot,1,2,Low,Morning,Fruity,Refreshing & Cold,Latte,Cold Brew
+Strong,Medium,4,Hot,5,4,High,Night,Caramel,Refreshing & Cold,Cold Brew,Cold Brew
+Medium,High,3,Iced,4,2,Low,Afternoon,Vanilla,Sweet & Creamy,None,Cappuccino
+Medium,None,5,Iced,4,2,Medium,Morning,Vanilla,Quick & Strong,Cappuccino,Cappuccino
+Strong,High,2,Iced,1,1,High,Evening,Classic,Refreshing & Cold,None,Cold Brew
+Strong,None,5,Hot,4,4,Medium,Afternoon,Fruity,Smooth & Relaxing,Latte,Filter Coffee
+Medium,Low,1,Iced,4,4,High,Morning,Vanilla,Refreshing & Cold,Cold Brew,Cold Brew
+Light,Low,1,Hot,1,3,Low,Afternoon,Chocolate,Sweet & Creamy,Latte,Mocha
+Strong,High,2,Iced,1,3,High,Afternoon,Chocolate,Smooth & Relaxing,Cold Brew,Filter Coffee
+Strong,Medium,1,Hot,3,5,Medium,Night,Vanilla,Sweet & Creamy,Espresso,Latte
+Strong,Low,5,Hot,1,4,Medium,Morning,Vanilla,Smooth & Relaxing,Latte,Latte
+Strong,Medium,3,Cold,4,2,High,Morning,Vanilla,Smooth & Relaxing,Mocha,Filter Coffee
+Strong,Low,5,Hot,4,3,Medium,Morning,Fruity,Refreshing & Cold,None,Cold Brew
+Medium,None,3,Hot,3,3,High,Afternoon,Caramel,Quick & Strong,Cappuccino,Espresso
+Light,High,5,Cold,4,5,Low,Evening,Caramel,Sweet & Creamy,Cappuccino,Mocha
+Light,High,4,Hot,1,5,High,Night,Fruity,Quick & Strong,Cappuccino,Mocha
+Light,None,2,Iced,3,1,Medium,Night,Vanilla,Smooth & Relaxing,None,Filter Coffee
+Medium,None,2,Hot,5,2,High,Night,Chocolate,Quick & Strong,Espresso,Espresso
+Light,Low,3,Hot,2,2,Medium,Morning,Fruity,Sweet & Creamy,Latte,Latte
+Light,Low,3,Cold,5,4,High,Afternoon,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,Medium,3,Hot,5,2,Low,Morning,Fruity,Sweet & Creamy,None,Cappuccino
+Strong,Low,1,Hot,3,4,Low,Night,Caramel,Refreshing & Cold,Mocha,Filter Coffee
+Strong,High,4,Hot,4,5,Low,Morning,Nutty,Refreshing & Cold,Latte,Cappuccino
+Medium,None,1,Hot,2,3,Medium,Evening,Nutty,Quick & Strong,None,Filter Coffee
+Medium,High,4,Cold,1,1,Medium,Night,Vanilla,Sweet & Creamy,Espresso,Mocha
+Strong,Low,4,Iced,1,5,Medium,Morning,Classic,Sweet & Creamy,Cold Brew,Mocha
+Light,Medium,4,Cold,4,4,High,Afternoon,Chocolate,Quick & Strong,Filter Coffee,Latte
+Light,None,3,Hot,1,4,Medium,Morning,Chocolate,Quick & Strong,Latte,Mocha
+Medium,High,5,Cold,1,1,Medium,Afternoon,Chocolate,Sweet & Creamy,Filter Coffee,Mocha
+Light,Medium,3,Cold,5,2,High,Evening,Nutty,Quick & Strong,None,Filter Coffee
+Light,None,4,Hot,4,4,Low,Morning,Classic,Smooth & Relaxing,Espresso,Filter Coffee
+Strong,None,3,Hot,1,1,Low,Afternoon,Classic,Smooth & Relaxing,Latte,Filter Coffee
+Light,Medium,2,Hot,5,4,Medium,Morning,Nutty,Sweet & Creamy,None,Cappuccino
+Medium,High,4,Hot,1,5,Medium,Evening,Caramel,Refreshing & Cold,None,Mocha
+Medium,Low,4,Hot,5,5,Medium,Evening,Classic,Quick & Strong,Cappuccino,Cappuccino
+Light,None,3,Hot,4,5,High,Evening,Nutty,Quick & Strong,Latte,Latte
+Strong,Medium,1,Cold,4,1,High,Morning,Classic,Quick & Strong,Cappuccino,Filter Coffee
+Light,High,4,Hot,2,5,Medium,Afternoon,Classic,Refreshing & Cold,Filter Coffee,Mocha
+Strong,High,1,Hot,3,5,Medium,Morning,Nutty,Smooth & Relaxing,Mocha,Cappuccino
+Strong,Medium,5,Hot,1,3,High,Evening,Nutty,Smooth & Relaxing,None,Cappuccino
+Strong,High,4,Hot,1,1,High,Morning,Caramel,Quick & Strong,Cappuccino,Latte
+Medium,Medium,1,Cold,5,4,Medium,Afternoon,Chocolate,Quick & Strong,Americano,Americano
+Medium,None,1,Iced,1,1,Low,Evening,Classic,Quick & Strong,Filter Coffee,Filter Coffee
+Medium,None,3,Hot,2,5,Medium,Morning,Classic,Smooth & Relaxing,Mocha,Cappuccino
+Strong,Medium,3,Iced,4,5,Medium,Evening,Chocolate,Smooth & Relaxing,Americano,Mocha
+Medium,None,4,Cold,4,5,Medium,Afternoon,Caramel,Refreshing & Cold,None,Cold Brew
+Medium,Medium,1,Hot,1,4,Medium,Afternoon,Caramel,Quick & Strong,Mocha,Latte
+Strong,Low,2,Hot,2,5,Medium,Afternoon,Caramel,Sweet & Creamy,None,Latte
+Strong,Low,1,Hot,3,5,High,Evening,Vanilla,Sweet & Creamy,None,Filter Coffee
+Strong,Low,4,Hot,2,3,High,Afternoon,Fruity,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,High,2,Iced,1,2,Medium,Afternoon,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,None,4,Hot,4,3,Medium,Morning,Vanilla,Smooth & Relaxing,Americano,Filter Coffee
+Light,High,3,Hot,3,4,Medium,Evening,Classic,Refreshing & Cold,Mocha,Mocha
+Strong,High,5,Cold,4,1,Low,Morning,Fruity,Sweet & Creamy,Espresso,Latte
+Strong,Low,3,Iced,2,2,High,Morning,Fruity,Sweet & Creamy,Mocha,Mocha
+Strong,High,3,Hot,5,1,High,Morning,Chocolate,Smooth & Relaxing,Americano,Cappuccino
+Strong,Low,1,Hot,1,3,Medium,Afternoon,Classic,Quick & Strong,Espresso,Latte
+Strong,High,3,Hot,3,1,Medium,Afternoon,Caramel,Smooth & Relaxing,Espresso,Americano
+Medium,Low,4,Iced,5,2,Medium,Morning,Nutty,Refreshing & Cold,Espresso,Espresso
+Light,None,5,Hot,4,2,High,Morning,Caramel,Refreshing & Cold,Filter Coffee,Filter Coffee
+Strong,High,2,Cold,3,5,Low,Afternoon,Nutty,Sweet & Creamy,None,Latte
+Light,Medium,4,Cold,2,4,High,Morning,Chocolate,Quick & Strong,Latte,Mocha
+Medium,Medium,1,Cold,5,5,High,Evening,Vanilla,Quick & Strong,Mocha,Cappuccino
+Light,Low,4,Hot,4,4,Medium,Evening,Chocolate,Smooth & Relaxing,None,Mocha
+Light,High,4,Hot,4,2,High,Morning,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Medium,Medium,2,Iced,1,2,Medium,Evening,Nutty,Sweet & Creamy,None,Cold Brew
+Strong,Medium,4,Cold,5,3,Medium,Evening,Caramel,Refreshing & Cold,Americano,Latte
+Strong,High,4,Hot,4,4,Medium,Morning,Nutty,Sweet & Creamy,Americano,Mocha
+Light,High,1,Hot,3,5,High,Morning,Chocolate,Refreshing & Cold,Mocha,Mocha
+Light,High,5,Iced,4,5,Medium,Morning,Classic,Quick & Strong,Latte,Latte
+Light,Medium,2,Hot,3,2,High,Morning,Vanilla,Sweet & Creamy,Filter Coffee,Filter Coffee
+Strong,High,5,Hot,4,4,Medium,Morning,Classic,Sweet & Creamy,Filter Coffee,Mocha
+Light,High,4,Iced,2,1,Low,Afternoon,Vanilla,Sweet & Creamy,Espresso,Latte
+Light,Medium,2,Hot,3,2,Low,Morning,Fruity,Sweet & Creamy,None,Cappuccino
+Medium,Medium,3,Iced,3,2,Low,Night,Chocolate,Refreshing & Cold,Americano,Cold Brew
+Strong,None,1,Hot,2,4,Medium,Morning,Caramel,Quick & Strong,Espresso,Espresso
+Light,Medium,3,Hot,2,3,High,Morning,Chocolate,Quick & Strong,None,Mocha
+Medium,Low,3,Hot,2,1,High,Afternoon,Nutty,Quick & Strong,Cappuccino,Americano
+Strong,Medium,2,Hot,2,5,High,Night,Fruity,Refreshing & Cold,None,Cold Brew
+Strong,Low,2,Hot,2,4,High,Morning,Caramel,Refreshing & Cold,None,Cold Brew
+Light,None,3,Hot,5,1,Medium,Morning,Classic,Quick & Strong,Americano,Americano
+Light,High,2,Hot,1,5,Low,Morning,Chocolate,Refreshing & Cold,Filter Coffee,Mocha
+Light,Medium,4,Iced,3,1,High,Night,Chocolate,Refreshing & Cold,Filter Coffee,Cold Brew
+Light,Low,3,Cold,4,4,Medium,Evening,Nutty,Quick & Strong,None,Cold Brew
+Medium,None,2,Iced,3,1,High,Morning,Fruity,Quick & Strong,Espresso,Americano
+Light,High,3,Cold,1,4,Medium,Morning,Vanilla,Refreshing & Cold,Latte,Latte
+Strong,Medium,5,Iced,3,5,High,Afternoon,Fruity,Smooth & Relaxing,Mocha,Mocha
+Strong,Medium,5,Iced,3,1,High,Morning,Classic,Sweet & Creamy,Espresso,Filter Coffee
+Strong,Medium,4,Hot,1,2,Medium,Morning,Fruity,Smooth & Relaxing,Americano,Cappuccino
+Light,Medium,4,Hot,1,5,Medium,Afternoon,Chocolate,Refreshing & Cold,Filter Coffee,Mocha
+Light,High,3,Cold,5,1,Medium,Evening,Caramel,Refreshing & Cold,Cappuccino,Cold Brew
+Light,Low,3,Iced,1,3,Medium,Morning,Nutty,Refreshing & Cold,None,Cold Brew
+Strong,High,5,Hot,2,1,High,Afternoon,Caramel,Smooth & Relaxing,None,Latte
+Light,Medium,5,Hot,5,5,High,Afternoon,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,None,1,Hot,5,3,Low,Afternoon,Vanilla,Smooth & Relaxing,Latte,Filter Coffee
+Light,High,5,Hot,4,4,Low,Afternoon,Fruity,Refreshing & Cold,Americano,Mocha
+Strong,Low,4,Hot,5,5,Medium,Morning,Fruity,Quick & Strong,None,Cappuccino
+Medium,Medium,5,Hot,3,2,High,Morning,Fruity,Quick & Strong,Cappuccino,Latte
+Medium,Medium,4,Hot,5,3,High,Morning,Caramel,Refreshing & Cold,None,Cappuccino
+Strong,Medium,5,Iced,3,1,High,Afternoon,Nutty,Refreshing & Cold,Latte,Cold Brew
+Strong,Medium,5,Hot,1,5,Medium,Evening,Caramel,Refreshing & Cold,Espresso,Mocha
+Strong,High,5,Hot,5,4,Medium,Morning,Vanilla,Sweet & Creamy,Latte,Latte
+Strong,High,3,Hot,4,2,Low,Morning,Classic,Refreshing & Cold,Americano,Americano
+Medium,None,5,Hot,5,5,High,Morning,Caramel,Sweet & Creamy,Cold Brew,Mocha
+Medium,High,2,Iced,1,4,High,Evening,Fruity,Refreshing & Cold,Latte,Latte
+Medium,None,3,Iced,2,4,Medium,Morning,Vanilla,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,None,3,Iced,1,1,Medium,Morning,Nutty,Quick & Strong,Cappuccino,Espresso
+Strong,High,5,Hot,2,1,High,Morning,Nutty,Smooth & Relaxing,Espresso,Cappuccino
+Light,None,5,Cold,3,5,High,Evening,Vanilla,Refreshing & Cold,Cold Brew,Cold Brew
+Light,High,1,Iced,1,1,Medium,Morning,Nutty,Smooth & Relaxing,Cappuccino,Cappuccino
+Medium,Medium,2,Hot,1,2,Medium,Morning,Fruity,Quick & Strong,None,Cappuccino
+Medium,Medium,2,Cold,2,3,Medium,Afternoon,Nutty,Smooth & Relaxing,Americano,Filter Coffee
+Medium,Medium,5,Hot,4,3,High,Night,Caramel,Quick & Strong,Cappuccino,Cappuccino
+Medium,Medium,5,Hot,4,2,Medium,Evening,Nutty,Smooth & Relaxing,Latte,Filter Coffee
+Strong,Medium,4,Cold,2,1,Low,Morning,Chocolate,Sweet & Creamy,None,Mocha
+Medium,High,4,Cold,1,3,Low,Evening,Nutty,Refreshing & Cold,Filter Coffee,Cold Brew
+Light,Medium,2,Hot,3,3,Medium,Morning,Fruity,Quick & Strong,Cold Brew,Filter Coffee
+Medium,Medium,2,Hot,1,3,Medium,Afternoon,Nutty,Refreshing & Cold,Mocha,Mocha
+Strong,None,4,Hot,2,1,Medium,Evening,Vanilla,Smooth & Relaxing,Americano,Americano
+Medium,High,2,Hot,4,4,Low,Morning,Vanilla,Smooth & Relaxing,None,Cappuccino
+Strong,None,4,Iced,3,3,Medium,Morning,Fruity,Quick & Strong,None,Cold Brew
+Light,Medium,2,Hot,1,3,Medium,Morning,Vanilla,Smooth & Relaxing,Cold Brew,Filter Coffee
+Light,Medium,4,Iced,2,2,High,Morning,Caramel,Quick & Strong,Cold Brew,Latte
+Strong,Medium,4,Hot,5,2,Medium,Evening,Nutty,Refreshing & Cold,Latte,Filter Coffee
+Light,None,2,Iced,2,2,Low,Morning,Caramel,Refreshing & Cold,None,Filter Coffee
+Light,Medium,2,Cold,3,2,Medium,Morning,Vanilla,Sweet & Creamy,Cold Brew,Latte
+Strong,High,1,Iced,1,2,Medium,Night,Caramel,Sweet & Creamy,Cold Brew,Mocha
+Strong,Low,5,Hot,4,2,High,Morning,Classic,Quick & Strong,Cappuccino,Americano
+Medium,Low,4,Hot,5,4,Low,Evening,Chocolate,Quick & Strong,None,Mocha
+Light,None,4,Hot,1,4,Medium,Evening,Classic,Sweet & Creamy,Mocha,Mocha
+Strong,High,3,Hot,4,2,High,Morning,Fruity,Quick & Strong,Espresso,Espresso
+Light,None,4,Hot,5,2,Medium,Morning,Vanilla,Quick & Strong,None,Americano
+Light,Low,2,Hot,3,2,Medium,Night,Vanilla,Sweet & Creamy,Americano,Americano
+Medium,High,4,Hot,1,5,Low,Evening,Chocolate,Quick & Strong,Cold Brew,Mocha
+Light,Medium,3,Iced,5,4,Low,Evening,Caramel,Quick & Strong,Cold Brew,Cappuccino
+Light,Low,3,Cold,5,4,Low,Evening,Classic,Quick & Strong,Latte,Cappuccino
+Medium,High,4,Cold,3,1,Low,Evening,Vanilla,Smooth & Relaxing,Cold Brew,Filter Coffee
+Light,Low,1,Cold,4,4,High,Afternoon,Classic,Smooth & Relaxing,None,Filter Coffee
+Strong,Medium,5,Hot,4,2,Medium,Night,Chocolate,Refreshing & Cold,Mocha,Cold Brew
+Strong,High,2,Iced,2,4,High,Afternoon,Chocolate,Refreshing & Cold,Americano,Mocha
+Medium,Low,1,Iced,4,4,High,Morning,Nutty,Quick & Strong,Mocha,Filter Coffee
+Medium,High,5,Hot,5,5,Medium,Night,Fruity,Sweet & Creamy,Americano,Mocha
+Light,Low,4,Hot,2,4,High,Afternoon,Nutty,Quick & Strong,Cold Brew,Cappuccino
+Strong,None,2,Hot,1,2,Low,Morning,Classic,Sweet & Creamy,Latte,Latte
+Light,High,3,Cold,2,3,High,Evening,Chocolate,Sweet & Creamy,Mocha,Mocha
+Medium,Low,2,Hot,4,5,Medium,Afternoon,Fruity,Refreshing & Cold,Cold Brew,Latte
+Strong,Low,5,Hot,5,3,Medium,Evening,Caramel,Quick & Strong,None,Espresso
+Light,None,5,Cold,4,1,High,Evening,Fruity,Sweet & Creamy,Espresso,Cold Brew
+Medium,Medium,4,Iced,5,5,High,Afternoon,Chocolate,Quick & Strong,Cappuccino,Mocha
+Strong,Medium,5,Hot,1,2,Medium,Night,Fruity,Sweet & Creamy,Espresso,Mocha
+Light,Medium,1,Iced,4,1,Medium,Night,Vanilla,Refreshing & Cold,Mocha,Cold Brew
+Light,High,5,Cold,3,1,Medium,Morning,Classic,Refreshing & Cold,Filter Coffee,Cold Brew
+Light,High,5,Hot,3,4,High,Morning,Vanilla,Sweet & Creamy,Cappuccino,Mocha
+Strong,High,5,Iced,3,1,Medium,Evening,Classic,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Strong,Medium,1,Iced,3,3,Medium,Morning,Fruity,Refreshing & Cold,Cold Brew,Cold Brew
+Medium,Medium,3,Hot,5,4,Medium,Evening,Fruity,Refreshing & Cold,Mocha,Cold Brew
+Light,None,4,Iced,2,5,Low,Morning,Classic,Sweet & Creamy,Americano,Mocha
+Light,High,3,Hot,3,3,High,Morning,Classic,Sweet & Creamy,Espresso,Cappuccino
+Strong,Low,3,Iced,1,4,High,Evening,Nutty,Quick & Strong,Espresso,Cold Brew
+Strong,Low,2,Hot,5,4,Medium,Morning,Vanilla,Sweet & Creamy,Filter Coffee,Cappuccino
+Strong,Medium,4,Hot,5,2,Low,Morning,Chocolate,Refreshing & Cold,Espresso,Filter Coffee
+Strong,Low,1,Iced,4,5,Low,Morning,Vanilla,Sweet & Creamy,Latte,Latte
+Light,None,5,Cold,2,1,High,Night,Chocolate,Sweet & Creamy,None,Cold Brew
+Light,None,1,Hot,4,3,Medium,Afternoon,Caramel,Sweet & Creamy,Americano,Americano
+Strong,High,2,Hot,3,2,Low,Night,Nutty,Quick & Strong,Cold Brew,Americano
+Strong,Medium,1,Iced,1,4,Medium,Night,Fruity,Sweet & Creamy,None,Cappuccino
+Medium,Low,3,Iced,3,4,Medium,Morning,Chocolate,Quick & Strong,Espresso,Mocha
+Strong,None,2,Hot,2,1,High,Morning,Classic,Refreshing & Cold,Filter Coffee,Filter Coffee
+Strong,Medium,3,Iced,5,1,High,Morning,Caramel,Smooth & Relaxing,Americano,Filter Coffee
+Light,Low,2,Hot,5,3,Low,Evening,Fruity,Smooth & Relaxing,None,Filter Coffee
+Strong,High,4,Hot,1,3,Low,Morning,Fruity,Smooth & Relaxing,Filter Coffee,Mocha
+Light,High,2,Hot,2,1,Low,Afternoon,Classic,Smooth & Relaxing,Latte,Americano
+Strong,High,3,Hot,5,4,Medium,Afternoon,Caramel,Quick & Strong,None,Latte
+Light,High,2,Cold,4,4,High,Morning,Chocolate,Refreshing & Cold,Latte,Cold Brew
+Medium,None,2,Hot,1,4,Medium,Evening,Fruity,Quick & Strong,Cappuccino,Cappuccino
+Medium,Medium,2,Cold,1,4,Medium,Afternoon,Classic,Refreshing & Cold,Cold Brew,Cold Brew
+Light,High,2,Hot,4,4,High,Night,Nutty,Quick & Strong,None,Cappuccino
+Strong,Medium,3,Hot,1,2,High,Afternoon,Chocolate,Sweet & Creamy,Mocha,Mocha
+Medium,None,3,Hot,5,4,Medium,Morning,Chocolate,Refreshing & Cold,None,Cold Brew
+Strong,High,4,Iced,4,2,Medium,Night,Fruity,Sweet & Creamy,Espresso,Cold Brew
+Light,Medium,4,Cold,4,4,High,Night,Caramel,Quick & Strong,Filter Coffee,Latte
+Light,High,5,Cold,3,4,High,Morning,Nutty,Smooth & Relaxing,Espresso,Mocha
+Strong,Medium,4,Hot,5,4,Medium,Night,Caramel,Refreshing & Cold,Mocha,Mocha
+Strong,None,1,Iced,1,4,Low,Morning,Chocolate,Sweet & Creamy,Espresso,Mocha
+Strong,High,3,Hot,2,1,Low,Morning,Caramel,Refreshing & Cold,Americano,Cappuccino
+Medium,High,5,Hot,2,2,High,Afternoon,Chocolate,Refreshing & Cold,Espresso,Mocha
+Light,Low,1,Iced,3,4,Low,Morning,Nutty,Refreshing & Cold,Cappuccino,Cappuccino
+Light,None,1,Cold,1,1,Medium,Afternoon,Classic,Quick & Strong,Cold Brew,Cold Brew
+Strong,High,5,Iced,3,2,High,Afternoon,Caramel,Smooth & Relaxing,Espresso,Cappuccino
+Light,Low,2,Cold,2,5,Low,Night,Caramel,Sweet & Creamy,Mocha,Mocha
+Medium,Medium,4,Hot,5,2,High,Morning,Vanilla,Quick & Strong,Latte,Americano
+Medium,High,2,Hot,5,5,Medium,Afternoon,Nutty,Quick & Strong,Latte,Latte
+Medium,Medium,4,Cold,2,5,Low,Afternoon,Caramel,Refreshing & Cold,None,Latte
+Medium,Medium,2,Hot,2,1,Medium,Afternoon,Vanilla,Quick & Strong,Cold Brew,Espresso
+Medium,High,2,Cold,4,2,High,Evening,Classic,Sweet & Creamy,None,Cappuccino
+Light,High,1,Hot,2,2,Low,Morning,Vanilla,Quick & Strong,Cappuccino,Filter Coffee
+Light,High,2,Hot,4,2,High,Morning,Fruity,Smooth & Relaxing,None,Cappuccino
+Light,High,1,Hot,4,4,Low,Morning,Chocolate,Smooth & Relaxing,Cold Brew,Cappuccino
+Medium,High,5,Iced,5,3,Medium,Evening,Vanilla,Quick & Strong,None,Latte
+Strong,High,5,Hot,5,2,Medium,Afternoon,Chocolate,Refreshing & Cold,Cappuccino,Mocha
+Light,High,5,Hot,2,5,Low,Afternoon,Caramel,Quick & Strong,Cold Brew,Latte
+Light,Low,2,Cold,4,3,High,Afternoon,Nutty,Smooth & Relaxing,Espresso,Cappuccino
+Medium,High,3,Hot,5,4,High,Night,Fruity,Smooth & Relaxing,None,Cappuccino
+Strong,High,3,Hot,5,5,Medium,Evening,Nutty,Refreshing & Cold,Cold Brew,Cappuccino
+Strong,High,2,Iced,1,5,Medium,Afternoon,Vanilla,Refreshing & Cold,Filter Coffee,Latte
+Medium,High,1,Iced,3,3,Medium,Morning,Fruity,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Low,5,Cold,4,3,Low,Morning,Fruity,Quick & Strong,Filter Coffee,Filter Coffee
+Light,High,4,Cold,1,4,Medium,Evening,Caramel,Smooth & Relaxing,Espresso,Mocha
+Medium,Low,4,Cold,5,1,High,Night,Classic,Smooth & Relaxing,None,Filter Coffee
+Strong,High,4,Iced,2,3,High,Morning,Classic,Smooth & Relaxing,Espresso,Cappuccino
+Medium,High,5,Cold,3,2,Medium,Afternoon,Fruity,Quick & Strong,Cold Brew,Mocha
+Light,Low,5,Cold,5,5,High,Morning,Caramel,Smooth & Relaxing,None,Cappuccino
+Light,High,1,Iced,3,4,Low,Afternoon,Fruity,Refreshing & Cold,Latte,Latte
+Strong,Medium,1,Hot,5,5,Medium,Morning,Caramel,Refreshing & Cold,None,Latte
+Strong,None,5,Hot,5,2,Medium,Evening,Fruity,Refreshing & Cold,Espresso,Espresso
+Light,Medium,5,Hot,2,2,Medium,Morning,Classic,Smooth & Relaxing,Mocha,Mocha
+Strong,None,3,Hot,1,2,High,Evening,Caramel,Quick & Strong,Mocha,Americano
+Light,Medium,3,Cold,5,1,Medium,Afternoon,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,High,1,Iced,4,2,High,Evening,Caramel,Sweet & Creamy,None,Mocha
+Strong,Medium,1,Iced,4,4,High,Afternoon,Vanilla,Quick & Strong,Americano,Cappuccino
+Strong,None,2,Hot,3,4,Low,Morning,Fruity,Quick & Strong,Americano,Americano
+Strong,Medium,1,Hot,2,1,Medium,Morning,Classic,Quick & Strong,Americano,Americano
+Light,High,3,Hot,4,3,High,Afternoon,Caramel,Refreshing & Cold,Mocha,Mocha
+Medium,None,5,Cold,5,3,Medium,Afternoon,Vanilla,Smooth & Relaxing,Espresso,Filter Coffee
+Strong,High,4,Hot,1,2,Medium,Morning,Fruity,Smooth & Relaxing,None,Mocha
+Light,Low,3,Iced,1,4,High,Afternoon,Caramel,Quick & Strong,Espresso,Cold Brew
+Strong,High,4,Hot,4,3,Medium,Night,Caramel,Smooth & Relaxing,Filter Coffee,Cappuccino
+Light,None,1,Hot,1,5,High,Afternoon,Nutty,Sweet & Creamy,None,Cappuccino
+Light,High,5,Hot,1,1,Medium,Morning,Caramel,Refreshing & Cold,Cold Brew,Mocha
+Light,High,3,Hot,5,1,High,Morning,Caramel,Smooth & Relaxing,Americano,Cappuccino
+Light,High,5,Cold,5,5,Medium,Morning,Caramel,Sweet & Creamy,Espresso,Mocha
+Strong,Medium,1,Iced,3,5,Medium,Afternoon,Vanilla,Smooth & Relaxing,Cold Brew,Latte
+Light,High,3,Hot,5,2,High,Morning,Chocolate,Sweet & Creamy,Mocha,Mocha
+Strong,Low,1,Cold,2,4,Medium,Morning,Chocolate,Smooth & Relaxing,None,Filter Coffee
+Medium,High,5,Hot,5,4,High,Evening,Fruity,Sweet & Creamy,Espresso,Mocha
+Medium,High,4,Hot,1,3,High,Evening,Fruity,Quick & Strong,Americano,Mocha
+Strong,None,5,Hot,5,3,Medium,Morning,Nutty,Sweet & Creamy,Cold Brew,Cappuccino
+Strong,High,2,Hot,4,4,Medium,Evening,Vanilla,Refreshing & Cold,Latte,Latte
+Light,Medium,4,Iced,3,2,Medium,Night,Fruity,Quick & Strong,Cappuccino,Cappuccino
+Medium,None,5,Hot,1,4,High,Afternoon,Caramel,Refreshing & Cold,Espresso,Mocha
+Strong,Low,4,Cold,2,3,Medium,Morning,Caramel,Quick & Strong,None,Latte
+Strong,None,5,Cold,3,5,Low,Morning,Vanilla,Refreshing & Cold,Espresso,Latte
+Strong,High,5,Iced,1,5,Medium,Evening,Caramel,Smooth & Relaxing,None,Mocha
+Light,High,3,Hot,3,4,Medium,Morning,Fruity,Smooth & Relaxing,None,Latte
+Medium,Medium,4,Cold,4,4,Low,Morning,Classic,Sweet & Creamy,Cappuccino,Latte
+Light,None,2,Cold,5,5,High,Morning,Classic,Refreshing & Cold,Cold Brew,Filter Coffee
+Light,None,1,Iced,5,5,Low,Morning,Chocolate,Sweet & Creamy,None,Filter Coffee
+Medium,Medium,5,Cold,3,3,Low,Evening,Chocolate,Sweet & Creamy,Mocha,Mocha
+Strong,High,4,Hot,4,5,Medium,Morning,Nutty,Quick & Strong,Mocha,Cappuccino
+Medium,High,4,Hot,3,5,High,Morning,Classic,Quick & Strong,Cappuccino,Latte
+Medium,Medium,3,Iced,4,4,Low,Morning,Fruity,Smooth & Relaxing,None,Latte
+Medium,Medium,4,Hot,5,1,Medium,Morning,Caramel,Quick & Strong,Latte,Americano
+Medium,None,1,Hot,4,2,Medium,Morning,Chocolate,Smooth & Relaxing,None,Filter Coffee
+Light,Medium,2,Hot,1,3,Medium,Evening,Caramel,Refreshing & Cold,Filter Coffee,Latte
+Strong,Low,3,Iced,4,1,High,Morning,Vanilla,Smooth & Relaxing,Latte,Cold Brew
+Light,Medium,4,Hot,4,1,High,Afternoon,Nutty,Sweet & Creamy,Mocha,Mocha
+Strong,None,4,Hot,3,3,Low,Evening,Caramel,Quick & Strong,Espresso,Americano
+Medium,Low,5,Iced,1,1,High,Afternoon,Vanilla,Refreshing & Cold,Americano,Cold Brew
+Strong,None,5,Hot,4,3,Medium,Morning,Vanilla,Sweet & Creamy,Latte,Latte
+Medium,Medium,5,Iced,5,3,Low,Evening,Fruity,Refreshing & Cold,None,Cold Brew
+Medium,Medium,3,Hot,5,5,Medium,Morning,Caramel,Refreshing & Cold,Cold Brew,Mocha
+Strong,High,4,Hot,5,3,High,Morning,Fruity,Quick & Strong,None,Latte
+Strong,None,5,Hot,3,5,Low,Afternoon,Chocolate,Smooth & Relaxing,None,Mocha
+Light,Medium,2,Hot,1,4,Medium,Afternoon,Vanilla,Smooth & Relaxing,Latte,Latte
+Medium,Medium,5,Hot,4,2,High,Evening,Classic,Quick & Strong,Cold Brew,Americano
+Medium,High,4,Iced,4,5,Medium,Morning,Nutty,Sweet & Creamy,Filter Coffee,Cappuccino
+Light,None,3,Hot,5,5,Low,Evening,Vanilla,Smooth & Relaxing,Cold Brew,Filter Coffee
+Medium,High,4,Hot,2,2,High,Evening,Fruity,Refreshing & Cold,Filter Coffee,Mocha
+Light,High,2,Iced,5,4,Medium,Night,Chocolate,Refreshing & Cold,Latte,Mocha
+Medium,Medium,2,Cold,5,2,Medium,Afternoon,Chocolate,Refreshing & Cold,Cappuccino,Cold Brew
+Medium,Medium,3,Iced,3,3,High,Evening,Classic,Refreshing & Cold,None,Cappuccino
+Light,Medium,4,Hot,3,4,High,Morning,Classic,Smooth & Relaxing,Mocha,Latte
+Strong,None,5,Iced,2,4,Medium,Afternoon,Classic,Quick & Strong,Cappuccino,Cappuccino
+Strong,High,2,Iced,2,1,Medium,Evening,Classic,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Medium,Medium,5,Hot,5,3,Medium,Evening,Classic,Quick & Strong,Cappuccino,Americano
+Strong,High,4,Hot,1,5,High,Morning,Vanilla,Quick & Strong,Latte,Latte
+Light,Medium,4,Hot,5,4,Medium,Evening,Nutty,Sweet & Creamy,Latte,Latte
+Strong,High,2,Hot,4,5,High,Afternoon,Classic,Sweet & Creamy,Mocha,Cappuccino
+Light,Medium,5,Cold,5,4,Low,Morning,Fruity,Quick & Strong,Cappuccino,Latte
+Strong,High,1,Hot,1,3,Medium,Morning,Classic,Sweet & Creamy,Latte,Latte
+Medium,Low,3,Hot,3,2,Medium,Evening,Nutty,Quick & Strong,Latte,Cappuccino
+Medium,High,3,Cold,2,4,Medium,Morning,Chocolate,Quick & Strong,None,Mocha
+Medium,Medium,2,Iced,5,3,Low,Night,Caramel,Quick & Strong,None,Cappuccino
+Strong,High,5,Hot,4,5,Low,Morning,Classic,Smooth & Relaxing,Cold Brew,Cappuccino
+Medium,High,3,Cold,1,2,Medium,Morning,Nutty,Smooth & Relaxing,None,Filter Coffee
+Light,Low,2,Hot,4,3,Low,Morning,Chocolate,Smooth & Relaxing,Cappuccino,Filter Coffee
+Strong,Medium,4,Hot,1,5,Low,Evening,Caramel,Quick & Strong,None,Latte
+Light,None,5,Cold,1,3,Low,Evening,Classic,Quick & Strong,Mocha,Mocha
+Medium,High,4,Hot,3,4,High,Afternoon,Fruity,Smooth & Relaxing,Americano,Cappuccino
+Strong,Low,3,Cold,2,4,Medium,Morning,Chocolate,Quick & Strong,None,Mocha
+Medium,Medium,5,Hot,4,4,High,Morning,Vanilla,Sweet & Creamy,Cappuccino,Cappuccino
+Light,Medium,1,Iced,2,2,High,Evening,Chocolate,Smooth & Relaxing,Espresso,Mocha
+Medium,High,1,Cold,3,1,Medium,Morning,Classic,Quick & Strong,Latte,Americano
+Strong,Low,2,Hot,3,3,Medium,Morning,Chocolate,Smooth & Relaxing,Americano,Filter Coffee
+Light,Medium,1,Hot,3,2,Medium,Evening,Fruity,Refreshing & Cold,Mocha,Cold Brew
+Light,Low,4,Hot,3,5,Medium,Afternoon,Chocolate,Quick & Strong,Espresso,Mocha
+Strong,Low,1,Hot,3,2,Low,Morning,Vanilla,Smooth & Relaxing,Americano,Filter Coffee
+Strong,High,2,Hot,2,2,High,Evening,Fruity,Smooth & Relaxing,Americano,Filter Coffee
+Medium,Low,1,Hot,2,5,Medium,Afternoon,Nutty,Refreshing & Cold,Espresso,Mocha
+Medium,High,1,Hot,2,2,Medium,Evening,Nutty,Smooth & Relaxing,Espresso,Cappuccino
+Medium,Medium,4,Hot,5,2,High,Morning,Classic,Quick & Strong,Americano,Americano
+Medium,Medium,5,Hot,3,5,Medium,Night,Fruity,Smooth & Relaxing,None,Mocha
+Strong,None,5,Cold,3,4,Medium,Afternoon,Classic,Sweet & Creamy,None,Mocha
+Medium,Medium,3,Hot,1,3,High,Afternoon,Vanilla,Refreshing & Cold,Mocha,Latte
+Strong,None,4,Cold,4,5,High,Evening,Vanilla,Sweet & Creamy,Mocha,Mocha
+Light,High,2,Hot,5,5,Medium,Evening,Classic,Smooth & Relaxing,Cold Brew,Filter Coffee
+Medium,Low,3,Hot,4,3,Medium,Afternoon,Nutty,Quick & Strong,Espresso,Filter Coffee
+Light,None,4,Hot,1,1,High,Evening,Nutty,Sweet & Creamy,Cold Brew,Filter Coffee
+Strong,Low,2,Hot,3,5,Medium,Afternoon,Caramel,Refreshing & Cold,Cappuccino,Cappuccino
+Medium,High,4,Hot,5,3,High,Evening,Classic,Sweet & Creamy,Latte,Cappuccino
+Medium,Low,2,Cold,3,4,High,Morning,Vanilla,Smooth & Relaxing,Filter Coffee,Cappuccino
+Medium,Low,1,Hot,5,1,Medium,Evening,Caramel,Quick & Strong,Mocha,Espresso
+Strong,Medium,3,Hot,2,1,Medium,Night,Classic,Smooth & Relaxing,Americano,Filter Coffee
+Light,High,4,Hot,1,5,Medium,Afternoon,Fruity,Refreshing & Cold,Americano,Mocha
+Light,Medium,5,Hot,1,4,Medium,Afternoon,Classic,Quick & Strong,None,Mocha
+Strong,High,1,Cold,1,1,Medium,Morning,Nutty,Refreshing & Cold,Mocha,Cold Brew
+Light,Medium,2,Hot,1,4,Low,Evening,Classic,Sweet & Creamy,None,Latte
+Light,High,4,Hot,4,1,Low,Afternoon,Classic,Smooth & Relaxing,None,Filter Coffee
+Medium,High,4,Iced,4,1,Low,Evening,Chocolate,Smooth & Relaxing,None,Cappuccino
+Light,High,1,Cold,5,5,Low,Morning,Chocolate,Sweet & Creamy,None,Latte
+Strong,None,4,Iced,5,1,High,Morning,Vanilla,Sweet & Creamy,Filter Coffee,Espresso
+Strong,Medium,2,Iced,3,4,Medium,Morning,Fruity,Refreshing & Cold,Cappuccino,Latte
+Light,High,5,Hot,5,2,Medium,Morning,Classic,Sweet & Creamy,Mocha,Mocha
+Medium,Medium,3,Iced,3,2,Low,Morning,Classic,Sweet & Creamy,Filter Coffee,Filter Coffee
+Strong,Medium,5,Cold,4,2,Medium,Afternoon,Vanilla,Refreshing & Cold,Filter Coffee,Cold Brew
+Light,High,5,Cold,4,3,High,Evening,Classic,Sweet & Creamy,Americano,Mocha
+Light,Medium,4,Cold,5,2,Medium,Morning,Vanilla,Smooth & Relaxing,Latte,Latte
+Light,None,2,Hot,1,4,Medium,Morning,Classic,Quick & Strong,Cappuccino,Americano
+Light,Medium,5,Hot,3,3,Low,Evening,Nutty,Refreshing & Cold,Cappuccino,Cappuccino
+Light,None,4,Hot,5,4,Medium,Morning,Vanilla,Refreshing & Cold,Espresso,Cappuccino
+Light,Medium,4,Iced,5,4,Medium,Evening,Vanilla,Sweet & Creamy,Americano,Mocha
+Strong,High,2,Hot,1,3,High,Afternoon,Nutty,Quick & Strong,Americano,Latte
+Light,Medium,5,Hot,3,2,Medium,Morning,Fruity,Refreshing & Cold,Mocha,Mocha
+Strong,None,2,Hot,3,3,Medium,Afternoon,Caramel,Smooth & Relaxing,Mocha,Filter Coffee
+Strong,Low,2,Cold,2,2,Medium,Evening,Fruity,Sweet & Creamy,None,Cold Brew
+Strong,None,3,Hot,2,3,Low,Afternoon,Chocolate,Smooth & Relaxing,Espresso,Filter Coffee
+Light,Low,4,Iced,2,1,Low,Night,Caramel,Refreshing & Cold,Americano,Cold Brew
+Strong,Medium,5,Hot,4,1,Low,Evening,Nutty,Sweet & Creamy,Latte,Cappuccino
+Medium,High,1,Cold,2,3,High,Morning,Fruity,Sweet & Creamy,Americano,Cappuccino
+Medium,High,3,Hot,5,3,High,Evening,Vanilla,Smooth & Relaxing,Cappuccino,Cappuccino
+Light,Low,1,Hot,1,3,Medium,Evening,Fruity,Smooth & Relaxing,None,Filter Coffee
+Strong,None,4,Hot,4,3,High,Morning,Fruity,Smooth & Relaxing,Latte,Filter Coffee
+Light,None,2,Hot,1,5,High,Morning,Caramel,Quick & Strong,Mocha,Latte
+Light,Medium,5,Cold,3,1,High,Evening,Chocolate,Sweet & Creamy,None,Mocha
+Medium,Medium,1,Cold,2,5,Medium,Evening,Nutty,Quick & Strong,Cappuccino,Cappuccino
+Strong,None,3,Iced,4,3,Medium,Morning,Fruity,Quick & Strong,Filter Coffee,Filter Coffee
+Light,High,1,Iced,5,5,Medium,Morning,Vanilla,Refreshing & Cold,Americano,Cappuccino
+Light,Medium,3,Hot,3,5,Medium,Morning,Caramel,Refreshing & Cold,Latte,Cappuccino
+Light,High,5,Iced,5,3,Medium,Evening,Vanilla,Refreshing & Cold,Espresso,Mocha
+Strong,None,4,Hot,4,1,High,Morning,Chocolate,Sweet & Creamy,Espresso,Americano
+Light,High,3,Hot,5,4,Medium,Afternoon,Classic,Refreshing & Cold,Mocha,Mocha
+Medium,Medium,1,Cold,2,5,Medium,Afternoon,Classic,Refreshing & Cold,Latte,Cold Brew
+Medium,None,2,Iced,2,3,Medium,Morning,Fruity,Refreshing & Cold,Mocha,Filter Coffee
+Medium,Medium,2,Hot,1,3,Low,Morning,Caramel,Smooth & Relaxing,Filter Coffee,Latte
+Medium,Medium,3,Hot,4,4,High,Evening,Vanilla,Quick & Strong,Americano,Latte
+Light,Medium,5,Hot,4,4,High,Morning,Caramel,Quick & Strong,None,Mocha
+Light,Low,1,Iced,4,4,High,Morning,Fruity,Quick & Strong,Filter Coffee,Americano
+Medium,Medium,3,Hot,2,4,Low,Evening,Chocolate,Sweet & Creamy,Mocha,Mocha
+Light,High,2,Hot,1,5,Low,Afternoon,Nutty,Quick & Strong,Americano,Cappuccino
+Medium,None,1,Hot,4,4,Medium,Morning,Chocolate,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,Medium,3,Iced,3,5,Medium,Night,Vanilla,Sweet & Creamy,None,Latte
+Medium,High,4,Iced,4,1,Low,Morning,Fruity,Smooth & Relaxing,None,Filter Coffee
+Medium,Medium,1,Hot,1,5,High,Morning,Chocolate,Smooth & Relaxing,None,Mocha
+Light,Low,5,Hot,3,4,Low,Evening,Fruity,Refreshing & Cold,Latte,Latte
+Light,High,4,Hot,1,4,Low,Night,Classic,Sweet & Creamy,Cappuccino,Mocha
+Medium,High,4,Hot,1,4,High,Morning,Vanilla,Quick & Strong,None,Latte
+Medium,High,3,Hot,5,5,Medium,Morning,Caramel,Refreshing & Cold,Filter Coffee,Cappuccino
+Medium,High,5,Cold,2,1,Low,Evening,Chocolate,Refreshing & Cold,Cappuccino,Mocha
+Medium,Medium,1,Iced,5,1,Medium,Afternoon,Fruity,Smooth & Relaxing,None,Americano
+Strong,Medium,1,Hot,1,2,High,Morning,Chocolate,Smooth & Relaxing,None,Filter Coffee
+Light,None,3,Hot,1,2,Medium,Afternoon,Caramel,Smooth & Relaxing,Mocha,Filter Coffee
+Medium,Low,2,Cold,3,1,Low,Morning,Caramel,Sweet & Creamy,Cold Brew,Cold Brew
+Medium,Medium,3,Hot,4,5,High,Afternoon,Chocolate,Smooth & Relaxing,None,Cappuccino
+Strong,High,2,Hot,1,1,Medium,Afternoon,Caramel,Sweet & Creamy,Cappuccino,Latte
+Strong,High,2,Hot,3,1,Medium,Morning,Vanilla,Sweet & Creamy,Cappuccino,Cappuccino
+Medium,Medium,1,Hot,5,2,Low,Evening,Nutty,Sweet & Creamy,Cappuccino,Cappuccino
+Strong,Low,1,Hot,4,2,High,Evening,Fruity,Quick & Strong,Cappuccino,Espresso
+Strong,Medium,1,Hot,4,1,Low,Afternoon,Fruity,Quick & Strong,None,Espresso
+Strong,Medium,2,Hot,3,3,Medium,Morning,Chocolate,Smooth & Relaxing,Espresso,Filter Coffee
+Strong,Medium,4,Cold,1,3,High,Morning,Chocolate,Smooth & Relaxing,Cold Brew,Mocha
+Strong,Medium,2,Hot,4,2,High,Afternoon,Vanilla,Quick & Strong,Espresso,Americano
+Light,Medium,5,Hot,1,2,Medium,Evening,Caramel,Sweet & Creamy,Filter Coffee,Mocha
+Light,Medium,5,Hot,5,3,Medium,Evening,Fruity,Smooth & Relaxing,None,Cappuccino
+Light,Low,2,Hot,3,5,Low,Morning,Caramel,Smooth & Relaxing,Filter Coffee,Filter Coffee
+Light,Low,5,Hot,1,2,High,Morning,Nutty,Refreshing & Cold,None,Cold Brew
+Medium,Low,4,Hot,4,2,Low,Evening,Chocolate,Smooth & Relaxing,None,Filter Coffee
+Medium,Low,1,Hot,2,1,High,Evening,Vanilla,Sweet & Creamy,Americano,Filter Coffee
+Medium,High,4,Cold,1,4,Low,Evening,Classic,Smooth & Relaxing,Americano,Latte
+Strong,None,2,Hot,2,5,High,Night,Classic,Refreshing & Cold,Americano,Cold Brew
+Light,Low,3,Cold,1,5,Low,Evening,Classic,Quick & Strong,None,Mocha
+Strong,High,1,Hot,2,1,High,Evening,Fruity,Smooth & Relaxing,Filter Coffee,Cappuccino
+Strong,Medium,2,Hot,3,3,High,Evening,Fruity,Sweet & Creamy,Mocha,Mocha
+Light,None,5,Hot,3,1,Low,Morning,Fruity,Sweet & Creamy,None,Filter Coffee
+Medium,Medium,3,Hot,5,1,Low,Night,Fruity,Quick & Strong,Filter Coffee,Americano
+Strong,High,3,Cold,1,2,High,Morning,Nutty,Refreshing & Cold,Espresso,Cold Brew
+Light,High,4,Cold,2,2,High,Morning,Classic,Quick & Strong,Espresso,Cappuccino
+Strong,Medium,1,Hot,2,3,Low,Evening,Chocolate,Smooth & Relaxing,Latte,Mocha
+Light,High,5,Hot,2,5,Medium,Night,Fruity,Quick & Strong,Espresso,Latte
+Medium,None,5,Hot,1,3,High,Afternoon,Vanilla,Sweet & Creamy,Cappuccino,Mocha
+Light,Low,1,Hot,5,2,High,Afternoon,Fruity,Quick & Strong,Espresso,Espresso
+Light,High,1,Iced,2,1,Low,Evening,Caramel,Refreshing & Cold,None,Cold Brew
+Medium,None,3,Iced,3,3,High,Morning,Chocolate,Refreshing & Cold,Cappuccino,Cold Brew
+Light,High,1,Hot,1,4,High,Morning,Chocolate,Quick & Strong,Latte,Latte
+Medium,None,4,Hot,1,2,Medium,Morning,Vanilla,Sweet & Creamy,Espresso,Filter Coffee
+Strong,Medium,4,Cold,1,4,Medium,Morning,Chocolate,Sweet & Creamy,Cappuccino,Mocha
+Medium,Medium,1,Iced,4,1,Medium,Evening,Vanilla,Smooth & Relaxing,Espresso,Latte
+Strong,Medium,5,Iced,2,5,High,Evening,Classic,Sweet & Creamy,None,Mocha
+Medium,None,2,Hot,2,3,High,Evening,Fruity,Refreshing & Cold,Cold Brew,Cold Brew
+Strong,Low,4,Hot,3,3,Low,Morning,Classic,Smooth & Relaxing,Cappuccino,Cappuccino
+Strong,Low,5,Cold,1,1,High,Evening,Vanilla,Refreshing & Cold,Mocha,Cold Brew
+Strong,Medium,2,Iced,4,1,Low,Evening,Nutty,Quick & Strong,Filter Coffee,Espresso
+Strong,Low,2,Hot,4,5,High,Morning,Fruity,Smooth & Relaxing,None,Cappuccino
+Medium,Medium,1,Iced,5,2,Low,Night,Vanilla,Refreshing & Cold,Cold Brew,Cold Brew
+Medium,Medium,5,Iced,1,3,Medium,Evening,Chocolate,Sweet & Creamy,Latte,Mocha
+Light,Low,5,Iced,5,1,Medium,Night,Nutty,Refreshing & Cold,None,Cold Brew
+Medium,Medium,3,Hot,3,3,Medium,Afternoon,Fruity,Smooth & Relaxing,Latte,Latte
+Strong,Medium,2,Hot,2,5,Low,Evening,Chocolate,Quick & Strong,None,Mocha
+Light,High,5,Iced,4,1,Medium,Morning,Classic,Refreshing & Cold,None,Cold Brew
+Strong,Low,4,Iced,4,4,Medium,Evening,Nutty,Quick & Strong,None,Cappuccino
+Light,Medium,2,Hot,4,3,High,Morning,Vanilla,Quick & Strong,Americano,Americano
+Strong,Medium,2,Hot,1,5,Medium,Afternoon,Caramel,Smooth & Relaxing,Latte,Latte
+Medium,High,4,Hot,3,3,Medium,Morning,Caramel,Refreshing & Cold,Latte,Latte
+Light,None,3,Iced,4,1,High,Evening,Nutty,Sweet & Creamy,Latte,Cold Brew
+Strong,Medium,3,Iced,1,3,High,Evening,Nutty,Sweet & Creamy,Latte,Latte
+Light,High,3,Cold,1,5,Medium,Evening,Classic,Refreshing & Cold,Cappuccino,Cappuccino
+Light,Medium,1,Hot,1,1,Medium,Evening,Vanilla,Refreshing & Cold,Filter Coffee,Filter Coffee
+Light,High,4,Hot,2,5,High,Afternoon,Caramel,Smooth & Relaxing,Latte,Latte
+Strong,None,1,Hot,1,1,High,Afternoon,Nutty,Refreshing & Cold,Americano,Americano
+Strong,High,2,Hot,4,4,Medium,Morning,Fruity,Quick & Strong,Americano,Cappuccino
+Light,None,5,Hot,2,1,High,Afternoon,Classic,Sweet & Creamy,Mocha,Filter Coffee
+Strong,High,1,Cold,5,1,Low,Afternoon,Classic,Quick & Strong,Latte,Espresso
+Light,Medium,1,Hot,5,4,Medium,Morning,Caramel,Smooth & Relaxing,None,Cappuccino
+Strong,High,4,Iced,4,2,Low,Afternoon,Caramel,Sweet & Creamy,Filter Coffee,Mocha
+Strong,High,1,Iced,1,5,High,Morning,Classic,Sweet & Creamy,Cold Brew,Latte

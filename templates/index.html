@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Coffee Preference Predictor</title>
+<meta name="description" content="Answer a few questions and let a trained machine learning model find your perfect coffee match." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+
+<div class="grain"></div>
+
+<!-- ============================= NAV ============================= -->
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand" data-nav="landing" tabindex="0" role="button" aria-label="Go to home">
+      <span class="brand-mark" aria-hidden="true">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+          <path d="M4 9H17C17 9 19 9 19 11.5C19 14 17 14 17 14H4V9Z" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>
+          <path d="M4 9V16C4 18 6 19.5 9 19.5H12C15 19.5 17 18 17 16V14" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/>
+          <path d="M8 3.5C8 3.5 7 5 8 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+          <path d="M12 3.5C12 3.5 11 5 12 6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+        </svg>
+      </span>
+      <span class="brand-name">Cupwise</span>
+    </div>
+    <span class="header-tag">ML Coffee Predictor</span>
+  </div>
+</header>
+
+<main id="app">
+
+  <!-- ============================= LANDING ============================= -->
+  <section class="screen screen-landing is-active" id="screen-landing" aria-hidden="false">
+    <div class="landing-inner">
+      <p class="eyebrow">Trained on 2,500+ preference profiles</p>
+      <h1 class="hero-title">
+        Find the coffee<br />that matches <em>you.</em>
+      </h1>
+      <p class="hero-sub">
+        Answer a few simple questions. A trained machine learning model
+        will find your perfect coffee match &mdash; not a quiz score, a real prediction.
+      </p>
+      <button class="btn btn-primary btn-lg" id="btn-start" type="button">
+        Find My Coffee
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M3 8H13M13 8L9 4M13 8L9 12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+
+      <div class="landing-visual" aria-hidden="true">
+        <svg viewBox="0 0 220 220" width="170" height="170" class="bean-ring">
+          <g class="bean-ring-g" fill="none" stroke="#C08552" stroke-width="1.4">
+            <g transform="translate(110,110)">
+              <g transform="rotate(0) translate(0,-88)"><ellipse rx="9" ry="14" transform="rotate(0)"/><path d="M0,-14 Q0,0 0,14"/></g>
+              <g transform="rotate(45) translate(0,-88)"><ellipse rx="9" ry="14"/><path d="M0,-14 Q0,0 0,14"/></g>
+              <g transform="rotate(90) translate(0,-88)"><ellipse rx="9" ry="14"/><path d="M0,-14 Q0,0 0,14"/></g>
+              <g transform="rotate(135) translate(0,-88)"><ellipse rx="9" ry="14"/><path d="M0,-14 Q0,0 0,14"/></g>
+              <g transform="rotate(180) translate(0,-88)"><ellipse rx="9" ry="14"/><path d="M0,-14 Q0,0 0,14"/></g>
+              <g transform="rotate(225) translate(0,-88)"><ellipse rx="9" ry="14"/><path d="M0,-14 Q0,0 0,14"/></g>
+              <g transform="rotate(270) translate(0,-88)"><ellipse rx="9" ry="14"/><path d="M0,-14 Q0,0 0,14"/></g>
+              <g transform="rotate(315) translate(0,-88)"><ellipse rx="9" ry="14"/><path d="M0,-14 Q0,0 0,14"/></g>
+            </g>
+          </g>
+          <circle cx="110" cy="110" r="34" fill="#3B2A20"/>
+          <path d="M96 110 Q110 96 124 110 Q110 124 96 110Z" fill="#FAF6EF" opacity="0.9"/>
+        </svg>
+      </div>
+
+      <div class="landing-stats">
+        <div class="stat">
+          <span class="stat-num">7</span>
+          <span class="stat-label">Coffee styles</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">9</span>
+          <span class="stat-label">Quick questions</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">&lt;1s</span>
+          <span class="stat-label">Prediction time</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================= QUIZ ============================= -->
+  <section class="screen screen-quiz" id="screen-quiz" aria-hidden="true">
+    <div class="quiz-inner">
+
+      <div class="quiz-progress-row">
+        <button class="btn-icon" id="btn-back" type="button" aria-label="Previous question">
+          <svg width="18" height="18" viewBox="0 0 16 16" fill="none"><path d="M13 8H3M3 8L7 4M3 8L7 12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <div class="progress-track" role="progressbar" aria-valuemin="0" aria-valuemax="100" id="progress-bar-wrap">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+        <span class="progress-label" id="progress-label">Question 1 of 9</span>
+      </div>
+
+      <div class="quiz-card" id="quiz-card">
+        <!-- injected by JS -->
+      </div>
+
+      <div class="quiz-footer">
+        <button class="btn btn-primary btn-lg" id="btn-continue" type="button" disabled>
+          Continue
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M3 8H13M13 8L9 4M13 8L9 12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================= LOADING ============================= -->
+  <section class="screen screen-loading" id="screen-loading" aria-hidden="true">
+    <div class="loading-inner">
+      <div class="loading-cup" aria-hidden="true">
+        <svg width="64" height="64" viewBox="0 0 24 24" fill="none">
+          <path d="M4 9H17C17 9 19 9 19 11.5C19 14 17 14 17 14H4V9Z" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>
+          <path d="M4 9V16C4 18 6 19.5 9 19.5H12C15 19.5 17 18 17 16V14" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>
+          <path class="steam s1" d="M8 3.5C8 3.5 7 5 8 6" stroke="currentColor" stroke-width="1.1" stroke-linecap="round"/>
+          <path class="steam s2" d="M12 3.5C12 3.5 11 5 12 6" stroke="currentColor" stroke-width="1.1" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <p class="loading-text" id="loading-text">Analyzing your coffee preferences&hellip;</p>
+    </div>
+  </section>
+
+  <!-- ============================= RESULT ============================= -->
+  <section class="screen screen-result" id="screen-result" aria-hidden="true">
+    <div class="result-inner">
+      <p class="eyebrow">Your coffee personality says&hellip;</p>
+      <h1 class="result-name" id="result-name">Latte</h1>
+      <div class="result-match" id="result-match">
+        <span class="match-percent" id="result-confidence">87%</span> Match
+      </div>
+      <p class="result-tagline" id="result-tagline">Smooth • Creamy • Balanced</p>
+
+      <p class="result-desc" id="result-desc">
+        Based on your preferences, you seem to enjoy coffee that's smooth, creamy and easy to drink.
+      </p>
+
+      <div class="result-section">
+        <h2>Why this matches you</h2>
+        <ul class="reasons-list" id="reasons-list"></ul>
+      </div>
+
+      <div class="result-section personality-card">
+        <p class="personality-eyebrow">Your coffee personality</p>
+        <h3 id="personality-name">The Smooth Explorer</h3>
+        <p id="personality-desc">You enjoy coffee that balances flavor and comfort.</p>
+      </div>
+
+      <div class="result-actions">
+        <button class="btn btn-secondary" id="btn-share" type="button">Share Result</button>
+        <button class="btn btn-primary" id="btn-retry" type="button">Try Again</button>
+      </div>
+
+      <p class="result-disclaimer">
+        This reflects your strongest predicted match from the model &mdash; not a certainty.
+      </p>
+    </div>
+  </section>
+
+  <!-- ============================= ERROR ============================= -->
+  <section class="screen screen-error" id="screen-error" aria-hidden="true">
+    <div class="error-inner">
+      <p class="eyebrow">Something went wrong</p>
+      <h1 class="error-title" id="error-title">We couldn't find your coffee match.</h1>
+      <p class="error-desc" id="error-desc">Please check your connection and try again.</p>
+      <button class="btn btn-primary" id="btn-error-retry" type="button">Try Again</button>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>Built with a trained ML pipeline &middot; scikit-learn &middot; Flask</p>
+</footer>
+
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
